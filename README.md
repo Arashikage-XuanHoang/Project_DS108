@@ -139,9 +139,4 @@ The following regression models were implemented:
 * Nguyen Gia Tuan Anh
 * Tran Quoc Khanh
 
----
 
-## 📄 Reference
-
-See full paper for details:
-**“Prediction of Football Transfer Values for the 2025/26 Season”**
