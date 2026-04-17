@@ -1,0 +1,569 @@
+,CLB,Name,Main_position,Height,Foot,Contract,Market_Value
+0,AC Milan,Mike Maignan,Goalkeeper,"1,91m",right,"Jun 30, 2026",€25.00m
+1,AC Milan,Marco Sportiello,Goalkeeper,"1,92m",right,"Jun 30, 2027",€1.50m
+2,AC Milan,Lorenzo Torriani,Goalkeeper,"1,97m",right,"Jun 30, 2027",€500k
+3,AC Milan,Fikayo Tomori,Centre-Back,"1,85m",right,"Jun 30, 2027",€20.00m
+4,AC Milan,Malick Thiaw,Centre-Back,"1,94m",right,"Jun 30, 2027",€20.00m
+5,AC Milan,Strahinja Pavlović,Centre-Back,"1,94m",left,"Jun 30, 2028",€18.00m
+6,AC Milan,Matteo Gabbia,Centre-Back,"1,85m",right,"Jun 30, 2029",€14.00m
+7,AC Milan,Theo Hernández,Left-Back,"1,84m",left,"Jun 30, 2026",€40.00m
+8,AC Milan,Álex Jiménez,Right-Back,"1,77m",right,"Jun 30, 2028",€10.00m
+9,AC Milan,Emerson Royal,Right-Back,"1,83m",right,"Jun 30, 2028",€10.00m
+10,AC Milan,Kyle Walker,Right-Back,"1,83m",right,"Jun 30, 2025",€6.00m
+11,AC Milan,Filippo Terracciano,Right-Back,"1,86m",right,"Jun 30, 2028",€4.50m
+12,AC Milan,Alessandro Florenzi,Right-Back,"1,73m",right,"Jun 30, 2025",€1.50m
+13,AC Milan,Youssouf Fofana,Defensive Midfield,"1,85m",right,"Jun 30, 2028",€30.00m
+14,AC Milan,Tijjani Reijnders,Central Midfield,"1,85m",right,"Jun 30, 2030",€50.00m
+15,AC Milan,Yunus Musah,Central Midfield,"1,78m",right,"Jun 30, 2028",€22.00m
+16,AC Milan,Ruben Loftus-Cheek,Central Midfield,"1,91m",right,"Jun 30, 2027",€16.00m
+17,AC Milan,Warren Bondo,Central Midfield,"1,77m",right,"Jun 30, 2029",€10.00m
+18,AC Milan,Rafael Leão,Left Winger,"1,88m",right,"Jun 30, 2028",€75.00m
+19,AC Milan,Riccardo Sottil,Left Winger,"1,80m",right,"Jun 30, 2025",€6.00m
+20,AC Milan,Christian Pulisic,Right Winger,"1,77m",right,"Jun 30, 2027",€50.00m
+21,AC Milan,Samuel Chukwueze,Right Winger,"1,72m",left,"Jun 30, 2028",€14.00m
+22,AC Milan,João Félix,Second Striker,"1,81m",right,"Jun 30, 2025",€25.00m
+23,AC Milan,Santiago Gimenez,Centre-Forward,"1,83m",left,"Jun 30, 2029",€37.00m
+24,AC Milan,Tammy Abraham,Centre-Forward,"1,94m",right,"Jun 30, 2025",€15.00m
+25,AC Milan,Luka Jović,Centre-Forward,"1,82m",right,"Jun 30, 2025",€2.50m
+26,AC Monza,Stefano Turati,Goalkeeper,"1,88m",right,"Jun 30, 2025",€7.50m
+27,AC Monza,Semuel Pizzignacco,Goalkeeper,"1,88m",right,"Jun 30, 2027",€800k
+28,AC Monza,Andrea Mazza,Goalkeeper,"1,90m",right,"Jun 30, 2027",€75k
+29,AC Monza,Tomás Palacios,Centre-Back,"1,96m",left,"Jun 30, 2025",€5.00m
+30,AC Monza,Andrea Carboni,Centre-Back,"1,87m",left,"Jun 30, 2027",€3.40m
+31,AC Monza,Armando Izzo,Centre-Back,"1,83m",right,"Jun 30, 2026",€2.50m
+32,AC Monza,Stefan Leković,Centre-Back,"1,92m",right,"Jun 30, 2025",€1.80m
+33,AC Monza,Luca Caldirola,Centre-Back,"1,86m",left,"Jun 30, 2025",€800k
+34,AC Monza,Danilo D'Ambrosio,Centre-Back,"1,80m",right,"Jun 30, 2025",€800k
+35,AC Monza,Arvid Brorsson,Centre-Back,"1,93m",right,"Jun 30, 2027",€600k
+36,AC Monza,Samuele Birindelli,Right-Back,"1,76m",right,"Jun 30, 2026",€3.00m
+37,AC Monza,Pedro Pereira,Right-Back,"1,85m",right,"Jun 30, 2025",€1.80m
+38,AC Monza,Leonardo Colombo,Defensive Midfield,"1,75m",right,"Jun 30, 2027",€250k
+39,AC Monza,Matteo Pessina,Central Midfield,"1,87m",left,"Jun 30, 2027",€9.00m
+40,AC Monza,Kacper Urbanski,Central Midfield,"1,83m",right,"Jun 30, 2025",€7.00m
+41,AC Monza,Alessandro Bianco,Central Midfield,"1,73m",right,"Jun 30, 2025",€5.00m
+42,AC Monza,Gaetano Castrovilli,Central Midfield,"1,87m",right,"Jun 30, 2025",€3.50m
+43,AC Monza,Kevin Zeroli,Central Midfield,"1,87m",right,"Jun 30, 2025",€3.50m
+44,AC Monza,Roberto Gagliardini,Central Midfield,"1,88m",right,"Jun 30, 2025",€2.00m
+45,AC Monza,Stefano Sensi,Central Midfield,"1,68m",right,"Jun 30, 2025",€1.50m
+46,AC Monza,Jean-Daniel Akpa Akpro,Central Midfield,"1,80m",right,"Jun 30, 2025",€500k
+47,AC Monza,Patrick Ciurria,Right Midfield,"1,78m",both,"Jun 30, 2026",€3.00m
+48,AC Monza,Georgios Kyriakopoulos,Left Midfield,"1,86m",left,"Jun 30, 2026",€3.50m
+49,AC Monza,Samuele Vignato,Attacking Midfield,"1,72m",right,"Jun 30, 2025",€3.50m
+50,AC Monza,Keita Baldé,Left Winger,"1,78m",both,"Jun 30, 2025",€1.00m
+51,AC Monza,Omari Forson,Right Winger,"1,79m",left,"Jun 30, 2028",€2.00m
+52,AC Monza,Kevin Martins,Right Winger,"1,80m",right,"Jun 30, 2027",€1.50m
+53,AC Monza,Dany Mota,Second Striker,"1,80m",right,"Jun 30, 2027",€5.00m
+54,AC Monza,Gianluca Caprari,Second Striker,"1,71m",right,"Jun 30, 2026",€1.50m
+55,AC Monza,Silvere Ganvoula,Centre-Forward,"1,91m",right,"Jun 30, 2026",€2.00m
+56,AC Monza,Andrea Petagna,Centre-Forward,"1,90m",left,"Jun 30, 2027",€1.40m
+57,ACF Fiorentina,David de Gea,Goalkeeper,"1,92m",right,"Jun 30, 2025",€5.00m
+58,ACF Fiorentina,Tommaso Martinelli,Goalkeeper,"1,94m",right,"Jun 30, 2029",€1.80m
+59,ACF Fiorentina,Pietro Terracciano,Goalkeeper,"1,93m",right,"Jun 30, 2026",€1.50m
+60,ACF Fiorentina,Pietro Comuzzo,Centre-Back,"1,85m",right,"Jun 30, 2028",€25.00m
+61,ACF Fiorentina,Luca Ranieri,Centre-Back,"1,87m",left,"Jun 30, 2028",€12.00m
+62,ACF Fiorentina,Marin Pongračić,Centre-Back,"1,93m",right,"Jun 30, 2029",€10.00m
+63,ACF Fiorentina,Matías Moreno,Centre-Back,"1,93m",right,"Jun 30, 2029",€4.00m
+64,ACF Fiorentina,Pablo Marí,Centre-Back,"1,93m",left,"Jun 30, 2027",€3.50m
+65,ACF Fiorentina,Robin Gosens,Left-Back,"1,83m",left,"Jun 30, 2025",€8.00m
+66,ACF Fiorentina,Fabiano Parisi,Left-Back,"1,78m",left,"Jun 30, 2028",€5.00m
+67,ACF Fiorentina,Dodô,Right-Back,"1,66m",right,"Jun 30, 2027",€22.00m
+68,ACF Fiorentina,Yacine Adli,Defensive Midfield,"1,86m",right,"Jun 30, 2025",€15.00m
+69,ACF Fiorentina,Rolando Mandragora,Defensive Midfield,"1,83m",left,"Jun 30, 2026",€10.00m
+70,ACF Fiorentina,Danilo Cataldi,Defensive Midfield,"1,80m",right,"Jun 30, 2025",€4.00m
+71,ACF Fiorentina,Nicolò Fagioli,Central Midfield,"1,78m",right,"Jun 30, 2025",€18.00m
+72,ACF Fiorentina,Amir Richardson,Central Midfield,"1,97m",left,"Jun 30, 2029",€9.00m
+73,ACF Fiorentina,Michael Folorunsho,Central Midfield,"1,90m",right,"Jun 30, 2025",€7.00m
+74,ACF Fiorentina,Edoardo Bove,Central Midfield,"1,81m",right,"Jun 30, 2025",€5.00m
+75,ACF Fiorentina,Cher Ndour,Central Midfield,"1,90m",both,"Jun 30, 2029",€5.00m
+76,ACF Fiorentina,Lucas Beltrán,Attacking Midfield,"1,76m",right,"Jun 30, 2028",€18.00m
+77,ACF Fiorentina,Nicolò Zaniolo,Attacking Midfield,"1,90m",left,"Jun 30, 2025",€16.00m
+78,ACF Fiorentina,Andrea Colpani,Attacking Midfield,"1,84m",left,"Jun 30, 2025",€12.00m
+79,ACF Fiorentina,Maat Daniel Caprini,Left Winger,"1,80m",right,"Jun 30, 2027",€2.00m
+80,ACF Fiorentina,Albert Gudmundsson,Second Striker,"1,77m",right,"Jun 30, 2025",€23.00m
+81,ACF Fiorentina,Moise Kean,Centre-Forward,"1,83m",right,"Jun 30, 2029",€40.00m
+82,AS Roma,Mile Svilar,Goalkeeper,"1,89m",right,"Jun 30, 2027",€17.00m
+83,AS Roma,Pierluigi Gollini,Goalkeeper,"1,94m",right,"Jun 30, 2027",€1.00m
+84,AS Roma,Renato Marin,Goalkeeper,"1,93m",right,"Jun 30, 2025",€500k
+85,AS Roma,Evan Ndicka,Centre-Back,"1,92m",left,"Jun 30, 2028",€25.00m
+86,AS Roma,Gianluca Mancini,Centre-Back,"1,90m",right,"Jun 30, 2027",€18.00m
+87,AS Roma,Victor Nelsson,Centre-Back,"1,85m",right,"Jun 30, 2025",€14.00m
+88,AS Roma,Mats Hummels,Centre-Back,"1,91m",right,"Jun 30, 2025",€2.50m
+89,AS Roma,Angeliño,Left-Back,"1,71m",left,"Jun 30, 2028",€15.00m
+90,AS Roma,Anass Salah-Eddine,Left-Back,"1,81m",left,"Jun 30, 2028",€8.00m
+91,AS Roma,Devyne Rensch,Right-Back,"1,81m",right,"Jun 30, 2029",€12.00m
+92,AS Roma,Zeki Çelik,Right-Back,"1,80m",right,"Jun 30, 2026",€5.00m
+93,AS Roma,Saud Abdulhamid,Right-Back,"1,75m",right,"Jun 30, 2028",€4.00m
+94,AS Roma,Buba Sangaré,Right-Back,"1,83m",right,"Jun 30, 2027",€1.00m
+95,AS Roma,Lucas Gourna-Douath,Defensive Midfield,"1,85m",right,"Jun 30, 2025",€8.00m
+96,AS Roma,Bryan Cristante,Defensive Midfield,"1,86m",right,"Jun 30, 2027",€7.00m
+97,AS Roma,Leandro Paredes,Defensive Midfield,"1,80m",right,"Jun 30, 2026",€5.00m
+98,AS Roma,Manu Koné,Central Midfield,"1,85m",right,"Jun 30, 2029",€35.00m
+99,AS Roma,Niccolò Pisilli,Central Midfield,"1,80m",right,"Jun 30, 2029",€12.00m
+100,AS Roma,Lorenzo Pellegrini,Attacking Midfield,"1,86m",right,"Jun 30, 2026",€14.00m
+101,AS Roma,Tommaso Baldanzi,Attacking Midfield,"1,70m",left,"Jun 30, 2028",€14.00m
+102,AS Roma,Stephan El Shaarawy,Left Winger,"1,78m",right,"Jun 30, 2025",€5.00m
+103,AS Roma,Matías Soulé,Right Winger,"1,82m",left,"Jun 30, 2029",€22.00m
+104,AS Roma,Alexis Saelemaekers,Right Winger,"1,80m",right,"Jun 30, 2025",€17.00m
+105,AS Roma,Paulo Dybala,Second Striker,"1,77m",left,"Jun 30, 2026",€8.00m
+106,AS Roma,Artem Dovbyk,Centre-Forward,"1,89m",left,"Jun 30, 2029",€30.00m
+107,AS Roma,Eldor Shomurodov,Centre-Forward,"1,90m",right,"Jun 30, 2026",€4.00m
+108,Atalanta BC,Marco Carnesecchi,Goalkeeper,"1,91m",right,"Jun 30, 2028",€25.00m
+109,Atalanta BC,Rui Patrício,Goalkeeper,"1,90m",left,"Jun 30, 2025",€1.00m
+110,Atalanta BC,Francesco Rossi,Goalkeeper,"1,93m",right,"Jun 30, 2025",€100k
+111,Atalanta BC,Giorgio Scalvini,Centre-Back,"1,94m",right,"Jun 30, 2028",€35.00m
+112,Atalanta BC,Isak Hien,Centre-Back,"1,91m",right,"Jun 30, 2028",€30.00m
+113,Atalanta BC,Odilon Kossounou,Centre-Back,"1,91m",right,"Jun 30, 2025",€25.00m
+114,Atalanta BC,Stefan Posch,Centre-Back,"1,90m",right,"Jun 30, 2025",€10.00m
+115,Atalanta BC,Sead Kolasinac,Centre-Back,"1,83m",left,"Jun 30, 2026",€10.00m
+116,Atalanta BC,Berat Djimsiti,Centre-Back,"1,90m",right,"Jun 30, 2026",€8.00m
+117,Atalanta BC,Rafael Tolói,Centre-Back,"1,85m",right,"Jun 30, 2025",€1.50m
+118,Atalanta BC,Marten de Roon,Defensive Midfield,"1,85m",right,"Jun 30, 2026",€7.00m
+119,Atalanta BC,Ibrahim Sulemana,Defensive Midfield,"1,80m",right,"Jun 30, 2028",€6.00m
+120,Atalanta BC,Éderson,Central Midfield,"1,83m",right,"Jun 30, 2027",€50.00m
+121,Atalanta BC,Lazar Samardžić,Central Midfield,"1,84m",left,"Jun 30, 2025",€20.00m
+122,Atalanta BC,Mario Pasalic,Central Midfield,"1,88m",right,"Jun 30, 2025",€13.00m
+123,Atalanta BC,Marco Brescianini,Central Midfield,"1,88m",left,"Jun 30, 2025",€8.00m
+124,Atalanta BC,Raoul Bellanova,Right Midfield,"1,88m",right,"Jun 30, 2029",€22.00m
+125,Atalanta BC,Davide Zappacosta,Right Midfield,"1,82m",right,"Jun 30, 2025",€6.00m
+126,Atalanta BC,Marco Palestra,Right Midfield,"1,86m",right,-,€3.00m
+127,Atalanta BC,Juan Cuadrado,Right Midfield,"1,76m",right,"Jun 30, 2025",€1.00m
+128,Atalanta BC,Matteo Ruggeri,Left Midfield,"1,87m",left,"Jun 30, 2028",€20.00m
+129,Atalanta BC,Charles De Ketelaere,Attacking Midfield,"1,92m",left,"Jun 30, 2028",€38.00m
+130,Atalanta BC,Daniel Maldini,Attacking Midfield,"1,88m",right,"Jun 30, 2029",€10.00m
+131,Atalanta BC,Ademola Lookman,Second Striker,"1,74m",right,"Jun 30, 2027",€60.00m
+132,Atalanta BC,Mateo Retegui,Centre-Forward,"1,86m",right,"Jun 30, 2028",€45.00m
+133,Atalanta BC,Gianluca Scamacca,Centre-Forward,"1,95m",right,"Jun 30, 2027",€24.00m
+134,Bologna FC 1909,Lukasz Skorupski,Goalkeeper,"1,88m",right,"Jun 30, 2026",€2.50m
+135,Bologna FC 1909,Federico Ravaglia,Goalkeeper,"1,96m",right,"Jun 30, 2028",€1.00m
+136,Bologna FC 1909,Nicola Bagnolini,Goalkeeper,"1,94m",right,"Jun 30, 2027",€200k
+137,Bologna FC 1909,Sam Beukema,Centre-Back,"1,88m",right,"Jun 30, 2027",€25.00m
+138,Bologna FC 1909,Jhon Lucumí,Centre-Back,"1,87m",left,"Jun 30, 2026",€18.00m
+139,Bologna FC 1909,Nicolò Casale,Centre-Back,"1,91m",right,"Jun 30, 2025",€7.00m
+140,Bologna FC 1909,Martin Erlić,Centre-Back,"1,93m",right,"Jun 30, 2029",€5.00m
+141,Bologna FC 1909,Juan Miranda,Left-Back,"1,85m",left,"Jun 30, 2027",€11.00m
+142,Bologna FC 1909,Charalampos Lykogiannis,Left-Back,"1,91m",left,"Jun 30, 2025",€1.50m
+143,Bologna FC 1909,Emil Holm,Right-Back,"1,91m",right,"Jun 30, 2028",€8.00m
+144,Bologna FC 1909,Davide Calabria,Right-Back,"1,76m",right,"Jun 30, 2025",€7.50m
+145,Bologna FC 1909,Lorenzo De Silvestri,Right-Back,"1,87m",right,"Jun 30, 2025",€400k
+146,Bologna FC 1909,Nikola Moro,Defensive Midfield,"1,84m",right,"Jun 30, 2027",€5.00m
+147,Bologna FC 1909,Oussama El Azzouzi,Defensive Midfield,"1,89m",right,"Jun 30, 2027",€2.00m
+148,Bologna FC 1909,Lewis Ferguson,Central Midfield,"1,81m",right,"Jun 30, 2028",€24.00m
+149,Bologna FC 1909,Tommaso Pobega,Central Midfield,"1,88m",left,"Jun 30, 2025",€10.00m
+150,Bologna FC 1909,Michel Aebischer,Central Midfield,"1,83m",right,"Jun 30, 2027",€10.00m
+151,Bologna FC 1909,Remo Freuler,Central Midfield,"1,80m",right,"Jun 30, 2026",€6.50m
+152,Bologna FC 1909,Andri Fannar Baldursson,Central Midfield,"1,87m",right,"Jun 30, 2025",€900k
+153,Bologna FC 1909,Giovanni Fabbian,Attacking Midfield,"1,86m",right,"Jun 30, 2028",€13.00m
+154,Bologna FC 1909,Jens Odgaard,Attacking Midfield,"1,88m",left,"Jun 30, 2027",€12.00m
+155,Bologna FC 1909,Benja Domínguez,Left Winger,"1,72m",right,"Jun 30, 2029",€15.00m
+156,Bologna FC 1909,Nicolò Cambiaghi,Left Winger,"1,73m",right,"Jun 30, 2029",€7.00m
+157,Bologna FC 1909,Estanis Pedrola,Left Winger,"1,85m",right,"Jun 30, 2025",€1.80m
+158,Bologna FC 1909,Dan Ndoye,Right Winger,"1,84m",right,"Jun 30, 2027",€25.00m
+159,Bologna FC 1909,Riccardo Orsolini,Right Winger,"1,83m",left,"Jun 30, 2027",€20.00m
+160,Bologna FC 1909,Santiago Castro,Centre-Forward,"1,79m",right,"Jun 30, 2028",€35.00m
+161,Bologna FC 1909,Thijs Dallinga,Centre-Forward,"1,90m",right,"Jun 30, 2028",€12.00m
+162,Cagliari Calcio,Elia Caprile,Goalkeeper,"1,91m",right,"Jun 30, 2025",€8.00m
+163,Cagliari Calcio,Alen Sherri,Goalkeeper,"1,97m",right,"Jun 30, 2027",€1.00m
+164,Cagliari Calcio,Giuseppe Ciocci,Goalkeeper,"1,93m",right,"Jun 30, 2027",€100k
+165,Cagliari Calcio,Sebastiano Luperto,Centre-Back,"1,91m",left,"Jun 30, 2028",€3.50m
+166,Cagliari Calcio,Yerry Mina,Centre-Back,"1,95m",right,"Jun 30, 2025",€3.00m
+167,Cagliari Calcio,Adam Obert,Centre-Back,"1,88m",left,"Jun 30, 2029",€3.00m
+168,Cagliari Calcio,José Luis Palomino,Centre-Back,"1,88m",left,"Jun 30, 2025",€700k
+169,Cagliari Calcio,Tommaso Augello,Left-Back,"1,80m",left,"Jun 30, 2025",€1.80m
+170,Cagliari Calcio,Gabriele Zappa,Right-Back,"1,87m",right,"Jun 30, 2030",€4.00m
+171,Cagliari Calcio,Matteo Prati,Defensive Midfield,"1,85m",right,"Jun 30, 2028",€7.00m
+172,Cagliari Calcio,Antoine Makoumbou,Defensive Midfield,"1,87m",right,"Jun 30, 2026",€4.00m
+173,Cagliari Calcio,Răzvan Marin,Defensive Midfield,"1,78m",right,"Jun 30, 2026",€3.50m
+174,Cagliari Calcio,Michel Adopo,Central Midfield,"1,87m",right,"Jun 30, 2025",€3.00m
+175,Cagliari Calcio,Alessandro Deiola,Central Midfield,"1,90m",right,"Jun 30, 2029",€1.60m
+176,Cagliari Calcio,Nadir Zortea,Right Midfield,"1,87m",right,"Jun 30, 2028",€4.50m
+177,Cagliari Calcio,Jakub Jankto,Left Midfield,"1,84m",left,"Jun 30, 2025",€1.00m
+178,Cagliari Calcio,Gianluca Gaetano,Attacking Midfield,"1,83m",right,"Jun 30, 2025",€4.00m
+179,Cagliari Calcio,Nicolas Viola,Attacking Midfield,"1,80m",left,"Jun 30, 2025",€1.00m
+180,Cagliari Calcio,Florinel Coman,Left Winger,"1,82m",right,"Jun 30, 2025",€6.00m
+181,Cagliari Calcio,Mattia Felici,Left Winger,"1,82m",right,"Jun 30, 2027",€3.00m
+182,Cagliari Calcio,Roberto Piccoli,Centre-Forward,"1,90m",right,"Jun 30, 2025",€8.00m
+183,Cagliari Calcio,Zito Luvumbo,Centre-Forward,"1,71m",left,"Jun 30, 2028",€5.50m
+184,Cagliari Calcio,Kingstone Mutandwa,Centre-Forward,"1,80m",right,"Jun 30, 2028",€1.00m
+185,Cagliari Calcio,Leonardo Pavoletti,Centre-Forward,"1,88m",right,"Jun 30, 2026",€700k
+186,Como 1907,Jean Butez,Goalkeeper,"1,89m",right,"Jun 30, 2028",€3.00m
+187,Como 1907,Pepe Reina,Goalkeeper,"1,88m",right,"Jun 30, 2025",€600k
+188,Como 1907,Mauro Vigorito,Goalkeeper,"1,87m",right,-,€150k
+189,Como 1907,Pierre Bolchini,Goalkeeper,"2,00m",left,-,€50k
+190,Como 1907,Alberto Dossena,Centre-Back,"1,95m",right,"Jun 30, 2028",€7.00m
+191,Como 1907,Marc Oliver Kempf,Centre-Back,"1,86m",left,"Jun 30, 2027",€2.50m
+192,Como 1907,Edoardo Goldaniga,Centre-Back,"1,93m",right,"Jun 30, 2026",€2.00m
+193,Como 1907,Fellipe Jack,Centre-Back,"1,87m",left,"Jun 30, 2025",€1.40m
+194,Como 1907,Álex Valle,Left-Back,"1,78m",left,"Jun 30, 2025",€4.50m
+195,Como 1907,Alberto Moreno,Left-Back,"1,71m",left,"Jun 30, 2025",€1.80m
+196,Como 1907,Ignace Van der Brempt,Right-Back,"1,87m",right,"Jun 30, 2025",€4.00m
+197,Como 1907,Mërgim Vojvoda,Right-Back,"1,87m",right,"Jun 30, 2028",€3.00m
+198,Como 1907,Ivan Smolcic,Right-Back,"1,81m",right,"Jun 30, 2029",€2.00m
+199,Como 1907,Máximo Perrone,Defensive Midfield,"1,77m",left,"Jun 30, 2025",€9.00m
+200,Como 1907,Yannik Engelhardt,Defensive Midfield,"1,84m",right,"Jun 30, 2027",€7.00m
+201,Como 1907,Maxence Caqueret,Central Midfield,"1,74m",right,"Jun 30, 2029",€15.00m
+202,Como 1907,Lucas Da Cunha,Central Midfield,"1,74m",left,"Jun 30, 2029",€7.00m
+203,Como 1907,Sergi Roberto,Central Midfield,"1,78m",right,"Jun 30, 2026",€2.00m
+204,Como 1907,Matthias Braunöder,Central Midfield,"1,74m",right,"Jun 30, 2027",€1.60m
+205,Como 1907,Giuseppe Mazzaglia,Central Midfield,"1,80m",right,"Jun 30, 2027",€250k
+206,Como 1907,Alessio Iovine,Right Midfield,"1,74m",right,-,€400k
+207,Como 1907,Nico Paz,Attacking Midfield,"1,86m",left,"Jun 30, 2028",€35.00m
+208,Como 1907,Dele Alli,Attacking Midfield,"1,88m",right,"Jun 30, 2026",€3.50m
+209,Como 1907,Naj Razi,Attacking Midfield,"1,75m",both,"Jun 30, 2026",€300k
+210,Como 1907,Alieu Fadera,Left Winger,"1,82m",right,"Jun 30, 2028",€5.00m
+211,Como 1907,Assane Diao,Right Winger,"1,85m",right,"Jun 30, 2029",€25.00m
+212,Como 1907,Jonathan Ikoné,Right Winger,"1,75m",left,"Jun 30, 2025",€8.00m
+213,Como 1907,Gabriel Strefezza,Right Winger,"1,68m",right,"Jun 30, 2027",€6.00m
+214,Como 1907,Anastasios Douvikas,Centre-Forward,"1,86m",right,"Jun 30, 2029",€8.00m
+215,Como 1907,Patrick Cutrone,Centre-Forward,"1,83m",right,"Jun 30, 2028",€7.00m
+216,Como 1907,Iván Azón,Centre-Forward,"1,82m",right,"Jun 30, 2029",€3.00m
+217,Como 1907,Alessandro Gabrielloni,Centre-Forward,"1,78m",right,"Jun 30, 2027",€1.00m
+218,FC Empoli,Devis Vásquez,Goalkeeper,"1,95m",right,"Jun 30, 2025",€2.00m
+219,FC Empoli,Jacopo Seghetti,Goalkeeper,"1,89m",right,-,€1.00m
+220,FC Empoli,Marco Silvestri,Goalkeeper,"1,91m",right,"Jun 30, 2025",€500k
+221,FC Empoli,Federico Brancolini,Goalkeeper,"1,92m",right,"Jun 30, 2027",€200k
+222,FC Empoli,Saba Goglichidze,Centre-Back,"1,92m",right,"Jun 30, 2027",€8.00m
+223,FC Empoli,Mattia Viti,Centre-Back,"1,90m",left,"Jun 30, 2025",€6.50m
+224,FC Empoli,Ardian Ismajli,Centre-Back,"1,87m",right,"Jun 30, 2025",€6.00m
+225,FC Empoli,Luca Marianucci,Centre-Back,"1,86m",right,-,€5.00m
+226,FC Empoli,Saba Sazonov,Centre-Back,"1,94m",right,"Jun 30, 2025",€2.50m
+227,FC Empoli,Liberato Cacace,Left-Back,"1,83m",left,"Jun 30, 2026",€3.00m
+228,FC Empoli,Giuseppe Pezzella,Left-Back,"1,87m",left,"Jun 30, 2026",€2.50m
+229,FC Empoli,Tyronne Ebuehi,Right-Back,"1,87m",right,"Jun 30, 2025",€1.50m
+230,FC Empoli,Junior Sambia,Right-Back,"1,85m",right,"Jun 30, 2025",€1.40m
+231,FC Empoli,Mattia De Sciglio,Right-Back,"1,83m",right,"Jun 30, 2025",€1.00m
+232,FC Empoli,Alberto Grassi,Defensive Midfield,"1,83m",right,"Jun 30, 2026",€2.00m
+233,FC Empoli,Jacopo Fazzini,Central Midfield,"1,78m",right,"Jun 30, 2027",€8.00m
+234,FC Empoli,Youssef Maleh,Central Midfield,"1,79m",left,"Jun 30, 2025",€4.00m
+235,FC Empoli,Szymon Żurkowski,Central Midfield,"1,85m",right,"Jun 30, 2025",€2.50m
+236,FC Empoli,Liam Henderson,Central Midfield,"1,83m",right,"Jun 30, 2025",€1.80m
+237,FC Empoli,Nicolas Haas,Central Midfield,"1,78m",right,"Jun 30, 2025",€700k
+238,FC Empoli,Emmanuel Gyasi,Right Midfield,"1,81m",right,"Jun 30, 2025",€2.00m
+239,FC Empoli,Tino Anjorin,Attacking Midfield,"1,86m",right,"Jun 3, 2027",€6.00m
+240,FC Empoli,Viktor Kovalenko,Attacking Midfield,"1,82m",right,"Jun 30, 2025",€1.00m
+241,FC Empoli,Ola Solbakken,Right Winger,"1,89m",left,"Jun 30, 2025",€2.50m
+242,FC Empoli,Sebastiano Esposito,Second Striker,"1,83m",right,"Jun 30, 2025",€10.00m
+243,FC Empoli,Christian Kouamé,Centre-Forward,"1,85m",right,"Jun 30, 2025",€6.00m
+244,FC Empoli,Lorenzo Colombo,Centre-Forward,"1,83m",left,"Jun 30, 2025",€6.00m
+245,FC Empoli,Pietro Pellegri,Centre-Forward,"1,89m",right,"Jun 30, 2025",€2.50m
+246,Genoa CFC,Nicola Leali,Goalkeeper,"1,93m",right,"Jun 30, 2026",€1.50m
+247,Genoa CFC,Benjamin Siegrist,Goalkeeper,"1,96m",right,"Jun 30, 2025",€650k
+248,Genoa CFC,Daniele Sommariva,Goalkeeper,"1,85m",right,"Jun 30, 2025",€100k
+249,Genoa CFC,Koni De Winter,Centre-Back,"1,91m",right,"Jun 30, 2028",€18.00m
+250,Genoa CFC,Johan Vásquez,Centre-Back,"1,85m",left,"Jun 30, 2027",€12.00m
+251,Genoa CFC,Alan Matturro,Centre-Back,"1,89m",left,"Jun 30, 2026",€8.00m
+252,Genoa CFC,Mattia Bani,Centre-Back,"1,88m",right,"Jun 30, 2026",€2.00m
+253,Genoa CFC,Sebastian Otoa,Centre-Back,"1,98m",right,"Jun 30, 2028",€2.00m
+254,Genoa CFC,Aarón Martín,Left-Back,"1,78m",left,"Jun 30, 2026",€6.50m
+255,Genoa CFC,Honest Ahanor,Left-Back,"1,84m",left,"Jun 30, 2027",€3.00m
+256,Genoa CFC,Alessandro Zanoli,Right-Back,"1,88m",right,"Jun 30, 2025",€6.00m
+257,Genoa CFC,Brooke Norton-Cuffy,Right-Back,"1,81m",right,"Jun 30, 2029",€3.50m
+258,Genoa CFC,Stefano Sabelli,Right-Back,"1,76m",right,"Jun 30, 2026",€1.50m
+259,Genoa CFC,Jean Onana,Defensive Midfield,"1,89m",right,"Jun 30, 2025",€3.00m
+260,Genoa CFC,Lior Kassa,Defensive Midfield,"1,85m",right,"Jun 30, 2025",€1.50m
+261,Genoa CFC,Milan Badelj,Defensive Midfield,"1,86m",right,"Jun 30, 2025",€800k
+262,Genoa CFC,Morten Frendrup,Central Midfield,"1,78m",right,"Jun 30, 2028",€20.00m
+263,Genoa CFC,Fabio Miretti,Central Midfield,"1,80m",right,"Jun 30, 2025",€14.00m
+264,Genoa CFC,Patrizio Masini,Central Midfield,"1,82m",right,"Jun 30, 2028",€3.50m
+265,Genoa CFC,Morten Thorsby,Central Midfield,"1,88m",right,"Jun 30, 2026",€3.00m
+266,Genoa CFC,Ruslan Malinovskyi,Attacking Midfield,"1,81m",left,"Jun 30, 2027",€3.50m
+267,Genoa CFC,Hugo Cuenca,Attacking Midfield,"1,83m",left,-,€300k
+268,Genoa CFC,Maxwel Cornet,Left Winger,"1,79m",left,"Jun 30, 2025",€8.00m
+269,Genoa CFC,Junior Messias,Right Winger,"1,74m",left,"Jun 30, 2025",€2.00m
+270,Genoa CFC,Andrea Pinamonti,Centre-Forward,"1,85m",right,"Jun 30, 2025",€16.00m
+271,Genoa CFC,Vitinha,Centre-Forward,"1,78m",right,"Jun 30, 2028",€10.00m
+272,Genoa CFC,Jeff Ekhator,Centre-Forward,"1,88m",right,"Jun 30, 2029",€5.00m
+273,Genoa CFC,Caleb Ekuban,Centre-Forward,"1,82m",right,"Jun 30, 2026",€1.50m
+274,Genoa CFC,Mario Balotelli,Centre-Forward,"1,89m",right,"Jun 30, 2025",€500k
+275,Hellas Verona,Lorenzo Montipò,Goalkeeper,"1,91m",right,"Jun 30, 2026",€3.00m
+276,Hellas Verona,Federico Magro,Goalkeeper,"1,90m",right,-,€300k
+277,Hellas Verona,Simone Perilli,Goalkeeper,"1,96m",right,-,€200k
+278,Hellas Verona,Alessandro Berardi,Goalkeeper,"1,85m",right,"Jun 30, 2025",€50k
+279,Hellas Verona,Diego Coppola,Centre-Back,"1,93m",right,"Jun 30, 2027",€7.50m
+280,Hellas Verona,Nicolás Valentini,Centre-Back,"1,87m",left,"Jun 30, 2025",€4.50m
+281,Hellas Verona,Flavius Daniliuc,Centre-Back,"1,88m",right,"Jun 30, 2025",€4.00m
+282,Hellas Verona,Daniele Ghilardi,Centre-Back,"1,89m",right,-,€4.00m
+283,Hellas Verona,Paweł Dawidowicz,Centre-Back,"1,89m",both,"Jun 30, 2025",€2.50m
+284,Hellas Verona,Tobias Slotsager,Centre-Back,"1,90m",right,-,€2.00m
+285,Hellas Verona,Luan Patrick,Centre-Back,"1,90m",right,"Jun 30, 2026",€1.30m
+286,Hellas Verona,Yllan Okou,Centre-Back,"1,89m",left,"Jun 30, 2025",€900k
+287,Hellas Verona,Domagoj Bradarić,Left-Back,"1,78m",left,"Jun 30, 2025",€4.00m
+288,Hellas Verona,Martin Frese,Left-Back,"1,79m",left,"Jun 30, 2027",€2.00m
+289,Hellas Verona,Jackson Tchatchoua,Right-Back,"1,80m",right,"Jun 30, 2027",€8.00m
+290,Hellas Verona,Davide Faraoni,Right-Back,"1,80m",right,"Jun 30, 2025",€1.00m
+291,Hellas Verona,Daniel Oyegoke,Right-Back,"1,88m",right,"Jun 30, 2028",€400k
+292,Hellas Verona,Cheikh Niasse,Defensive Midfield,"1,88m",right,"Jun 30, 2025",€2.00m
+293,Hellas Verona,Suat Serdar,Central Midfield,"1,84m",right,"Jun 30, 2028",€5.00m
+294,Hellas Verona,Ondrej Duda,Central Midfield,"1,80m",right,"Jun 30, 2025",€4.00m
+295,Hellas Verona,Antoine Bernede,Central Midfield,"1,78m",right,"Jun 30, 2025",€3.50m
+296,Hellas Verona,Abdou Harroui,Central Midfield,"1,82m",both,"Jun 30, 2028",€2.00m
+297,Hellas Verona,Darko Lazović,Left Midfield,"1,81m",right,"Jun 30, 2025",€1.00m
+298,Hellas Verona,Tomas Suslov,Attacking Midfield,"1,74m",left,"Jun 30, 2027",€6.00m
+299,Hellas Verona,Grigoris Kastanos,Attacking Midfield,"1,79m",left,"Jun 30, 2025",€1.80m
+300,Hellas Verona,Alphadjo Cissè,Attacking Midfield,"1,81m",,-,€1.40m
+301,Hellas Verona,Casper Tengstedt,Centre-Forward,"1,84m",right,"Jun 30, 2025",€7.00m
+302,Hellas Verona,Amin Sarr,Centre-Forward,"1,88m",right,"Jun 30, 2025",€4.00m
+303,Hellas Verona,Daniel Mosquera,Centre-Forward,"1,80m",right,"Jun 30, 2028",€1.50m
+304,Hellas Verona,Dailon Rocha Livramento,Centre-Forward,"1,85m",right,"Jun 30, 2028",€800k
+305,Hellas Verona,Mathis Lambourde,Centre-Forward,"1,79m",left,"Jun 30, 2029",€500k
+306,Hellas Verona,Junior Ajayi,Centre-Forward,"1,85m",right,-,€300k
+307,Inter Milan,Josep Martínez,Goalkeeper,"1,91m",right,"Jun 30, 2029",€12.00m
+308,Inter Milan,Yann Sommer,Goalkeeper,"1,83m",right,"Jun 30, 2026",€4.00m
+309,Inter Milan,Raffaele Di Gennaro,Goalkeeper,"1,88m",right,"Jun 30, 2025",€300k
+310,Inter Milan,Alessandro Bastoni,Centre-Back,"1,90m",left,"Jun 30, 2028",€80.00m
+311,Inter Milan,Benjamin Pavard,Centre-Back,"1,86m",right,"Jun 30, 2028",€30.00m
+312,Inter Milan,Yann Bisseck,Centre-Back,"1,96m",right,"Jun 30, 2029",€30.00m
+313,Inter Milan,Stefan de Vrij,Centre-Back,"1,89m",right,"Jun 30, 2025",€7.00m
+314,Inter Milan,Francesco Acerbi,Centre-Back,"1,92m",left,"Jun 30, 2026",€3.00m
+315,Inter Milan,Federico Dimarco,Left-Back,"1,75m",left,"Jun 30, 2027",€60.00m
+316,Inter Milan,Carlos Augusto,Left-Back,"1,84m",left,"Jun 30, 2028",€22.00m
+317,Inter Milan,Denzel Dumfries,Right-Back,"1,88m",right,"Jun 30, 2028",€28.00m
+318,Inter Milan,Matteo Darmian,Right-Back,"1,83m",right,"Jun 30, 2026",€4.00m
+319,Inter Milan,Hakan Çalhanoğlu,Defensive Midfield,"1,78m",right,"Jun 30, 2027",€35.00m
+320,Inter Milan,Kristjan Asllani,Defensive Midfield,"1,75m",right,"Jun 30, 2028",€15.00m
+321,Inter Milan,Nicolò Barella,Central Midfield,"1,75m",right,"Jun 30, 2029",€80.00m
+322,Inter Milan,Davide Frattesi,Central Midfield,"1,78m",right,"Jun 30, 2028",€32.00m
+323,Inter Milan,Piotr Zieliński,Central Midfield,"1,80m",both,"Jun 30, 2028",€14.00m
+324,Inter Milan,Henrikh Mkhitaryan,Central Midfield,"1,77m",both,"Jun 30, 2026",€4.00m
+325,Inter Milan,Nicola Zalewski,Left Midfield,"1,75m",right,"Jun 30, 2025",€10.00m
+326,Inter Milan,Valentín Carboni,Attacking Midfield,"1,85m",left,"Jun 30, 2029",€12.00m
+327,Inter Milan,Joaquín Correa,Second Striker,"1,88m",right,"Jun 30, 2025",€3.00m
+328,Inter Milan,Lautaro Martínez,Centre-Forward,"1,74m",right,"Jun 30, 2029",€95.00m
+329,Inter Milan,Marcus Thuram,Centre-Forward,"1,92m",right,"Jun 30, 2028",€75.00m
+330,Inter Milan,Mehdi Taremi,Centre-Forward,"1,85m",right,"Jun 30, 2027",€5.00m
+331,Inter Milan,Marko Arnautovic,Centre-Forward,"1,90m",both,"Jun 30, 2025",€3.50m
+332,Juventus FC,Michele Di Gregorio,Goalkeeper,"1,87m",right,"Jun 30, 2025",€18.00m
+333,Juventus FC,Mattia Perin,Goalkeeper,"1,88m",right,"Jun 30, 2027",€3.00m
+334,Juventus FC,Carlo Pinsoglio,Goalkeeper,"1,94m",left,"Jun 30, 2026",€200k
+335,Juventus FC,Bremer,Centre-Back,"1,88m",right,"Jun 30, 2029",€50.00m
+336,Juventus FC,Pierre Kalulu,Centre-Back,"1,82m",right,"Jun 30, 2025",€26.00m
+337,Juventus FC,Federico Gatti,Centre-Back,"1,90m",right,"Jun 30, 2028",€25.00m
+338,Juventus FC,Lloyd Kelly,Centre-Back,"1,89m",left,"Jun 30, 2025",€18.00m
+339,Juventus FC,Renato Veiga,Centre-Back,"1,90m",left,"Jun 30, 2025",€18.00m
+340,Juventus FC,Andrea Cambiaso,Left-Back,"1,82m",both,"Jun 30, 2029",€40.00m
+341,Juventus FC,Juan Cabal,Left-Back,"1,86m",left,"Jun 30, 2029",€9.00m
+342,Juventus FC,Jonas Rouhi,Left-Back,"1,83m",left,"Jun 30, 2028",€2.00m
+343,Juventus FC,Nicolò Savona,Right-Back,"1,92m",right,"Jun 30, 2029",€14.00m
+344,Juventus FC,Alberto Costa,Right-Back,"1,86m",right,"Jun 30, 2029",€10.00m
+345,Juventus FC,Manuel Locatelli,Defensive Midfield,"1,85m",right,"Jun 30, 2028",€28.00m
+346,Juventus FC,Khéphren Thuram,Central Midfield,"1,92m",right,"Jun 30, 2029",€40.00m
+347,Juventus FC,Douglas Luiz,Central Midfield,"1,77m",right,"Jun 30, 2029",€38.00m
+348,Juventus FC,Weston McKennie,Central Midfield,"1,85m",right,"Jun 30, 2026",€24.00m
+349,Juventus FC,Teun Koopmeiners,Attacking Midfield,"1,84m",left,"Jun 30, 2029",€40.00m
+350,Juventus FC,Vasilije Adžić,Attacking Midfield,"1,85m",right,"Jun 30, 2029",€3.00m
+351,Juventus FC,Kenan Yıldız,Left Winger,"1,87m",both,"Jun 30, 2029",€45.00m
+352,Juventus FC,Samuel Mbangula,Left Winger,"1,79m",right,"Jun 30, 2028",€14.00m
+353,Juventus FC,Francisco Conceição,Right Winger,"1,70m",left,"Jun 30, 2025",€36.00m
+354,Juventus FC,Nico González,Right Winger,"1,80m",left,"Jun 30, 2025",€28.00m
+355,Juventus FC,Timothy Weah,Right Winger,"1,83m",right,"Jun 30, 2028",€17.00m
+356,Juventus FC,Dušan Vlahović,Centre-Forward,"1,90m",left,"Jun 30, 2026",€45.00m
+357,Juventus FC,Randal Kolo Muani,Centre-Forward,"1,87m",right,"Jun 30, 2025",€30.00m
+358,Juventus FC,Arkadiusz Milik,Centre-Forward,"1,86m",left,"Jun 30, 2027",€2.00m
+359,Parma Calcio 1913,Zion Suzuki,Goalkeeper,"1,90m",right,"Jun 30, 2029",€14.00m
+360,Parma Calcio 1913,Edoardo Corvi,Goalkeeper,"1,87m",right,"Jun 30, 2027",€350k
+361,Parma Calcio 1913,Richard Marcone,Goalkeeper,"1,84m",right,"Jun 30, 2025",€250k
+362,Parma Calcio 1913,Alessandro Circati,Centre-Back,"1,90m",right,"Jun 30, 2029",€8.50m
+363,Parma Calcio 1913,Giovanni Leoni,Centre-Back,"1,96m",right,"Jun 30, 2029",€6.00m
+364,Parma Calcio 1913,Botond Balogh,Centre-Back,"1,89m",right,"Jun 30, 2027",€2.50m
+365,Parma Calcio 1913,Alessandro Vogliacco,Centre-Back,"1,86m",right,"Jun 30, 2025",€2.00m
+366,Parma Calcio 1913,Yordan Osorio,Centre-Back,"1,89m",right,"Jun 30, 2025",€1.70m
+367,Parma Calcio 1913,Lautaro Valenti,Centre-Back,"1,88m",left,"Jun 30, 2027",€1.50m
+368,Parma Calcio 1913,Mathias Løvik,Left-Back,"1,83m",left,"Jun 30, 2029",€5.00m
+369,Parma Calcio 1913,Emanuele Valeri,Left-Back,"1,80m",left,"Jun 30, 2027",€3.00m
+370,Parma Calcio 1913,Enrico Delprato,Right-Back,"1,83m",right,"Jun 30, 2027",€6.00m
+371,Parma Calcio 1913,Antoine Hainaut,Right-Back,"1,87m",right,"Jun 30, 2026",€1.00m
+372,Parma Calcio 1913,Mandela Keita,Defensive Midfield,"1,80m",right,"Jun 30, 2029",€11.00m
+373,Parma Calcio 1913,Nahuel Estévez,Defensive Midfield,"1,81m",right,"Jun 30, 2026",€3.50m
+374,Parma Calcio 1913,Adrián Bernabé,Central Midfield,"1,74m",left,"Jun 30, 2027",€15.00m
+375,Parma Calcio 1913,Simon Sohm,Central Midfield,"1,88m",right,"Jun 30, 2027",€5.00m
+376,Parma Calcio 1913,Hernani,Central Midfield,"1,88m",both,"Jun 30, 2026",€2.00m
+377,Parma Calcio 1913,Drissa Camara,Central Midfield,"1,79m",right,"Jun 30, 2025",€1.80m
+378,Parma Calcio 1913,Jacob Ondrejka,Left Winger,"1,79m",right,"Jun 30, 2029",€7.00m
+379,Parma Calcio 1913,Adrian Benedyczak,Left Winger,"1,91m",both,"Jun 30, 2028",€4.50m
+380,Parma Calcio 1913,Valentin Mihăilă,Left Winger,"1,80m",right,"Jun 30, 2027",€3.00m
+381,Parma Calcio 1913,Dennis Man,Right Winger,"1,83m",left,"Jun 30, 2027",€12.50m
+382,Parma Calcio 1913,Matteo Cancellieri,Right Winger,"1,85m",left,"Jun 30, 2025",€5.00m
+383,Parma Calcio 1913,Pontus Almqvist,Right Winger,"1,83m",left,"Jun 30, 2027",€2.50m
+384,Parma Calcio 1913,Anas Haj Mohamed,Right Winger,"1,74m",right,"Jun 30, 2026",€1.80m
+385,Parma Calcio 1913,Mateusz Kowalski,Second Striker,"1,97m",right,"Jun 30, 2028",€300k
+386,Parma Calcio 1913,Ange-Yoan Bonny,Centre-Forward,"1,89m",right,"Jun 30, 2027",€20.00m
+387,Parma Calcio 1913,Mateo Pellegrino,Centre-Forward,"1,92m",left,"Jun 30, 2029",€3.50m
+388,Parma Calcio 1913,Gabriel Charpentier,Centre-Forward,"1,88m",right,"Jun 30, 2026",€1.60m
+389,Parma Calcio 1913,Milan Djuric,Centre-Forward,"1,99m",right,"Jun 30, 2026",€1.50m
+390,SS Lazio,Ivan Provedel,Goalkeeper,"1,94m",right,"Jun 30, 2027",€7.00m
+391,SS Lazio,Christos Mandas,Goalkeeper,"1,89m",right,"Jun 30, 2029",€5.00m
+392,SS Lazio,Davide Renzetti,Goalkeeper,"1,94m",right,"Jun 30, 2027",€100k
+393,SS Lazio,Alessio Furlanetto,Goalkeeper,"1,91m",,"Jun 30, 2028",€50k
+394,SS Lazio,Mario Gila,Centre-Back,"1,85m",right,"Jun 30, 2027",€28.00m
+395,SS Lazio,Alessio Romagnoli,Centre-Back,"1,85m",left,"Jun 30, 2027",€12.00m
+396,SS Lazio,Samuel Gigot,Centre-Back,"1,87m",right,"Jun 30, 2025",€4.00m
+397,SS Lazio,Patric,Centre-Back,"1,84m",right,"Jun 30, 2027",€4.00m
+398,SS Lazio,Oliver Provstgaard,Centre-Back,"1,94m",left,"Jun 30, 2029",€3.50m
+399,SS Lazio,Filipe Bordon,Centre-Back,"1,93m",right,"Jun 30, 2028",€500k
+400,SS Lazio,Nuno Tavares,Left-Back,"1,83m",left,"Jun 30, 2025",€25.00m
+401,SS Lazio,Luca Pellegrini,Left-Back,"1,78m",left,"Jun 30, 2025",€2.50m
+402,SS Lazio,Adam Marusic,Right-Back,"1,85m",right,"Jun 30, 2026",€4.00m
+403,SS Lazio,Elseid Hysaj,Right-Back,"1,82m",right,"Jun 30, 2026",€2.00m
+404,SS Lazio,Nicolò Rovella,Defensive Midfield,"1,79m",right,"Jun 30, 2025",€28.00m
+405,SS Lazio,Reda Belahyane,Defensive Midfield,"1,73m",right,"Jun 30, 2029",€10.00m
+406,SS Lazio,Mattéo Guendouzi,Central Midfield,"1,85m",right,"Jun 30, 2028",€32.00m
+407,SS Lazio,Matías Vecino,Central Midfield,"1,87m",right,"Jun 30, 2025",€2.50m
+408,SS Lazio,Toma Bašić,Central Midfield,"1,90m",left,"Jun 30, 2026",€1.00m
+409,SS Lazio,Manuel Lazzari,Right Midfield,"1,74m",right,"Jun 30, 2027",€4.00m
+410,SS Lazio,Fisayo Dele-Bashiru,Attacking Midfield,"1,86m",right,"Jun 30, 2025",€8.00m
+411,SS Lazio,Arijon Ibrahimovic,Attacking Midfield,"1,76m",right,"Jun 30, 2025",€4.00m
+412,SS Lazio,Cristo Muñoz,Attacking Midfield,-,right,"Jun 30, 2027",€250k
+413,SS Lazio,André Anderson,Attacking Midfield,"1,80m",right,"Jun 30, 2025",€200k
+414,SS Lazio,Mattia Zaccagni,Left Winger,"1,77m",right,"Jun 30, 2029",€20.00m
+415,SS Lazio,Gustav Isaksen,Right Winger,"1,81m",left,"Jun 30, 2028",€20.00m
+416,SS Lazio,Tijjani Noslin,Right Winger,"1,78m",right,"Jun 30, 2029",€12.00m
+417,SS Lazio,Loum Tchaouna,Right Winger,"1,80m",left,"Jun 30, 2029",€10.00m
+418,SS Lazio,Pedro,Right Winger,"1,67m",both,"Jun 30, 2025",€1.00m
+419,SS Lazio,Taty Castellanos,Centre-Forward,"1,78m",right,"Jun 30, 2028",€25.00m
+420,SS Lazio,Boulaye Dia,Centre-Forward,"1,80m",right,"Jun 30, 2026",€15.00m
+421,SSC Napoli,Alex Meret,Goalkeeper,"1,90m",left,"Jun 30, 2025",€12.00m
+422,SSC Napoli,Simone Scuffet,Goalkeeper,"1,93m",right,"Jun 30, 2025",€2.00m
+423,SSC Napoli,Nikita Contini,Goalkeeper,"1,90m",right,"Jun 30, 2025",€400k
+424,SSC Napoli,Claudio Turi,Goalkeeper,-,right,-,€150k
+425,SSC Napoli,Alessandro Buongiorno,Centre-Back,"1,90m",left,"Jun 30, 2029",€45.00m
+426,SSC Napoli,Amir Rrahmani,Centre-Back,"1,92m",right,"Jun 30, 2027",€12.00m
+427,SSC Napoli,Rafa Marín,Centre-Back,"1,91m",right,"Jun 30, 2029",€7.00m
+428,SSC Napoli,Juan Jesus,Centre-Back,"1,85m",left,"Jun 30, 2025",€1.50m
+429,SSC Napoli,Mathías Olivera,Left-Back,"1,85m",left,"Jun 30, 2030",€18.00m
+430,SSC Napoli,Leonardo Spinazzola,Left-Back,"1,86m",right,"Jun 30, 2026",€3.50m
+431,SSC Napoli,Giovanni Di Lorenzo,Right-Back,"1,83m",right,"Jun 30, 2028",€15.00m
+432,SSC Napoli,Pasquale Mazzocchi,Right-Back,"1,83m",right,"Jun 30, 2027",€3.00m
+433,SSC Napoli,Stanislav Lobotka,Defensive Midfield,"1,68m",right,"Jun 30, 2027",€25.00m
+434,SSC Napoli,Billy Gilmour,Defensive Midfield,"1,70m",right,"Jun 30, 2029",€16.00m
+435,SSC Napoli,Scott McTominay,Central Midfield,"1,91m",right,"Jun 30, 2028",€40.00m
+436,SSC Napoli,Frank Anguissa,Central Midfield,"1,84m",right,"Jun 30, 2025",€27.00m
+437,SSC Napoli,Philip Billing,Central Midfield,"1,93m",left,"Jun 30, 2025",€12.00m
+438,SSC Napoli,Luis Hasa,Central Midfield,"1,72m",right,"Jun 30, 2029",€1.00m
+439,SSC Napoli,David Neres,Left Winger,"1,76m",left,"Jun 30, 2028",€30.00m
+440,SSC Napoli,Noah Okafor,Left Winger,"1,85m",right,"Jun 30, 2025",€15.00m
+441,SSC Napoli,Matteo Politano,Right Winger,"1,71m",left,"Jun 30, 2027",€10.00m
+442,SSC Napoli,Cyril Ngonge,Right Winger,"1,80m",left,"Jun 30, 2028",€10.00m
+443,SSC Napoli,Giacomo Raspadori,Second Striker,"1,72m",right,"Jun 30, 2028",€20.00m
+444,SSC Napoli,Romelu Lukaku,Centre-Forward,"1,91m",left,"Jun 30, 2027",€22.00m
+445,SSC Napoli,Giovanni Simeone,Centre-Forward,"1,80m",right,"Jun 30, 2026",€8.00m
+446,Torino FC,Vanja Milinković-Savić,Goalkeeper,"2,02m",right,"Jun 30, 2026",€12.00m
+447,Torino FC,Alberto Paleari,Goalkeeper,"1,93m",right,"Jun 30, 2026",€500k
+448,Torino FC,Antonio Donnarumma,Goalkeeper,"1,92m",right,"Jun 30, 2026",€300k
+449,Torino FC,Saúl Coco,Centre-Back,"1,87m",right,"Jun 30, 2028",€12.00m
+450,Torino FC,Perr Schuurs,Centre-Back,"1,91m",right,"Jun 30, 2026",€10.00m
+451,Torino FC,Sebastian Walukiewicz,Centre-Back,"1,88m",right,"Jun 30, 2027",€5.00m
+452,Torino FC,Guillermo Maripán,Centre-Back,"1,93m",right,"Jun 30, 2026",€4.00m
+453,Torino FC,Adam Masina,Centre-Back,"1,91m",left,"Jun 30, 2026",€1.50m
+454,Torino FC,Cristiano Biraghi,Left-Back,"1,85m",left,"Jun 30, 2025",€2.00m
+455,Torino FC,Samuele Ricci,Defensive Midfield,"1,81m",right,"Jun 30, 2028",€30.00m
+456,Torino FC,Adrien Tamèze,Defensive Midfield,"1,82m",right,"Jun 30, 2026",€3.50m
+457,Torino FC,Ivan Ilić,Central Midfield,"1,86m",left,"Jun 30, 2027",€18.00m
+458,Torino FC,Cesare Casadei,Central Midfield,"1,92m",right,"Jun 30, 2029",€15.00m
+459,Torino FC,Gvidas Gineitis,Central Midfield,"1,91m",left,"Jun 30, 2028",€5.00m
+460,Torino FC,Emirhan İlkhan,Central Midfield,"1,75m",right,"Jun 30, 2026",€2.50m
+461,Torino FC,Karol Linetty,Central Midfield,"1,75m",right,"Jun 30, 2025",€2.50m
+462,Torino FC,Marcus Pedersen,Right Midfield,"1,84m",right,"Jun 30, 2025",€3.50m
+463,Torino FC,Ali Dembélé,Right Midfield,"1,89m",right,"Jun 30, 2026",€800k
+464,Torino FC,Borna Sosa,Left Midfield,"1,87m",left,"Jun 30, 2025",€6.00m
+465,Torino FC,Valentino Lazaro,Left Midfield,"1,81m",right,"Jun 30, 2025",€4.50m
+466,Torino FC,Eljif Elmas,Attacking Midfield,"1,84m",right,"Jun 30, 2025",€14.00m
+467,Torino FC,Nikola Vlašić,Attacking Midfield,"1,79m",right,"Jun 30, 2027",€8.00m
+468,Torino FC,Alieu Njie,Left Winger,"1,85m",right,"Jun 30, 2027",€2.50m
+469,Torino FC,Yann Karamoh,Left Winger,"1,84m",right,"Jun 30, 2025",€2.20m
+470,Torino FC,Zanos Savva,Right Winger,"1,91m",left,"Jun 30, 2026",€1.00m
+471,Torino FC,Ché Adams,Centre-Forward,"1,79m",right,"Jun 30, 2027",€15.00m
+472,Torino FC,Antonio Sanabria,Centre-Forward,"1,80m",right,"Jun 30, 2026",€4.00m
+473,Torino FC,Duván Zapata,Centre-Forward,"1,88m",right,"Jun 30, 2027",€4.00m
+474,Torino FC,Amine Salama,Centre-Forward,"1,92m",right,"Jun 30, 2025",€1.80m
+475,Udinese Calcio,Maduka Okoye,Goalkeeper,"1,98m",right,"Jun 30, 2028",€7.50m
+476,Udinese Calcio,Răzvan Sava,Goalkeeper,"1,97m",right,"Jun 30, 2029",€2.50m
+477,Udinese Calcio,Daniele Padelli,Goalkeeper,"1,91m",right,"Jun 30, 2025",€150k
+478,Udinese Calcio,Edoardo Piana,Goalkeeper,"1,98m",right,-,€50k
+479,Udinese Calcio,Jaka Bijol,Centre-Back,"1,90m",right,"Jun 30, 2027",€18.00m
+480,Udinese Calcio,Oumar Solet,Centre-Back,"1,92m",right,"Jun 30, 2027",€14.00m
+481,Udinese Calcio,Isaak Touré,Centre-Back,"2,06m",left,"Jun 30, 2025",€8.00m
+482,Udinese Calcio,Thomas Kristensen,Centre-Back,"1,98m",right,"Jun 30, 2028",€6.00m
+483,Udinese Calcio,Lautaro Giannetti,Centre-Back,"1,85m",right,"Jun 30, 2026",€2.50m
+484,Udinese Calcio,Matteo Palma,Centre-Back,"1,94m",right,"Jun 30, 2027",€1.00m
+485,Udinese Calcio,Christian Kabasele,Centre-Back,"1,87m",right,"Jun 30, 2025",€1.00m
+486,Udinese Calcio,Jordan Zemura,Left-Back,"1,73m",left,"Jun 30, 2027",€5.00m
+487,Udinese Calcio,Hassane Kamara,Left-Back,"1,70m",left,"Jun 30, 2026",€3.50m
+488,Udinese Calcio,Kingsley Ehizibue,Right-Back,"1,89m",right,"Jun 30, 2026",€3.00m
+489,Udinese Calcio,Jesper Karlström,Defensive Midfield,"1,85m",right,"Jun 30, 2026",€3.50m
+490,Udinese Calcio,Sandi Lovrić,Central Midfield,"1,80m",right,"Jun 30, 2027",€8.00m
+491,Udinese Calcio,Jurgen Ekkelenkamp,Central Midfield,"1,88m",right,"Jun 30, 2029",€7.50m
+492,Udinese Calcio,Martín Payero,Central Midfield,"1,82m",right,"Jun 30, 2027",€6.00m
+493,Udinese Calcio,Arthur Atta,Central Midfield,"1,89m",right,"Jun 30, 2025",€2.50m
+494,Udinese Calcio,Oier Zarraga,Central Midfield,"1,75m",right,"Jun 30, 2027",€2.00m
+495,Udinese Calcio,Rui Modesto,Right Midfield,"1,81m",right,"Jun 30, 2029",€1.80m
+496,Udinese Calcio,Simone Pafundi,Attacking Midfield,"1,66m",left,"Jun 30, 2026",€6.00m
+497,Udinese Calcio,David Pejičić,Attacking Midfield,-,right,"Jun 30, 2027",€1.00m
+498,Udinese Calcio,Florian Thauvin,Second Striker,"1,81m",left,"Jun 30, 2025",€5.00m
+499,Udinese Calcio,Lorenzo Lucca,Centre-Forward,"2,01m",right,"Jun 30, 2028",€22.00m
+500,Udinese Calcio,Brenner,Centre-Forward,"1,75m",right,"Jun 30, 2028",€4.50m
+501,Udinese Calcio,Keinan Davis,Centre-Forward,"1,89m",left,"Jun 30, 2027",€4.00m
+502,Udinese Calcio,Damián Pizarro,Centre-Forward,"1,87m",right,"Jun 30, 2029",€4.00m
+503,Udinese Calcio,Iker Bravo,Centre-Forward,"1,82m",right,"Jun 30, 2028",€2.50m
+504,Udinese Calcio,Alexis Sánchez,Centre-Forward,"1,69m",right,"Jun 30, 2026",€2.00m
+505,US Lecce,Wladimiro Falcone,Goalkeeper,"1,95m",right,"Jun 30, 2028",€4.00m
+506,US Lecce,Christian Früchtl,Goalkeeper,"1,93m",left,"Jun 30, 2027",€1.50m
+507,US Lecce,Jasper Samooja,Goalkeeper,"1,93m",right,"Jun 30, 2026",€75k
+508,US Lecce,Federico Baschirotto,Centre-Back,"1,87m",right,"Jun 30, 2026",€3.80m
+509,US Lecce,Kialonda Gaspar,Centre-Back,"1,93m",right,"Jun 30, 2027",€2.50m
+510,US Lecce,Gaby Jean,Centre-Back,"1,91m",left,"Jun 30, 2027",€2.00m
+511,US Lecce,Tiago Gabriel,Centre-Back,"1,94m",right,"Jun 30, 2027",€1.00m
+512,US Lecce,Sebastian Esposito,Centre-Back,"1,91m",right,-,€200k
+513,US Lecce,Antonino Gallo,Left-Back,"1,83m",left,"Jun 30, 2026",€4.50m
+514,US Lecce,Marco Sala,Left-Back,"1,82m",left,"Jun 30, 2025",€1.00m
+515,US Lecce,Vernon Addo,Left-Back,"1,88m",left,"Jun 30, 2027",€150k
+516,US Lecce,Frédéric Guilbert,Right-Back,"1,78m",right,"Jun 30, 2026",€2.50m
+517,US Lecce,Danilo Veiga,Right-Back,"1,83m",right,"Jun 30, 2027",€1.00m
+518,US Lecce,Ylber Ramadani,Defensive Midfield,"1,85m",right,"Jun 30, 2026",€2.20m
+519,US Lecce,Balthazar Pierret,Defensive Midfield,"1,86m",left,"Jun 30, 2027",€1.50m
+520,US Lecce,Thórir Jóhann Helgason,Central Midfield,"1,87m",right,"Jun 30, 2026",€2.50m
+521,US Lecce,Lassana Coulibaly,Central Midfield,"1,83m",right,"Jun 30, 2027",€2.50m
+522,US Lecce,Mohamed Kaba,Central Midfield,"1,85m",right,"Jun 30, 2027",€2.30m
+523,US Lecce,Hamza Rafia,Central Midfield,"1,81m",right,"Jun 30, 2026",€1.70m
+524,US Lecce,Medon Berisha,Central Midfield,"1,86m",right,"Jun 30, 2028",€1.00m
+525,US Lecce,Joan González,Central Midfield,"1,90m",right,"Jun 30, 2027",€800k
+526,US Lecce,Filip Marchwinski,Attacking Midfield,"1,87m",both,"Jun 30, 2028",€3.00m
+527,US Lecce,Lameck Banda,Left Winger,"1,69m",right,"Jun 30, 2026",€6.00m
+528,US Lecce,Jesper Karlsson,Left Winger,"1,79m",right,"Jun 30, 2025",€4.50m
+529,US Lecce,Tete Morente,Left Winger,"1,84m",right,"Jun 30, 2027",€2.00m
+530,US Lecce,Ante Rebić,Left Winger,"1,85m",right,"Jun 30, 2025",€1.50m
+531,US Lecce,Nicola Sansone,Left Winger,"1,74m",right,"Jun 30, 2025",€400k
+532,US Lecce,Santiago Pierotti,Right Winger,"1,89m",right,"Jun 30, 2027",€4.00m
+533,US Lecce,Konan N’Dri,Right Winger,"1,74m",left,"Jun 30, 2027",€1.50m
+534,US Lecce,Jeppe Corfitzen,Right Winger,"1,79m",left,"Jun 30, 2025",€400k
+535,US Lecce,Nikola Krstović,Centre-Forward,"1,85m",right,"Jun 30, 2027",€14.00m
+536,US Lecce,Rareș Burnete,Centre-Forward,"1,85m",right,"Jun 30, 2029",€700k
+537,US Lecce,Joel Voelkerling Persson,Centre-Forward,"1,94m",right,"Jun 30, 2027",€350k
+538,Venezia FC,Filip Stanković,Goalkeeper,"1,87m",right,"Jun 30, 2025",€6.00m
+539,Venezia FC,Andrei Radu,Goalkeeper,"1,88m",right,"Jun 30, 2025",€2.50m
+540,Venezia FC,Jesse Joronen,Goalkeeper,"1,97m",right,"Jun 30, 2025",€600k
+541,Venezia FC,Matteo Grandi,Goalkeeper,"1,90m",right,"Jun 30, 2025",€150k
+542,Venezia FC,Jay Idzes,Centre-Back,"1,90m",right,"Jun 30, 2027",€5.00m
+543,Venezia FC,Joël Schingtienne,Centre-Back,"1,88m",right,"Jun 30, 2029",€3.00m
+544,Venezia FC,Michael Svoboda,Centre-Back,"1,95m",right,"Jun 30, 2026",€3.00m
+545,Venezia FC,Fali Candé,Centre-Back,"1,84m",left,"Jun 30, 2025",€2.00m
+546,Venezia FC,Alessandro Marcandalli,Centre-Back,"1,90m",right,"Jun 30, 2025",€2.00m
+547,Venezia FC,Marin Šverko,Centre-Back,"1,87m",left,"Jun 30, 2026",€1.20m
+548,Venezia FC,Ridgeciano Haps,Left-Back,"1,75m",left,"Jun 30, 2026",€1.00m
+549,Venezia FC,Franco Carboni,Left-Back,"1,90m",left,"Jun 30, 2025",€1.00m
+550,Venezia FC,Richie Sagrado,Right-Back,"1,82m",right,"Jun 30, 2028",€2.00m
+551,Venezia FC,Francesco Zampano,Right-Back,"1,77m",right,"Jun 30, 2025",€1.10m
+552,Venezia FC,Cheick Condé,Defensive Midfield,"1,85m",right,"Jun 30, 2027",€2.00m
+553,Venezia FC,Hans Nicolussi Caviglia,Central Midfield,"1,84m",right,"Jun 30, 2025",€8.00m
+554,Venezia FC,Gianluca Busio,Central Midfield,"1,72m",right,"Jun 30, 2026",€6.50m
+555,Venezia FC,Kike Pérez,Central Midfield,"1,84m",left,"Jun 30, 2027",€2.80m
+556,Venezia FC,Mikael Egill Ellertsson,Central Midfield,"1,82m",left,"Jun 30, 2025",€2.80m
+557,Venezia FC,Alfred Duncan,Central Midfield,"1,78m",left,"Jun 30, 2026",€2.50m
+558,Venezia FC,Issa Doumbia,Central Midfield,"1,87m",right,"Jun 30, 2029",€2.00m
+559,Venezia FC,Domen Crnigoj,Central Midfield,"1,88m",right,"Jun 30, 2026",€900k
+560,Venezia FC,Bjarki Bjarkason,Left Midfield,"1,80m",right,"Jun 30, 2027",€800k
+561,Venezia FC,Gaetano Oristanio,Attacking Midfield,"1,74m",left,"Jun 30, 2029",€6.50m
+562,Venezia FC,John Yeboah,Attacking Midfield,"1,70m",left,"Jun 30, 2028",€2.50m
+563,Venezia FC,Saad El Haddad,Attacking Midfield,"1,75m",right,"Jun 30, 2027",€250k
+564,Venezia FC,Alessio Zerbin,Left Winger,"1,82m",right,"Jun 30, 2025",€4.00m
+565,Venezia FC,Daniel Fila,Centre-Forward,"1,90m",left,"Jun 30, 2029",€3.00m
+566,Venezia FC,Christian Gytkjær,Centre-Forward,"1,85m",right,"Jun 30, 2025",€700k
+567,Venezia FC,Mirko Marić,Centre-Forward,"1,88m",left,"Jun 30, 2025",€700k

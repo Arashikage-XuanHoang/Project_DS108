@@ -1,0 +1,465 @@
+,CLB,Name,Main_position,Height,Foot,Contract,Market_Value
+0,AJ Auxerre,Donovan Léon,Goalkeeper,"1,87m",right,"Jun 30, 2027",€800k
+1,AJ Auxerre,Théo De Percin,Goalkeeper,"1,85m",right,"Jun 30, 2028",€300k
+2,AJ Auxerre,Raphaël Adiceam,Goalkeeper,"1,79m",left,"Jun 30, 2025",€50k
+3,AJ Auxerre,Sinaly Diomandé,Centre-Back,"1,84m",right,"Jun 30, 2027",€5.00m
+4,AJ Auxerre,Gabriel Osho,Centre-Back,"1,85m",right,"Jun 30, 2025",€3.00m
+5,AJ Auxerre,Clément Akpa,Centre-Back,"1,81m",left,"Jun 30, 2027",€3.00m
+6,AJ Auxerre,Jubal,Centre-Back,"1,90m",right,"Jun 30, 2025",€2.00m
+7,AJ Auxerre,Gideon Mensah,Left-Back,"1,78m",left,"Jun 30, 2026",€3.50m
+8,AJ Auxerre,Fredrik Oppegård,Left-Back,"1,75m",left,"Jun 30, 2028",€600k
+9,AJ Auxerre,Ki-Jana Hoever,Right-Back,"1,83m",right,"Jun 30, 2025",€4.50m
+10,AJ Auxerre,Paul Joly,Right-Back,"1,82m",right,"Jun 30, 2027",€2.00m
+11,AJ Auxerre,Ange Loïc N'Gatta,Right-Back,"1,75m",right,"Jun 30, 2025",€100k
+12,AJ Auxerre,Elisha Owusu,Defensive Midfield,"1,82m",right,"Jun 30, 2027",€3.00m
+13,AJ Auxerre,Assane Dioussé,Defensive Midfield,"1,75m",left,"Jun 30, 2026",€800k
+14,AJ Auxerre,Nathan Buayi-Kiala,Defensive Midfield,"1,77m",right,"Jun 30, 2026",€150k
+15,AJ Auxerre,Han-Noah Massengo,Central Midfield,"1,78m",right,"Jun 30, 2025",€5.00m
+16,AJ Auxerre,Kévin Danois,Central Midfield,"1,83m",right,"Jun 30, 2028",€4.00m
+17,AJ Auxerre,Hamed Junior Traoré,Attacking Midfield,"1,77m",right,"Jun 30, 2025",€18.00m
+18,AJ Auxerre,Lassine Sinayoko,Left Winger,"1,86m",right,"Jun 30, 2026",€3.50m
+19,AJ Auxerre,Aristide Zossou,Left Winger,"1,78m",right,"Jun 30, 2029",€100k
+20,AJ Auxerre,Gaëtan Perrin,Right Winger,"1,69m",right,"Jun 30, 2026",€6.00m
+21,AJ Auxerre,Lasso Coulibaly,Right Winger,"1,76m",right,"Jun 30, 2028",€1.50m
+22,AJ Auxerre,Eros Maddy,Right Winger,"1,77m",right,"Jun 30, 2027",€200k
+23,AJ Auxerre,Theo Bair,Centre-Forward,"1,91m",right,"Jun 30, 2028",€1.80m
+24,AJ Auxerre,Ado Onaiwu,Centre-Forward,"1,80m",right,"Jun 30, 2026",€1.80m
+25,AJ Auxerre,Florian Ayé,Centre-Forward,"1,84m",right,"Jun 30, 2026",€1.50m
+26,Angers SCO,Yahia Fofana,Goalkeeper,"1,94m",right,"Jun 30, 2026",€6.00m
+27,Angers SCO,Melvin Zinga,Goalkeeper,"1,87m",left,"Jun 30, 2026",€250k
+28,Angers SCO,Emmanuel Biumla,Centre-Back,"1,85m",right,"Jun 30, 2027",€4.00m
+29,Angers SCO,Cédric Hountondji,Centre-Back,"1,94m",right,"Jun 30, 2026",€1.50m
+30,Angers SCO,Jordan Lefort,Centre-Back,"1,84m",left,"Jun 30, 2026",€1.20m
+31,Angers SCO,Ousmane Camara,Centre-Back,"1,97m",right,"Jun 30, 2026",€500k
+32,Angers SCO,Abdoulaye Bamba,Centre-Back,"1,82m",right,"Jun 30, 2025",€350k
+33,Angers SCO,Jacques Ekomié,Left-Back,"1,79m",right,"Jun 30, 2027",€800k
+34,Angers SCO,Florent Hanin,Left-Back,"1,77m",left,"Jun 30, 2025",€350k
+35,Angers SCO,Carlens Arcus,Right-Back,"1,76m",right,"Jun 30, 2026",€1.50m
+36,Angers SCO,Lilian Raolisoa,Right-Back,"1,78m",right,"Jun 30, 2026",€700k
+37,Angers SCO,Halid Sabanovic,Right-Back,"1,82m",right,"Jun 30, 2025",€200k
+38,Angers SCO,Jean-Eudes Aholou,Defensive Midfield,"1,86m",left,"Jun 30, 2026",€2.00m
+39,Angers SCO,Zinédine Ould Khaled,Defensive Midfield,"1,95m",right,"Jun 30, 2025",€300k
+40,Angers SCO,Haris Belkebla,Central Midfield,"1,77m",right,"Jun 30, 2026",€2.00m
+41,Angers SCO,Yassin Belkhdim,Central Midfield,"1,75m",right,"Jun 30, 2027",€800k
+42,Angers SCO,Pierrick Capelle,Central Midfield,"1,81m",left,"Jun 30, 2025",€200k
+43,Angers SCO,Himad Abdelli,Attacking Midfield,"1,85m",right,"Jun 30, 2026",€7.00m
+44,Angers SCO,Farid El Melali,Left Winger,"1,68m",both,"Jun 30, 2025",€4.00m
+45,Angers SCO,Jim Allevinah,Right Winger,"1,72m",right,"Jun 30, 2027",€1.80m
+46,Angers SCO,Zinedine Ferhat,Right Winger,"1,80m",right,"Jun 30, 2025",€1.20m
+47,Angers SCO,Justin Kalumba,Right Winger,"1,71m",left,"Jun 30, 2026",€600k
+48,Angers SCO,Estéban Lepaul,Centre-Forward,"1,81m",right,"Jun 30, 2027",€5.00m
+49,Angers SCO,Bamba Dieng,Centre-Forward,"1,78m",right,"Jun 30, 2025",€3.50m
+50,Angers SCO,Ibrahima Niane,Centre-Forward,"1,87m",right,"Jun 30, 2025",€1.50m
+51,Angers SCO,Sidiki Chérif,Centre-Forward,"1,85m",right,"Jun 30, 2028",€1.00m
+52,Angers SCO,Adrien Hunou,Centre-Forward,"1,79m",right,"Jun 30, 2025",€500k
+53,AS Monaco,Radoslaw Majecki,Goalkeeper,"1,93m",right,"Jun 30, 2028",€7.00m
+54,AS Monaco,Philipp Köhn,Goalkeeper,"1,90m",right,"Jun 30, 2028",€4.00m
+55,AS Monaco,Yann Lienard,Goalkeeper,"1,94m",right,"Jun 30, 2027",€200k
+56,AS Monaco,Wilfried Singo,Centre-Back,"1,90m",right,"Jun 30, 2028",€25.00m
+57,AS Monaco,Thilo Kehrer,Centre-Back,"1,86m",both,"Jun 30, 2028",€15.00m
+58,AS Monaco,Mohammed Salisu,Centre-Back,"1,88m",left,"Jun 30, 2028",€15.00m
+59,AS Monaco,Christian Mawissa,Centre-Back,"1,84m",left,"Jun 30, 2029",€12.00m
+60,AS Monaco,Caio Henrique,Left-Back,"1,78m",left,"Jun 30, 2027",€15.00m
+61,AS Monaco,Kassoum Ouattara,Left-Back,"1,76m",left,"Jun 30, 2028",€8.00m
+62,AS Monaco,Vanderson,Right-Back,"1,73m",right,"Jun 30, 2028",€20.00m
+63,AS Monaco,Jordan Teze,Right-Back,"1,83m",right,"Jun 30, 2029",€12.00m
+64,AS Monaco,Denis Zakaria,Defensive Midfield,"1,90m",right,"Jun 30, 2028",€30.00m
+65,AS Monaco,Soungoutou Magassa,Defensive Midfield,"1,90m",right,"Jun 30, 2029",€12.00m
+66,AS Monaco,Moatasem Al-Musrati,Defensive Midfield,"1,89m",right,"Jun 30, 2025",€10.00m
+67,AS Monaco,Lamine Camara,Central Midfield,"1,73m",right,"Jun 30, 2029",€20.00m
+68,AS Monaco,Edan Diop,Central Midfield,"1,73m",right,"Jun 30, 2028",€1.50m
+69,AS Monaco,Aleksandr Golovin,Attacking Midfield,"1,78m",right,"Jun 30, 2029",€25.00m
+70,AS Monaco,Eliesse Ben Seghir,Left Winger,"1,78m",right,"Jun 30, 2027",€30.00m
+71,AS Monaco,Takumi Minamino,Left Winger,"1,72m",right,"Jun 30, 2027",€15.00m
+72,AS Monaco,Lucas Michal,Left Winger,-,right,"Jun 30, 2029",€500k
+73,AS Monaco,Maghnes Akliouche,Right Winger,"1,83m",left,"Jun 30, 2028",€40.00m
+74,AS Monaco,Krépin Diatta,Right Winger,"1,75m",right,"Jun 30, 2025",€10.00m
+75,AS Monaco,Mika Biereth,Centre-Forward,"1,87m",right,"Jun 30, 2029",€25.00m
+76,AS Monaco,Folarin Balogun,Centre-Forward,"1,78m",right,"Jun 30, 2028",€20.00m
+77,AS Monaco,George Ilenikhena,Centre-Forward,"1,85m",left,"Jun 30, 2029",€15.00m
+78,AS Monaco,Breel Embolo,Centre-Forward,"1,87m",right,"Jun 30, 2026",€12.00m
+79,AS Saint-Étienne,Gautier Larsonneur,Goalkeeper,"1,81m",right,"Jun 30, 2026",€3.50m
+80,AS Saint-Étienne,Brice Maubleu,Goalkeeper,"1,92m",right,"Jun 30, 2026",€300k
+81,AS Saint-Étienne,Boubacar Fall,Goalkeeper,"1,98m",left,"Jun 30, 2025",€100k
+82,AS Saint-Étienne,Maxime Bernauer,Centre-Back,"1,85m",right,"Jun 30, 2025",€2.00m
+83,AS Saint-Étienne,Mickaël Nade,Centre-Back,"1,93m",left,"Jun 30, 2028",€1.50m
+84,AS Saint-Étienne,Dylan Batubinsika,Centre-Back,"1,85m",right,"Jun 30, 2026",€1.50m
+85,AS Saint-Étienne,Yunis Abdelhamid,Centre-Back,"1,90m",left,"Jun 30, 2025",€500k
+86,AS Saint-Étienne,Anthony Briançon,Centre-Back,"1,85m",right,"Jun 30, 2026",€500k
+87,AS Saint-Étienne,Pierre Cornud,Left-Back,"1,77m",left,"Jun 30, 2026",€1.00m
+88,AS Saint-Étienne,Léo Pétrot,Left-Back,"1,88m",left,"Jun 30, 2025",€1.00m
+89,AS Saint-Étienne,Yvann Maçon,Right-Back,"1,76m",right,"Jun 30, 2025",€2.00m
+90,AS Saint-Étienne,Dennis Appiah,Right-Back,"1,79m",right,"Jun 30, 2026",€900k
+91,AS Saint-Étienne,Pierre Ekwah,Defensive Midfield,"1,89m",left,"Jun 30, 2025",€5.00m
+92,AS Saint-Étienne,Lamine Fomba,Defensive Midfield,"1,88m",right,"Jun 30, 2026",€700k
+93,AS Saint-Étienne,Benjamin Bouchouari,Central Midfield,"1,65m",right,"Jun 30, 2026",€5.00m
+94,AS Saint-Étienne,Aïmen Moueffek,Central Midfield,"1,79m",right,"Jun 30, 2028",€2.50m
+95,AS Saint-Étienne,Louis Mouton,Central Midfield,"1,80m",right,"Jun 30, 2025",€800k
+96,AS Saint-Étienne,Florian Tardieu,Central Midfield,"1,81m",right,"Jun 30, 2026",€700k
+97,AS Saint-Étienne,Augustine Boakye,Attacking Midfield,"1,78m",left,"Jun 30, 2028",€3.00m
+98,AS Saint-Étienne,Igor Miladinovic,Attacking Midfield,"1,66m",right,"Jun 30, 2028",€1.50m
+99,AS Saint-Étienne,Ben Old,Left Winger,"1,73m",left,"Jun 30, 2028",€800k
+100,AS Saint-Étienne,Zuriko Davitashvili,Right Winger,"1,75m",right,"Jun 30, 2028",€10.00m
+101,AS Saint-Étienne,Lucas Stassin,Centre-Forward,"1,83m",right,"Jun 30, 2028",€7.00m
+102,AS Saint-Étienne,Irvin Cardona,Centre-Forward,"1,85m",right,"Jun 30, 2025",€2.00m
+103,AS Saint-Étienne,Ibrahim Sissoko,Centre-Forward,"1,92m",right,"Jun 30, 2026",€2.00m
+104,AS Saint-Étienne,Ibrahima Wadji,Centre-Forward,"1,75m",right,"Jun 30, 2025",€800k
+105,AS Saint-Étienne,Djylian N'Guessan,Centre-Forward,-,right,"Jun 30, 2027",€800k
+106,FC Nantes,Alban Lafont,Goalkeeper,"1,96m",right,"Jun 30, 2027",€4.00m
+107,FC Nantes,Anthony Lopes,Goalkeeper,"1,84m",left,"Jun 30, 2025",€1.50m
+108,FC Nantes,Patrik Carlgren,Goalkeeper,"1,89m",right,"Jun 30, 2026",€800k
+109,FC Nantes,Hugo Barbet,Goalkeeper,"1,89m",right,"Jun 30, 2026",€100k
+110,FC Nantes,Nathan Zézé,Centre-Back,"1,90m",left,"Jun 30, 2028",€12.00m
+111,FC Nantes,Saïdou Sow,Centre-Back,"1,87m",right,"Jun 30, 2025",€6.00m
+112,FC Nantes,Jean-Charles Castelletto,Centre-Back,"1,86m",both,"Jun 30, 2028",€3.50m
+113,FC Nantes,Nicolas Pallois,Centre-Back,"1,89m",left,"Jun 30, 2025",€500k
+114,FC Nantes,Nicolas Cozza,Left-Back,"1,78m",left,"Jun 30, 2025",€3.50m
+115,FC Nantes,Kelvin Amian,Right-Back,"1,80m",right,"Jun 30, 2028",€2.50m
+116,FC Nantes,Fabien Centonze,Right-Back,"1,82m",right,"Jun 30, 2027",€2.00m
+117,FC Nantes,Marcus Coco,Right-Back,"1,84m",right,"Jun 30, 2025",€1.50m
+118,FC Nantes,Johann Lepenant,Defensive Midfield,"1,76m",right,"Jun 30, 2025",€7.00m
+119,FC Nantes,Pedro Chirivella,Defensive Midfield,"1,78m",right,"Jun 30, 2026",€5.00m
+120,FC Nantes,Francis Coquelin,Defensive Midfield,"1,77m",right,"Jun 30, 2025",€1.00m
+121,FC Nantes,Douglas Augusto,Central Midfield,"1,73m",left,"Jun 30, 2027",€6.00m
+122,FC Nantes,Dehmaine Tabibou,Central Midfield,"1,83m",left,"Jun 30, 2026",€100k
+123,FC Nantes,Louis Leroux,Attacking Midfield,"1,84m",left,"Jun 30, 2028",€2.00m
+124,FC Nantes,Florent Mollet,Attacking Midfield,"1,75m",right,"Jun 30, 2025",€1.50m
+125,FC Nantes,Moses Simon,Left Winger,"1,68m",right,"Jun 30, 2026",€12.00m
+126,FC Nantes,Herba Guirassy,Left Winger,"1,86m",,"Jun 30, 2028",€1.00m
+127,FC Nantes,Sorba Thomas,Right Winger,"1,85m",right,"Jun 30, 2025",€4.00m
+128,FC Nantes,Matthis Abline,Centre-Forward,"1,82m",right,"Jun 30, 2028",€12.00m
+129,FC Nantes,Mostafa Mohamed,Centre-Forward,"1,85m",right,"Jun 30, 2027",€6.00m
+130,FC Nantes,Meschack Elia,Centre-Forward,"1,73m",right,"Jun 30, 2025",€5.00m
+131,FC Nantes,Tino Kadewere,Centre-Forward,"1,83m",right,"Jun 30, 2027",€3.00m
+132,FC Toulouse,Guillaume Restes,Goalkeeper,"1,88m",left,"Jun 30, 2028",€20.00m
+133,FC Toulouse,Kjetil Haug,Goalkeeper,"1,87m",right,"Jun 30, 2026",€600k
+134,FC Toulouse,Justin Lacombe,Goalkeeper,"1,92m",right,"Jun 30, 2026",€50k
+135,FC Toulouse,Charlie Cresswell,Centre-Back,"1,90m",right,"Jun 30, 2028",€7.00m
+136,FC Toulouse,Mark McKenzie,Centre-Back,"1,84m",right,"Jun 30, 2027",€6.00m
+137,FC Toulouse,Rasmus Nicolaisen,Centre-Back,"1,91m",left,"Jun 30, 2025",€5.00m
+138,FC Toulouse,Jaydee Canvot,Centre-Back,"1,88m",right,"Jun 30, 2029",€2.50m
+139,FC Toulouse,Ümit Akdağ,Centre-Back,"1,92m",left,"Jun 30, 2025",€800k
+140,FC Toulouse,Gabriel Suazo,Left-Back,"1,78m",left,"Jun 30, 2026",€4.00m
+141,FC Toulouse,Warren Kamanzi,Right-Back,"1,77m",right,"Jun 30, 2026",€2.00m
+142,FC Toulouse,Djibril Sidibé,Right-Back,"1,83m",right,"Jun 30, 2025",€1.20m
+143,FC Toulouse,Cristian Cásseres Jr.,Central Midfield,"1,76m",right,"Jun 30, 2027",€5.00m
+144,FC Toulouse,Vincent Sierro,Central Midfield,"1,85m",right,"Jun 30, 2026",€4.00m
+145,FC Toulouse,Niklas Schmidt,Central Midfield,"1,84m",both,"Jun 30, 2027",€2.00m
+146,FC Toulouse,Miha Zajc,Central Midfield,"1,78m",right,"Jun 30, 2025",€1.80m
+147,FC Toulouse,Rafik Messali,Right Midfield,"1,77m",right,"Jun 30, 2026",€800k
+148,FC Toulouse,Aron Dønnum,Left Midfield,"1,78m",left,"Jun 30, 2028",€4.00m
+149,FC Toulouse,Yann Gboho,Left Winger,"1,78m",right,"Jun 30, 2026",€8.00m
+150,FC Toulouse,Zakaria Aboukhlal,Right Winger,"1,79m",both,"Jun 30, 2026",€12.00m
+151,FC Toulouse,Shavy Babicka,Right Winger,"1,79m",right,"Jun 30, 2027",€3.00m
+152,FC Toulouse,Noah Edjouma,Right Winger,"1,82m",right,"Jun 30, 2027",€500k
+153,FC Toulouse,Frank Magri,Centre-Forward,"1,78m",right,"Jun 30, 2026",€2.50m
+154,FC Toulouse,Joshua King,Centre-Forward,"1,80m",right,"Jun 30, 2025",€2.00m
+155,Le Havre AC,Arthur Desmas,Goalkeeper,"1,96m",right,"Jun 30, 2025",€1.50m
+156,Le Havre AC,Mathieu Gorgelin,Goalkeeper,"1,87m",left,"Jun 30, 2025",€200k
+157,Le Havre AC,Arouna Sangante,Centre-Back,"1,89m",right,"Jun 30, 2026",€10.00m
+158,Le Havre AC,Étienne Youté Kinkoué,Centre-Back,"1,96m",right,"Jun 30, 2026",€8.00m
+159,Le Havre AC,Gautier Lloris,Centre-Back,"1,91m",left,"Jun 30, 2026",€3.00m
+160,Le Havre AC,Fodé Ballo-Touré,Left-Back,"1,82m",left,"Jun 30, 2025",€1.50m
+161,Le Havre AC,Yanis Zouaoui,Left-Back,"1,83m",left,"Jun 30, 2027",€800k
+162,Le Havre AC,Timothée Pembélé,Right-Back,"1,83m",right,"Jun 30, 2025",€2.50m
+163,Le Havre AC,Loïc Nego,Right-Back,"1,81m",right,"Jun 30, 2025",€800k
+164,Le Havre AC,Oualid El Hajjam,Right-Back,"1,81m",right,"Jun 30, 2026",€400k
+165,Le Havre AC,Junior Mwanga,Defensive Midfield,"1,84m",both,"Jun 30, 2025",€6.00m
+166,Le Havre AC,Abdoulaye Touré,Defensive Midfield,"1,88m",right,"Jun 30, 2025",€3.00m
+167,Le Havre AC,Rassoul Ndiaye,Defensive Midfield,"1,79m",right,"Jun 30, 2026",€2.50m
+168,Le Havre AC,Aloïs Confais,Defensive Midfield,"1,74m",right,"Jun 30, 2025",€200k
+169,Le Havre AC,Yassine Kechta,Central Midfield,"1,74m",left,"Jun 30, 2026",€5.00m
+170,Le Havre AC,Daler Kuzyaev,Central Midfield,"1,82m",right,"Jun 30, 2025",€5.00m
+171,Le Havre AC,Mahamadou Diawara,Central Midfield,"1,87m",left,"Jun 30, 2025",€2.50m
+172,Le Havre AC,Ismaïl Bouneb,Attacking Midfield,"1,82m",right,"Jun 30, 2028",€50k
+173,Le Havre AC,Antoine Joujou,Left Winger,"1,89m",right,"Jun 30, 2025",€2.50m
+174,Le Havre AC,Issa Soumaré,Left Winger,"1,82m",right,"Jun 30, 2026",€1.50m
+175,Le Havre AC,Josué Casimir,Right Winger,"1,78m",right,"Jun 30, 2025",€3.50m
+176,Le Havre AC,Ilyes Housni,Centre-Forward,"1,72m",right,"Jun 30, 2025",€2.00m
+177,Le Havre AC,Ahmed Hassan,Centre-Forward,"1,91m",right,"Jun 30, 2025",€900k
+178,Le Havre AC,André Ayew,Centre-Forward,"1,75m",left,"Jun 30, 2025",€700k
+179,Le Havre AC,Elysée Logbo,Centre-Forward,"1,88m",left,"Jun 30, 2027",€600k
+180,Le Havre AC,Yann Kitala,Centre-Forward,"1,86m",left,"Jun 30, 2025",€500k
+181,LOSC Lille,Lucas Chevalier,Goalkeeper,"1,89m",right,"Jun 30, 2027",€30.00m
+182,LOSC Lille,Vito Mannone,Goalkeeper,"1,88m",right,"Jun 30, 2025",€200k
+183,LOSC Lille,Marc-Aurèle Caillard,Goalkeeper,"1,92m",right,"Jun 30, 2025",€150k
+184,LOSC Lille,Bafodé Diakité,Centre-Back,"1,84m",right,"Jun 30, 2028",€25.00m
+185,LOSC Lille,Alexsandro,Centre-Back,"1,91m",right,"Jun 30, 2028",€15.00m
+186,LOSC Lille,Samuel Umtiti,Centre-Back,"1,82m",left,"Jun 30, 2025",€2.00m
+187,LOSC Lille,Aïssa Mandi,Centre-Back,"1,86m",right,"Jun 30, 2026",€1.50m
+188,LOSC Lille,Gabriel Gudmundsson,Left-Back,"1,80m",left,"Jun 30, 2026",€9.00m
+189,LOSC Lille,Mitchel Bakker,Left-Back,"1,89m",left,"Jun 30, 2025",€7.00m
+190,LOSC Lille,Ismaily,Left-Back,"1,77m",left,"Jun 30, 2025",€1.50m
+191,LOSC Lille,Tiago Santos,Right-Back,"1,75m",right,"Jun 30, 2029",€15.00m
+192,LOSC Lille,Thomas Meunier,Right-Back,"1,91m",right,"Jun 30, 2026",€2.00m
+193,LOSC Lille,Ngal'ayel Mukau,Defensive Midfield,"1,86m",left,"Jun 30, 2028",€15.00m
+194,LOSC Lille,Nabil Bentaleb,Defensive Midfield,"1,87m",left,"Jun 30, 2026",€8.00m
+195,LOSC Lille,Benjamin André,Defensive Midfield,"1,80m",right,"Jun 30, 2026",€6.00m
+196,LOSC Lille,Ayyoub Bouaddi,Central Midfield,"1,86m",right,"Jun 30, 2027",€30.00m
+197,LOSC Lille,André Gomes,Central Midfield,"1,90m",right,"Jun 30, 2026",€8.00m
+198,LOSC Lille,Ethan Mbappé,Central Midfield,"1,80m",left,"Jun 30, 2027",€5.00m
+199,LOSC Lille,Angel Gomes,Attacking Midfield,"1,66m",right,"Jun 30, 2025",€20.00m
+200,LOSC Lille,Hákon Arnar Haraldsson,Attacking Midfield,"1,78m",right,"Jun 30, 2028",€15.00m
+201,LOSC Lille,Rémy Cabella,Attacking Midfield,"1,72m",right,"Jun 30, 2025",€3.00m
+202,LOSC Lille,Osame Sahraoui,Left Winger,"1,70m",right,"Jun 30, 2029",€12.00m
+203,LOSC Lille,Edon Zhegrova,Right Winger,"1,80m",left,"Jun 30, 2026",€25.00m
+204,LOSC Lille,Jonathan David,Centre-Forward,"1,78m",both,"Jun 30, 2025",€45.00m
+205,LOSC Lille,Matías Fernández-Pardo,Centre-Forward,"1,88m",right,"Jun 30, 2029",€10.00m
+206,LOSC Lille,Chuba Akpom,Centre-Forward,"1,83m",right,"Jun 30, 2025",€8.00m
+207,Montpellier HSC,Benjamin Lecomte,Goalkeeper,"1,86m",left,"Jun 30, 2027",€2.00m
+208,Montpellier HSC,Dimitry Bertaud,Goalkeeper,"1,80m",right,"Jun 30, 2025",€1.20m
+209,Montpellier HSC,Belmin Dizdarevic,Goalkeeper,"1,89m",right,"Jun 30, 2028",€150k
+210,Montpellier HSC,Bamo Meïté,Centre-Back,"1,84m",right,"Jun 30, 2025",€5.00m
+211,Montpellier HSC,Becir Omeragic,Centre-Back,"1,87m",right,"Jun 30, 2028",€5.00m
+212,Montpellier HSC,Kiki Kouyaté,Centre-Back,"1,92m",right,"Jun 30, 2026",€3.50m
+213,Montpellier HSC,Modibo Sagnan,Centre-Back,"1,87m",left,"Jun 30, 2028",€3.00m
+214,Montpellier HSC,Christopher Jullien,Centre-Back,"1,96m",right,"Jun 30, 2025",€1.50m
+215,Montpellier HSC,Nikola Maksimović,Centre-Back,"1,93m",right,-,€400k
+216,Montpellier HSC,Issiaga Sylla,Left-Back,"1,80m",left,"Jun 30, 2025",€2.00m
+217,Montpellier HSC,Lucas Mincarelli,Left-Back,"1,79m",left,"Jun 30, 2027",€900k
+218,Montpellier HSC,Théo Sainte-Luce,Left-Back,"1,76m",left,"Jun 30, 2027",€800k
+219,Montpellier HSC,Enzo Tchato,Right-Back,"1,82m",right,"Jun 30, 2027",€2.50m
+220,Montpellier HSC,Falaye Sacko,Right-Back,"1,80m",right,"Jun 30, 2026",€2.00m
+221,Montpellier HSC,Joris Chotard,Defensive Midfield,"1,79m",right,"Jun 30, 2026",€7.00m
+222,Montpellier HSC,Rabby Nzingoula,Defensive Midfield,"1,83m",right,"Jun 30, 2025",€2.50m
+223,Montpellier HSC,Khalil Fayad,Central Midfield,"1,72m",right,"Jun 30, 2027",€4.00m
+224,Montpellier HSC,Jordan Ferri,Central Midfield,"1,73m",right,"Jun 30, 2026",€2.50m
+225,Montpellier HSC,Téji Savanier,Attacking Midfield,"1,72m",right,"Jun 30, 2026",€3.00m
+226,Montpellier HSC,Nicolas Pays,Attacking Midfield,"1,77m",left,-,€700k
+227,Montpellier HSC,Wahbi Khazri,Left Winger,"1,76m",right,"Jun 30, 2025",€1.50m
+228,Montpellier HSC,Tanguy Coulibaly,Right Winger,"1,79m",left,"Jun 30, 2026",€1.80m
+229,Montpellier HSC,Othmane Maamma,Right Winger,"1,82m",both,"Jun 30, 2027",€800k
+230,Montpellier HSC,Andy Delort,Centre-Forward,"1,81m",right,"Jun 30, 2025",€2.00m
+231,OGC Nice,Marcin Bulka,Goalkeeper,"1,99m",right,"Jun 30, 2026",€20.00m
+232,OGC Nice,Maxime Dupé,Goalkeeper,"1,88m",right,"Jun 30, 2026",€1.20m
+233,OGC Nice,Teddy Boulhendi,Goalkeeper,"1,85m",,"Jun 30, 2025",€100k
+234,OGC Nice,Youssouf Ndayishimiye,Centre-Back,"1,83m",right,"Jun 30, 2027",€12.00m
+235,OGC Nice,Moïse Bombito,Centre-Back,"1,90m",right,"Jun 30, 2028",€10.00m
+236,OGC Nice,Mohamed Abdelmonem,Centre-Back,"1,83m",right,"Jun 30, 2028",€4.00m
+237,OGC Nice,Dante,Centre-Back,"1,88m",left,"Jun 30, 2026",€500k
+238,OGC Nice,Amidou Doumbouya,Centre-Back,"1,82m",left,"Jun 30, 2026",€300k
+239,OGC Nice,Melvin Bard,Left-Back,"1,73m",left,"Jun 30, 2028",€12.00m
+240,OGC Nice,Ali Abdi,Left-Back,"1,83m",left,"Jun 30, 2027",€3.00m
+241,OGC Nice,Yaël Nandjou,Left-Back,"1,85m",left,"Jun 30, 2025",€150k
+242,OGC Nice,Jonathan Clauss,Right-Back,"1,78m",right,"Jun 30, 2026",€6.00m
+243,OGC Nice,Antoine Mendy,Right-Back,"1,87m",right,"Jun 30, 2028",€3.00m
+244,OGC Nice,Pablo Rosario,Defensive Midfield,"1,85m",right,"Jun 30, 2026",€8.00m
+245,OGC Nice,Baptiste Santamaria,Defensive Midfield,"1,83m",right,"Jun 30, 2025",€7.00m
+246,OGC Nice,Hicham Boudaoui,Central Midfield,"1,75m",right,"Jun 30, 2027",€10.00m
+247,OGC Nice,Tanguy Ndombélé,Central Midfield,"1,81m",right,"Jun 30, 2026",€10.00m
+248,OGC Nice,Morgan Sanson,Central Midfield,"1,80m",right,"Jun 30, 2027",€5.00m
+249,OGC Nice,Tom Louchet,Right Midfield,"1,78m",both,"Jun 30, 2027",€3.00m
+250,OGC Nice,Jérémie Boga,Left Winger,"1,72m",right,"Jun 30, 2027",€12.00m
+251,OGC Nice,Sofiane Diop,Left Winger,"1,75m",right,"Jun 30, 2027",€12.00m
+252,OGC Nice,Mohamed-Ali Cho,Right Winger,"1,82m",left,"Jun 30, 2028",€15.00m
+253,OGC Nice,Badredine Bouanani,Right Winger,"1,77m",left,"Jun 30, 2029",€5.00m
+254,OGC Nice,Evann Guessand,Centre-Forward,"1,88m",right,"Jun 30, 2028",€25.00m
+255,OGC Nice,Terem Moffi,Centre-Forward,"1,88m",left,"Jun 30, 2027",€15.00m
+256,OGC Nice,Youssoufa Moukoko,Centre-Forward,"1,79m",left,"Jun 30, 2025",€10.00m
+257,OGC Nice,Gaëtan Laborde,Centre-Forward,"1,81m",left,"Jun 30, 2026",€6.00m
+258,OGC Nice,Victor Orakpo,Centre-Forward,"1,94m",right,"Jun 30, 2028",€500k
+259,Olympique Lyon,Lucas Perri,Goalkeeper,"1,97m",right,"Jun 30, 2028",€10.00m
+260,Olympique Lyon,Rémy Descamps,Goalkeeper,"1,96m",left,"Jun 30, 2027",€1.50m
+261,Olympique Lyon,Lassine Diarra,Goalkeeper,"1,90m",right,"Jun 30, 2027",€25k
+262,Olympique Lyon,Moussa Niakhaté,Centre-Back,"1,90m",left,"Jun 30, 2028",€15.00m
+263,Olympique Lyon,Duje Caleta-Car,Centre-Back,"1,93m",right,"Jun 30, 2027",€8.00m
+264,Olympique Lyon,Warmed Omari,Centre-Back,"1,88m",right,"Jun 30, 2025",€4.00m
+265,Olympique Lyon,Abner,Left-Back,"1,81m",left,"Jun 30, 2029",€9.00m
+266,Olympique Lyon,Nicolás Tagliafico,Left-Back,"1,71m",left,"Jun 30, 2025",€7.00m
+267,Olympique Lyon,Ainsley Maitland-Niles,Right-Back,"1,80m",right,"Jun 30, 2027",€10.00m
+268,Olympique Lyon,Saël Kumbedi,Right-Back,"1,75m",right,"Jun 30, 2027",€6.00m
+269,Olympique Lyon,Clinton Mata,Right-Back,"1,80m",right,"Jun 30, 2026",€4.00m
+270,Olympique Lyon,Tanner Tessmann,Defensive Midfield,"1,88m",right,"Jun 30, 2029",€6.00m
+271,Olympique Lyon,Nemanja Matic,Defensive Midfield,"1,94m",left,"Jun 30, 2026",€2.50m
+272,Olympique Lyon,Paul Akouokou,Defensive Midfield,"1,81m",right,"Jun 30, 2027",€800k
+273,Olympique Lyon,Corentin Tolisso,Central Midfield,"1,81m",right,"Jun 30, 2027",€10.00m
+274,Olympique Lyon,Jordan Veretout,Central Midfield,"1,77m",right,"Jun 30, 2026",€5.00m
+275,Olympique Lyon,Thiago Almada,Attacking Midfield,"1,71m",right,"Jun 30, 2025",€25.00m
+276,Olympique Lyon,Malick Fofana,Left Winger,"1,69m",right,"Jun 30, 2028",€25.00m
+277,Olympique Lyon,Rayan Cherki,Right Winger,"1,77m",both,"Jun 30, 2026",€35.00m
+278,Olympique Lyon,Ernest Nuamah,Right Winger,"1,78m",left,"Jun 30, 2028",€15.00m
+279,Olympique Lyon,Georges Mikautadze,Centre-Forward,"1,76m",right,"Jun 30, 2028",€20.00m
+280,Olympique Lyon,Alexandre Lacazette,Centre-Forward,"1,75m",right,"Jun 30, 2025",€8.00m
+281,Olympique Lyon,Enzo Molebe,Centre-Forward,-,right,"Jun 30, 2027",€100k
+282,Olympique Marseille,Gerónimo Rulli,Goalkeeper,"1,89m",right,"Jun 30, 2027",€8.00m
+283,Olympique Marseille,Jeffrey de Lange,Goalkeeper,"1,90m",right,"Jun 30, 2027",€2.50m
+284,Olympique Marseille,Rubén Blanco,Goalkeeper,"1,88m",right,"Jun 30, 2026",€1.50m
+285,Olympique Marseille,Jelle Van Neck,Goalkeeper,"1,91m",right,"Jun 30, 2027",€100k
+286,Olympique Marseille,Leonardo Balerdi,Centre-Back,"1,87m",right,"Jun 30, 2028",€20.00m
+287,Olympique Marseille,Luiz Felipe,Centre-Back,"1,87m",right,"Jun 30, 2026",€6.00m
+288,Olympique Marseille,Derek Cornelius,Centre-Back,"1,87m",left,"Jun 30, 2028",€5.00m
+289,Olympique Marseille,Chancel Mbemba,Centre-Back,"1,82m",right,"Jun 30, 2025",€3.00m
+290,Olympique Marseille,Quentin Merlin,Left-Back,"1,74m",left,"Jun 30, 2028",€12.00m
+291,Olympique Marseille,Ulisses Garcia,Left-Back,"1,82m",left,"Jun 30, 2028",€4.00m
+292,Olympique Marseille,Amar Dedic,Right-Back,"1,80m",right,-,€15.00m
+293,Olympique Marseille,Amir Murillo,Right-Back,"1,84m",right,"Jun 30, 2028",€9.00m
+294,Olympique Marseille,Pol Lirola,Right-Back,"1,83m",right,"Jun 30, 2026",€4.00m
+295,Olympique Marseille,Pierre-Emile Højbjerg,Defensive Midfield,"1,85m",right,"Jun 30, 2025",€20.00m
+296,Olympique Marseille,Ismaël Bennacer,Defensive Midfield,"1,75m",left,"Jun 30, 2025",€15.00m
+297,Olympique Marseille,Geoffrey Kondogbia,Defensive Midfield,"1,88m",left,"Jun 30, 2027",€8.00m
+298,Olympique Marseille,Adrien Rabiot,Central Midfield,"1,91m",left,"Jun 30, 2026",€25.00m
+299,Olympique Marseille,Valentin Rongier,Central Midfield,"1,72m",right,"Jun 30, 2026",€9.00m
+300,Olympique Marseille,Bilal Nadir,Central Midfield,"1,79m",left,"Jun 30, 2026",€5.00m
+301,Olympique Marseille,Amine Harit,Attacking Midfield,"1,80m",right,"Jun 30, 2027",€10.00m
+302,Olympique Marseille,Darryl Bakola,Attacking Midfield,"1,78m",right,"Jun 30, 2027",€200k
+303,Olympique Marseille,Jonathan Rowe,Left Winger,"1,73m",right,"Jun 30, 2025",€12.00m
+304,Olympique Marseille,Mason Greenwood,Right Winger,"1,81m",both,"Jun 30, 2029",€35.00m
+305,Olympique Marseille,Luis Henrique,Right Winger,"1,81m",right,"Jun 30, 2028",€18.00m
+306,Olympique Marseille,Amine Gouiri,Centre-Forward,"1,81m",right,"Jun 30, 2029",€20.00m
+307,Olympique Marseille,Neal Maupay,Centre-Forward,"1,71m",right,"Jun 30, 2025",€10.00m
+308,Olympique Marseille,Faris Moumbagna,Centre-Forward,"1,85m",left,"Jun 30, 2028",€8.00m
+309,Paris Saint-Germain,Gianluigi Donnarumma,Goalkeeper,"1,96m",right,"Jun 30, 2026",€35.00m
+310,Paris Saint-Germain,Matvey Safonov,Goalkeeper,"1,92m",right,"Jun 30, 2029",€22.00m
+311,Paris Saint-Germain,Arnau Tenas,Goalkeeper,"1,85m",right,"Jun 30, 2026",€4.00m
+312,Paris Saint-Germain,Willian Pacho,Centre-Back,"1,87m",left,"Jun 30, 2029",€45.00m
+313,Paris Saint-Germain,Marquinhos,Centre-Back,"1,83m",right,"Jun 30, 2028",€40.00m
+314,Paris Saint-Germain,Lucas Beraldo,Centre-Back,"1,86m",left,"Jun 30, 2028",€25.00m
+315,Paris Saint-Germain,Presnel Kimpembe,Centre-Back,"1,83m",left,"Jun 30, 2026",€8.00m
+316,Paris Saint-Germain,Nuno Mendes,Left-Back,"1,83m",left,"Jun 30, 2029",€55.00m
+317,Paris Saint-Germain,Lucas Hernández,Left-Back,"1,84m",left,"Jun 30, 2028",€30.00m
+318,Paris Saint-Germain,Achraf Hakimi,Right-Back,"1,81m",right,"Jun 30, 2029",€65.00m
+319,Paris Saint-Germain,Yoram Zague,Right-Back,"1,68m",right,"Jun 30, 2028",€2.50m
+320,Paris Saint-Germain,João Neves,Defensive Midfield,"1,74m",right,"Jun 30, 2029",€65.00m
+321,Paris Saint-Germain,Vitinha,Central Midfield,"1,72m",right,"Jun 30, 2029",€60.00m
+322,Paris Saint-Germain,Warren Zaïre-Emery,Central Midfield,"1,78m",right,"Jun 30, 2029",€60.00m
+323,Paris Saint-Germain,Fabián Ruiz,Central Midfield,"1,89m",left,"Jun 30, 2027",€35.00m
+324,Paris Saint-Germain,Senny Mayulu,Central Midfield,"1,83m",both,"Jun 30, 2027",€10.00m
+325,Paris Saint-Germain,Khvicha Kvaratskhelia,Left Winger,"1,83m",both,"Jun 30, 2029",€80.00m
+326,Paris Saint-Germain,Bradley Barcola,Left Winger,"1,82m",right,"Jun 30, 2028",€70.00m
+327,Paris Saint-Germain,Désiré Doué,Left Winger,"1,81m",right,"Jun 30, 2029",€60.00m
+328,Paris Saint-Germain,Ousmane Dembélé,Right Winger,"1,78m",both,"Jun 30, 2028",€75.00m
+329,Paris Saint-Germain,Kang-in Lee,Right Winger,"1,74m",left,"Jun 30, 2028",€30.00m
+330,Paris Saint-Germain,Ibrahim Mbaye,Right Winger,-,right,"Jun 30, 2027",€2.00m
+331,Paris Saint-Germain,Gonçalo Ramos,Centre-Forward,"1,85m",right,"Jun 30, 2028",€45.00m
+332,RC Lens,Mathew Ryan,Goalkeeper,"1,84m",right,"Jun 30, 2025",€2.50m
+333,RC Lens,Hervé Koffi,Goalkeeper,"1,86m",right,"Jun 30, 2028",€1.50m
+334,RC Lens,Denis Petric,Goalkeeper,"1,86m",right,"Jun 30, 2025",€100k
+335,RC Lens,Facundo Medina,Centre-Back,"1,84m",left,"Jun 30, 2028",€25.00m
+336,RC Lens,Malang Sarr,Centre-Back,"1,83m",left,"Jun 30, 2026",€5.00m
+337,RC Lens,Jonathan Gradit,Centre-Back,"1,80m",right,"Jun 30, 2028",€4.00m
+338,RC Lens,Juma Bah,Centre-Back,"1,95m",right,"Jun 30, 2025",€4.00m
+339,RC Lens,Nidal Celik,Centre-Back,"1,92m",right,"Jun 30, 2029",€1.80m
+340,RC Lens,Jhoanner Chávez,Left-Back,"1,82m",left,"Jun 30, 2028",€4.00m
+341,RC Lens,Deiver Machado,Left-Back,"1,80m",left,"Jun 30, 2026",€3.50m
+342,RC Lens,Ruben Aguilar,Right-Back,"1,72m",right,"Jun 30, 2026",€4.00m
+343,RC Lens,Hamzat Ojediran,Defensive Midfield,"1,79m",right,"Jun 30, 2028",€2.00m
+344,RC Lens,Nampalys Mendy,Defensive Midfield,"1,68m",right,"Jun 30, 2025",€2.00m
+345,RC Lens,Tom Pouilly,Defensive Midfield,"1,80m",right,"Jun 30, 2027",€100k
+346,RC Lens,Andy Diouf,Central Midfield,"1,87m",left,"Jun 30, 2028",€10.00m
+347,RC Lens,Neil El Aynaoui,Central Midfield,"1,85m",right,"Jun 30, 2027",€10.00m
+348,RC Lens,Anass Zaroury,Attacking Midfield,"1,76m",right,"Jun 30, 2028",€8.00m
+349,RC Lens,Angelo Fulgini,Attacking Midfield,"1,82m",right,"Jun 30, 2027",€6.00m
+350,RC Lens,Adrien Thomasson,Attacking Midfield,"1,75m",right,"Jun 30, 2026",€5.00m
+351,RC Lens,Jeremy Agbonifo,Right Winger,"1,78m",left,"Jun 30, 2025",€5.00m
+352,RC Lens,M'Bala Nzola,Centre-Forward,"1,85m",left,"Jun 30, 2025",€8.00m
+353,RC Lens,Martín Satriano,Centre-Forward,"1,87m",right,"Jun 30, 2025",€5.00m
+354,RC Lens,Wesley Saïd,Centre-Forward,"1,71m",right,"Jun 30, 2026",€3.50m
+355,RC Lens,Florian Sotoca,Centre-Forward,"1,87m",right,"Jun 30, 2026",€2.50m
+356,RC Lens,Rémy Labeau Lascary,Centre-Forward,"1,84m",right,"Jun 30, 2028",€2.50m
+357,RC Lens,Goduine Koyalipou,Centre-Forward,"1,84m",right,"Jun 30, 2028",€1.80m
+358,RC Strasbourg Alsace,Djordje Petrovic,Goalkeeper,"1,90m",right,"Jun 30, 2025",€18.00m
+359,RC Strasbourg Alsace,Alaa Bellaarouch,Goalkeeper,"1,89m",right,"Jun 30, 2027",€500k
+360,RC Strasbourg Alsace,Karl-Johan Johnsson,Goalkeeper,"1,88m",right,"Jun 30, 2026",€400k
+361,RC Strasbourg Alsace,Mamadou Sarr,Centre-Back,"1,94m",right,"Jun 30, 2029",€15.00m
+362,RC Strasbourg Alsace,Ismaël Doukouré,Centre-Back,"1,83m",right,"Jun 30, 2026",€15.00m
+363,RC Strasbourg Alsace,Abakar Sylla,Centre-Back,"1,88m",left,"Jun 30, 2028",€12.00m
+364,RC Strasbourg Alsace,Andrew Omobamidele,Centre-Back,"1,88m",right,"Jun 30, 2025",€10.00m
+365,RC Strasbourg Alsace,Yoni Gomis,Centre-Back,"1,86m",left,"Jun 30, 2029",€1.00m
+366,RC Strasbourg Alsace,Valentín Barco,Left-Back,"1,70m",left,"Jun 30, 2025",€8.00m
+367,RC Strasbourg Alsace,Eduard Sobol,Left-Back,"1,86m",left,"Jun 30, 2026",€1.20m
+368,RC Strasbourg Alsace,Thomas Delaine,Left-Back,"1,80m",left,"Jun 30, 2025",€800k
+369,RC Strasbourg Alsace,Guéla Doué,Right-Back,"1,87m",right,"Jun 30, 2029",€12.00m
+370,RC Strasbourg Alsace,Pape Diong,Defensive Midfield,"1,93m",right,"Jun 30, 2029",€800k
+371,RC Strasbourg Alsace,Andrey Santos,Central Midfield,"1,80m",right,"Jun 30, 2025",€25.00m
+372,RC Strasbourg Alsace,Habib Diarra,Central Midfield,"1,78m",right,"Jun 30, 2028",€20.00m
+373,RC Strasbourg Alsace,Sebastian Nanasi,Left Midfield,"1,78m",right,"Jun 30, 2029",€15.00m
+374,RC Strasbourg Alsace,Félix Lemaréchal,Attacking Midfield,"1,80m",right,"Jun 30, 2029",€7.00m
+375,RC Strasbourg Alsace,Diego Moreira,Left Winger,"1,79m",left,"Jun 30, 2029",€10.00m
+376,RC Strasbourg Alsace,Óscar Perea,Left Winger,"1,74m",right,"Jun 30, 2029",€2.50m
+377,RC Strasbourg Alsace,Dilane Bakwa,Right Winger,"1,80m",left,"Jun 30, 2027",€18.00m
+378,RC Strasbourg Alsace,Samuel Amo-Ameyaw,Right Winger,"1,74m",left,"Jun 30, 2025",€2.00m
+379,RC Strasbourg Alsace,Abdoul Ouattara,Right Winger,"1,80m",,"Jun 30, 2029",€800k
+380,RC Strasbourg Alsace,Emanuel Emegha,Centre-Forward,"1,96m",right,"Jun 30, 2028",€20.00m
+381,RC Strasbourg Alsace,Sékou Mara,Centre-Forward,"1,83m",right,"Jun 30, 2029",€6.00m
+382,RC Strasbourg Alsace,Moïse Sahi Dion,Centre-Forward,"1,75m",left,"Jun 30, 2026",€1.50m
+383,Stade Brestois 29,Marco Bizot,Goalkeeper,"1,93m",right,"Jun 30, 2026",€3.50m
+384,Stade Brestois 29,Grégoire Coudert,Goalkeeper,"1,92m",left,"Jun 30, 2027",€400k
+385,Stade Brestois 29,Soumaïla Coulibaly,Centre-Back,"1,91m",left,"Jun 30, 2025",€9.00m
+386,Stade Brestois 29,Brendan Chardonnet,Centre-Back,"1,81m",right,"Jun 30, 2027",€6.00m
+387,Stade Brestois 29,Abdoulaye Ndiaye,Centre-Back,"1,95m",left,"Jun 30, 2025",€3.00m
+388,Stade Brestois 29,Julien Le Cardinal,Centre-Back,"1,84m",right,"Jun 30, 2027",€1.50m
+389,Stade Brestois 29,Bradley Locko,Left-Back,"1,80m",left,"Jun 30, 2027",€9.00m
+390,Stade Brestois 29,Jordan Amavi,Left-Back,"1,76m",left,"Jun 30, 2025",€2.00m
+391,Stade Brestois 29,Massadio Haidara,Left-Back,"1,79m",left,"Jun 30, 2025",€1.80m
+392,Stade Brestois 29,Justin Bourgault,Left-Back,"1,85m",left,"Jun 30, 2029",€300k
+393,Stade Brestois 29,Luck Zogbé,Right-Back,"1,78m",right,"Jun 30, 2027",€3.00m
+394,Stade Brestois 29,Kenny Lala,Right-Back,"1,78m",right,"Jun 30, 2027",€2.50m
+395,Stade Brestois 29,Pierre Lees-Melou,Defensive Midfield,"1,85m",right,"Jun 30, 2027",€7.00m
+396,Stade Brestois 29,Edimilson Fernandes,Defensive Midfield,"1,87m",right,"Jun 30, 2025",€3.50m
+397,Stade Brestois 29,Jonas Martin,Defensive Midfield,"1,84m",right,"Jun 30, 2025",€800k
+398,Stade Brestois 29,Hamidou Makalou,Defensive Midfield,"1,64m",right,"Jun 30, 2029",€200k
+399,Stade Brestois 29,Mahdi Camara,Central Midfield,"1,78m",right,"Jun 30, 2027",€10.00m
+400,Stade Brestois 29,Hugo Magnetti,Central Midfield,"1,80m",right,"Jun 30, 2027",€7.00m
+401,Stade Brestois 29,Romain Faivre,Right Midfield,"1,80m",left,"Jun 30, 2025",€7.00m
+402,Stade Brestois 29,Kamory Doumbia,Attacking Midfield,"1,70m",right,"Jun 30, 2029",€5.00m
+403,Stade Brestois 29,Abdallah Sima,Left Winger,"1,88m",right,"Jun 30, 2025",€10.00m
+404,Stade Brestois 29,Ibrahim Salah,Left Winger,"1,86m",right,"Jun 30, 2025",€4.00m
+405,Stade Brestois 29,Mathias Pereira Lage,Left Winger,"1,80m",right,"Jun 30, 2025",€2.00m
+406,Stade Brestois 29,Romain Del Castillo,Right Winger,"1,72m",left,"Jun 30, 2027",€8.00m
+407,Stade Brestois 29,Mama Baldé,Centre-Forward,"1,76m",right,"Jun 30, 2027",€4.50m
+408,Stade Brestois 29,Ludovic Ajorque,Centre-Forward,"1,96m",left,"Jun 30, 2025",€4.00m
+409,Stade Reims,Yehvann Diouf,Goalkeeper,"1,90m",right,"Jun 30, 2027",€9.00m
+410,Stade Reims,Alexandre Olliero,Goalkeeper,"1,93m",right,"Jun 30, 2026",€300k
+411,Stade Reims,Ludovic Butelle,Goalkeeper,"1,88m",left,"Jun 30, 2025",€100k
+412,Stade Reims,Joseph Okumu,Centre-Back,"1,90m",right,"Jun 30, 2028",€7.00m
+413,Stade Reims,Cédric Kipré,Centre-Back,"1,93m",right,"Jun 30, 2027",€3.00m
+414,Stade Reims,Malcolm Jeng,Centre-Back,"1,90m",left,"Jun 30, 2029",€2.50m
+415,Stade Reims,Abdoul Koné,Centre-Back,"1,92m",right,"Jun 30, 2027",€500k
+416,Stade Reims,Sergio Akieme,Left-Back,"1,75m",left,"Jun 30, 2028",€7.00m
+417,Stade Reims,Nhoa Sangui,Left-Back,"1,78m",left,"Jun 30, 2027",€2.50m
+418,Stade Reims,Aurélio Buta,Right-Back,"1,72m",right,"Jun 30, 2025",€5.00m
+419,Stade Reims,Hiroki Sekine,Right-Back,"1,87m",right,"Jun 30, 2029",€800k
+420,Stade Reims,Gabriel Moscardo,Defensive Midfield,"1,85m",right,"Jun 30, 2025",€10.00m
+421,Stade Reims,Mory Gbane,Defensive Midfield,"1,88m",right,"Jun 30, 2029",€4.00m
+422,Stade Reims,Amadou Koné,Defensive Midfield,-,left,"Jun 30, 2028",€1.50m
+423,Stade Reims,Valentin Atangana,Central Midfield,"1,76m",right,"Jun 30, 2027",€9.00m
+424,Stade Reims,Yaya Fofana,Central Midfield,"1,80m",right,"Jun 30, 2029",€5.00m
+425,Stade Reims,Teddy Teuma,Central Midfield,"1,76m",left,"Jun 30, 2027",€4.00m
+426,Stade Reims,John Patrick,Central Midfield,"1,92m",right,"Jun 30, 2029",€1.00m
+427,Stade Reims,Reda Khadra,Attacking Midfield,"1,75m",right,"Jun 30, 2027",€2.50m
+428,Stade Reims,Keito Nakamura,Left Winger,"1,80m",right,"Jun 30, 2028",€10.00m
+429,Stade Reims,Mohamed Daramy,Left Winger,"1,80m",right,"Jun 30, 2028",€5.00m
+430,Stade Reims,Mamadou Diakhon,Left Winger,"1,80m",left,"Jun 30, 2026",€1.50m
+431,Stade Reims,Junya Ito,Right Winger,"1,76m",right,"Jun 30, 2026",€8.00m
+432,Stade Reims,Oumar Diakité,Centre-Forward,"1,85m",right,"Jun 30, 2028",€7.00m
+433,Stade Reims,Jordan,Centre-Forward,"1,91m",right,"Jun 30, 2027",€3.00m
+434,Stade Rennais FC,Brice Samba,Goalkeeper,"1,87m",left,"Jun 30, 2029",€15.00m
+435,Stade Rennais FC,Doğan Alemdar,Goalkeeper,"1,92m",right,"Jun 30, 2027",€2.00m
+436,Stade Rennais FC,Gauthier Gallon,Goalkeeper,"1,87m",right,"Jun 30, 2027",€1.00m
+437,Stade Rennais FC,Steve Mandanda,Goalkeeper,"1,87m",right,"Jun 30, 2025",€700k
+438,Stade Rennais FC,Geoffrey Lembet,Goalkeeper,"1,86m",left,"Jun 30, 2025",€150k
+439,Stade Rennais FC,Lilian Brassier,Centre-Back,"1,86m",left,"Jun 30, 2025",€10.00m
+440,Stade Rennais FC,Anthony Rouault,Centre-Back,"1,86m",right,"Jun 30, 2029",€10.00m
+441,Stade Rennais FC,Alidu Seidu,Centre-Back,"1,73m",right,"Jun 30, 2029",€9.00m
+442,Stade Rennais FC,Mikayil Faye,Centre-Back,"1,83m",left,"Jun 30, 2028",€8.00m
+443,Stade Rennais FC,Christopher Wooh,Centre-Back,"1,91m",right,"Jun 30, 2026",€7.00m
+444,Stade Rennais FC,Jérémy Jacquet,Centre-Back,"1,90m",right,"Jun 30, 2027",€5.00m
+445,Stade Rennais FC,Adrien Truffert,Left-Back,"1,76m",left,"Jun 30, 2026",€15.00m
+446,Stade Rennais FC,Mahamadou Nagida,Left-Back,"1,76m",left,"Jun 30, 2028",€1.00m
+447,Stade Rennais FC,Lorenz Assignon,Right-Back,"1,81m",right,"Jun 30, 2028",€9.00m
+448,Stade Rennais FC,Hans Hateboer,Right-Back,"1,87m",right,"Jun 30, 2026",€3.00m
+449,Stade Rennais FC,Azor Matusiwa,Defensive Midfield,"1,73m",right,"Jun 30, 2028",€10.00m
+450,Stade Rennais FC,Seko Fofana,Central Midfield,"1,85m",right,"Jun 30, 2029",€12.00m
+451,Stade Rennais FC,Ismaël Koné,Central Midfield,"1,88m",right,"Jun 30, 2025",€10.00m
+452,Stade Rennais FC,Jordan James,Central Midfield,"1,82m",right,"Jun 30, 2028",€8.00m
+453,Stade Rennais FC,Naouirou Ahamada,Central Midfield,"1,83m",right,"Jun 30, 2025",€5.00m
+454,Stade Rennais FC,Djaoui Cissé,Central Midfield,"1,88m",right,"Jun 30, 2029",€5.00m
+455,Stade Rennais FC,Ayanda Sishuba,Attacking Midfield,"1,69m",right,"Jun 30, 2029",€2.00m
+456,Stade Rennais FC,Kazeem Olaigbe,Left Winger,"1,78m",right,"Jun 30, 2029",€4.00m
+457,Stade Rennais FC,Ludovic Blas,Right Winger,"1,80m",left,"Jun 30, 2027",€18.00m
+458,Stade Rennais FC,Mousa Tamari,Right Winger,"1,78m",left,"Jun 30, 2028",€6.00m
+459,Stade Rennais FC,Carlos Andrés Gómez,Right Winger,"1,71m",right,"Jun 30, 2029",€5.00m
+460,Stade Rennais FC,Arnaud Kalimuendo,Centre-Forward,"1,75m",right,"Jun 30, 2027",€20.00m
+461,Stade Rennais FC,Kyogo Furuhashi,Centre-Forward,"1,70m",right,"Jun 30, 2027",€12.00m
+462,Stade Rennais FC,Mohamed Kader Meïté,Centre-Forward,-,right,"Jun 30, 2028",€600k
+463,Stade Rennais FC,Wilson Samaké,Centre-Forward,"1,82m",right,"Jun 30, 2026",€150k

@@ -1,0 +1,495 @@
+,CLB,Name,Main_position,Height,Foot,Contract,Market_Value
+0,Athletic Bilbao,Unai Simón,Goalkeeper,"1,90m",right,"Jun 30, 2029",€28.00m
+1,Athletic Bilbao,Julen Agirrezabala,Goalkeeper,"1,87m",left,"Jun 30, 2027",€15.00m
+2,Athletic Bilbao,Dani Vivian,Centre-Back,"1,84m",right,"Jun 30, 2032",€40.00m
+3,Athletic Bilbao,Aitor Paredes,Centre-Back,"1,85m",right,"Jun 30, 2029",€22.00m
+4,Athletic Bilbao,Yeray Álvarez,Centre-Back,"1,82m",right,"Jun 30, 2026",€7.50m
+5,Athletic Bilbao,Unai Núñez,Centre-Back,"1,86m",right,"Jun 30, 2025",€3.00m
+6,Athletic Bilbao,Adama Boiro,Left-Back,"1,83m",left,"Jun 30, 2029",€2.50m
+7,Athletic Bilbao,Yuri Berchiche,Left-Back,"1,81m",left,"Jun 30, 2025",€1.50m
+8,Athletic Bilbao,Andoni Gorosabel,Right-Back,"1,74m",right,"Jun 30, 2028",€5.00m
+9,Athletic Bilbao,Iñigo Lekue,Right-Back,"1,80m",right,"Jun 30, 2025",€2.50m
+10,Athletic Bilbao,Óscar de Marcos,Right-Back,"1,82m",right,"Jun 30, 2025",€1.50m
+11,Athletic Bilbao,Mikel Vesga,Defensive Midfield,"1,91m",left,"Jun 30, 2027",€3.00m
+12,Athletic Bilbao,Mikel Jauregizar,Central Midfield,"1,77m",right,"Jun 30, 2027",€20.00m
+13,Athletic Bilbao,Beñat Prados,Central Midfield,"1,80m",right,"Jun 30, 2031",€18.00m
+14,Athletic Bilbao,Iñigo Ruiz de Galarreta,Central Midfield,"1,75m",right,"Jun 30, 2025",€4.00m
+15,Athletic Bilbao,Oihan Sancet,Attacking Midfield,"1,88m",right,"Jun 30, 2032",€60.00m
+16,Athletic Bilbao,Unai Gómez,Attacking Midfield,"1,83m",left,"Jun 30, 2028",€6.00m
+17,Athletic Bilbao,Peio Canales,Attacking Midfield,"1,75m",right,"Jun 30, 2027",€500k
+18,Athletic Bilbao,Nico Williams,Left Winger,"1,81m",right,"Jun 30, 2027",€70.00m
+19,Athletic Bilbao,Álex Berenguer,Left Winger,"1,75m",right,"Jun 30, 2027",€12.00m
+20,Athletic Bilbao,Álvaro Djaló,Left Winger,"1,75m",right,"Jun 30, 2029",€8.00m
+21,Athletic Bilbao,Iñaki Williams,Right Winger,"1,86m",right,"Jun 30, 2028",€20.00m
+22,Athletic Bilbao,Gorka Guruzeta,Centre-Forward,"1,88m",right,"Jun 30, 2028",€12.00m
+23,Athletic Bilbao,Maroan Sannadi,Centre-Forward,"1,92m",right,"Jun 30, 2029",€5.00m
+24,Atlético de Madrid,Jan Oblak,Goalkeeper,"1,88m",right,"Jun 30, 2028",€25.00m
+25,Atlético de Madrid,Juan Musso,Goalkeeper,"1,91m",right,"Jun 30, 2025",€4.00m
+26,Atlético de Madrid,Robin Le Normand,Centre-Back,"1,87m",right,"Jun 30, 2029",€40.00m
+27,Atlético de Madrid,José María Giménez,Centre-Back,"1,85m",right,"Jun 30, 2028",€20.00m
+28,Atlético de Madrid,Clément Lenglet,Centre-Back,"1,86m",left,"Jun 30, 2025",€7.50m
+29,Atlético de Madrid,Axel Witsel,Centre-Back,"1,86m",right,"Jun 30, 2025",€2.50m
+30,Atlético de Madrid,César Azpilicueta,Centre-Back,"1,78m",right,"Jun 30, 2025",€1.80m
+31,Atlético de Madrid,Reinildo Mandava,Left-Back,"1,80m",left,"Jun 30, 2025",€8.00m
+32,Atlético de Madrid,Javi Galán,Left-Back,"1,72m",left,"Jun 30, 2026",€4.00m
+33,Atlético de Madrid,Nahuel Molina,Right-Back,"1,75m",right,"Jun 30, 2027",€25.00m
+34,Atlético de Madrid,Pablo Barrios,Central Midfield,"1,81m",right,"Jun 30, 2028",€50.00m
+35,Atlético de Madrid,Conor Gallagher,Central Midfield,"1,82m",right,"Jun 30, 2029",€40.00m
+36,Atlético de Madrid,Rodrigo De Paul,Central Midfield,"1,80m",right,"Jun 30, 2026",€25.00m
+37,Atlético de Madrid,Koke,Central Midfield,"1,76m",right,"Jun 30, 2025",€10.00m
+38,Atlético de Madrid,Marcos Llorente,Right Midfield,"1,84m",right,"Jun 30, 2027",€28.00m
+39,Atlético de Madrid,Thomas Lemar,Attacking Midfield,"1,71m",left,"Jun 30, 2027",€5.00m
+40,Atlético de Madrid,Samuel Lino,Left Winger,"1,77m",right,"Jun 30, 2027",€25.00m
+41,Atlético de Madrid,Rodrigo Riquelme,Left Winger,"1,74m",right,"Jun 30, 2028",€18.00m
+42,Atlético de Madrid,Giuliano Simeone,Right Winger,"1,73m",right,"Jun 30, 2028",€25.00m
+43,Atlético de Madrid,Ángel Correa,Right Winger,"1,71m",right,"Jun 30, 2026",€15.00m
+44,Atlético de Madrid,Julián Alvarez,Centre-Forward,"1,70m",right,"Jun 30, 2030",€90.00m
+45,Atlético de Madrid,Alexander Sørloth,Centre-Forward,"1,95m",left,"Jun 30, 2028",€25.00m
+46,Atlético de Madrid,Antoine Griezmann,Centre-Forward,"1,76m",left,"Jun 30, 2026",€22.00m
+47,CA Osasuna,Sergio Herrera,Goalkeeper,"1,92m",right,"Jun 30, 2026",€4.00m
+48,CA Osasuna,Aitor Fernández,Goalkeeper,"1,82m",right,"Jun 30, 2027",€1.50m
+49,CA Osasuna,Enzo Boyomo,Centre-Back,"1,84m",right,"May 30, 2029",€20.00m
+50,CA Osasuna,Jorge Herrando,Centre-Back,"1,92m",left,"Jun 30, 2027",€4.00m
+51,CA Osasuna,Alejandro Catena,Centre-Back,"1,94m",right,"Jun 30, 2028",€4.00m
+52,CA Osasuna,Unai García,Centre-Back,"1,86m",right,"Jun 30, 2025",€1.00m
+53,CA Osasuna,Abel Bretones,Left-Back,"1,88m",left,"Jun 30, 2029",€3.00m
+54,CA Osasuna,Juan Cruz,Left-Back,"1,82m",left,"Jun 30, 2026",€1.80m
+55,CA Osasuna,Jesús Areso,Right-Back,"1,82m",right,"Jun 30, 2026",€8.00m
+56,CA Osasuna,Rubén Peña,Right-Back,"1,70m",right,"Jun 30, 2025",€1.80m
+57,CA Osasuna,Lucas Torró,Defensive Midfield,"1,90m",right,"Jun 30, 2027",€3.50m
+58,CA Osasuna,Iker Muñoz,Defensive Midfield,"1,80m",right,"Jun 30, 2027",€3.00m
+59,CA Osasuna,Jon Moncayola,Central Midfield,"1,82m",right,"Jun 30, 2031",€7.00m
+60,CA Osasuna,Pablo Ibáñez,Central Midfield,"1,79m",right,"Jun 30, 2025",€2.30m
+61,CA Osasuna,Aimar Oroz,Attacking Midfield,"1,77m",right,"Jun 30, 2029",€15.00m
+62,CA Osasuna,Bryan Zaragoza,Left Winger,"1,64m",right,"Jun 30, 2025",€12.00m
+63,CA Osasuna,Moi Gómez,Left Winger,"1,76m",right,"Jun 30, 2027",€3.00m
+64,CA Osasuna,José Manuel Arnáiz,Left Winger,"1,73m",right,"Jun 30, 2025",€1.80m
+65,CA Osasuna,Rubén García,Right Winger,"1,72m",left,"Jun 30, 2026",€2.00m
+66,CA Osasuna,Kike Barja,Right Winger,"1,79m",right,"Jun 30, 2026",€1.80m
+67,CA Osasuna,Ante Budimir,Centre-Forward,"1,90m",left,"Jun 30, 2027",€5.00m
+68,CA Osasuna,Raúl García,Centre-Forward,"1,92m",right,"Jun 30, 2028",€3.50m
+69,CD Leganés,Juan Soriano,Goalkeeper,"1,85m",right,"Jun 30, 2027",€1.20m
+70,CD Leganés,Marko Dmitrovic,Goalkeeper,"1,89m",left,"Jun 30, 2025",€800k
+71,CD Leganés,Sergio González,Centre-Back,"1,89m",right,"Jun 30, 2025",€1.50m
+72,CD Leganés,Jorge Sáenz,Centre-Back,"1,88m",right,"Jun 30, 2025",€1.20m
+73,CD Leganés,Matija Nastasić,Centre-Back,"1,87m",left,"Jun 30, 2026",€1.00m
+74,CD Leganés,Javi Hernández,Left-Back,"1,80m",left,"Jun 30, 2027",€2.00m
+75,CD Leganés,Enric Franquesa,Left-Back,"1,75m",left,"Jun 30, 2026",€1.50m
+76,CD Leganés,Borna Barisic,Left-Back,"1,86m",left,"Jun 30, 2025",€1.00m
+77,CD Leganés,Valentin Rosier,Right-Back,"1,75m",right,"Jun 30, 2025",€3.00m
+78,CD Leganés,Adrià Altimira,Right-Back,"1,70m",right,"Jun 30, 2025",€1.50m
+79,CD Leganés,Renato Tapia,Defensive Midfield,"1,85m",right,"Jun 30, 2026",€3.50m
+80,CD Leganés,Yvan Neyou,Defensive Midfield,"1,80m",right,"Jun 30, 2025",€2.50m
+81,CD Leganés,Julián Chicco,Defensive Midfield,"1,87m",right,"Jun 30, 2025",€600k
+82,CD Leganés,Seydouba Cissé,Central Midfield,"1,78m",right,"Jun 30, 2026",€3.00m
+83,CD Leganés,Darko Brasanac,Central Midfield,"1,78m",right,"Jun 30, 2025",€600k
+84,CD Leganés,Óscar Rodríguez,Attacking Midfield,"1,74m",right,"Jun 30, 2026",€2.00m
+85,CD Leganés,Roberto López,Attacking Midfield,"1,79m",left,"Jun 30, 2027",€1.50m
+86,CD Leganés,Juan Cruz,Left Winger,"1,80m",left,"Jun 30, 2028",€4.00m
+87,CD Leganés,Duk,Left Winger,"1,82m",right,"Jun 30, 2025",€1.20m
+88,CD Leganés,Dani Raba,Right Winger,"1,85m",left,"Jun 30, 2025",€1.80m
+89,CD Leganés,Munir El Haddadi,Right Winger,"1,77m",left,"Jun 30, 2026",€1.50m
+90,CD Leganés,Miguel de la Fuente,Centre-Forward,"1,82m",right,"Jun 30, 2028",€2.00m
+91,CD Leganés,Diego García,Centre-Forward,"1,88m",right,"Jun 30, 2027",€1.50m
+92,Celta de Vigo,Iván Villar,Goalkeeper,"1,86m",right,"Jun 30, 2027",€900k
+93,Celta de Vigo,Vicente Guaita,Goalkeeper,"1,90m",right,"Jun 30, 2025",€800k
+94,Celta de Vigo,Javi Rodríguez,Centre-Back,"1,78m",right,"Jun 30, 2028",€10.00m
+95,Celta de Vigo,Carl Starfelt,Centre-Back,"1,87m",right,"Jun 30, 2027",€6.00m
+96,Celta de Vigo,Carlos Domínguez,Centre-Back,"1,87m",left,"Jun 30, 2026",€2.50m
+97,Celta de Vigo,Yoel Lago,Centre-Back,"1,85m",right,"Jun 30, 2027",€200k
+98,Celta de Vigo,Marcos Alonso,Left-Back,"1,88m",left,"Jun 30, 2025",€1.80m
+99,Celta de Vigo,Mihailo Ristic,Left-Back,"1,80m",left,"Jun 30, 2026",€900k
+100,Celta de Vigo,Óscar Mingueza,Right-Back,"1,84m",right,"Jun 30, 2026",€20.00m
+101,Celta de Vigo,Sergio Carreira,Right-Back,"1,70m",right,"Jun 30, 2025",€3.00m
+102,Celta de Vigo,Javier Manquillo,Right-Back,"1,78m",right,"Jun 30, 2025",€1.80m
+103,Celta de Vigo,Damián Rodríguez,Defensive Midfield,"1,80m",left,"Jun 30, 2028",€3.00m
+104,Celta de Vigo,Jailson,Defensive Midfield,"1,87m",right,"Jun 30, 2025",€1.50m
+105,Celta de Vigo,Fran Beltrán,Central Midfield,"1,65m",right,"Jun 30, 2026",€6.00m
+106,Celta de Vigo,Hugo Sotelo,Central Midfield,"1,80m",right,"Jun 30, 2028",€5.00m
+107,Celta de Vigo,Ilaix Moriba,Central Midfield,"1,85m",right,"Jun 30, 2025",€4.00m
+108,Celta de Vigo,Hugo Álvarez,Left Winger,"1,76m",right,"Jun 30, 2028",€7.50m
+109,Celta de Vigo,Williot Swedberg,Left Winger,"1,87m",right,"Jun 30, 2027",€5.00m
+110,Celta de Vigo,Alfon González,Left Winger,"1,72m",,"Jun 30, 2025",€2.00m
+111,Celta de Vigo,Franco Cervi,Left Winger,"1,66m",left,"Jun 30, 2026",€900k
+112,Celta de Vigo,Fer López,Right Winger,"1,88m",left,"Jun 30, 2028",€1.50m
+113,Celta de Vigo,Iker Losada,Second Striker,"1,75m",right,"Jun 30, 2025",€1.80m
+114,Celta de Vigo,Pablo Durán,Centre-Forward,"1,76m",right,"Jun 30, 2027",€3.50m
+115,Celta de Vigo,Borja Iglesias,Centre-Forward,"1,87m",right,"Jun 30, 2025",€3.00m
+116,Celta de Vigo,Iago Aspas,Centre-Forward,"1,76m",left,"Jun 30, 2026",€2.50m
+117,Deportivo Alavés,Antonio Sivera,Goalkeeper,"1,85m",right,"Jun 30, 2027",€6.00m
+118,Deportivo Alavés,Jesús Owono,Goalkeeper,"1,86m",both,"Jun 30, 2026",€1.00m
+119,Deportivo Alavés,Adrián Rodríguez,Goalkeeper,"1,95m",right,"Jun 30, 2027",€100k
+120,Deportivo Alavés,Abdel Abqar,Centre-Back,"1,88m",right,"Jun 30, 2025",€7.50m
+121,Deportivo Alavés,Santiago Mouriño,Centre-Back,"1,86m",right,"Jun 30, 2029",€2.00m
+122,Deportivo Alavés,Moussa Diarra,Centre-Back,"1,85m",left,"Jun 30, 2028",€2.00m
+123,Deportivo Alavés,Adrián Pica,Centre-Back,"1,90m",,"Jun 30, 2026",€1.50m
+124,Deportivo Alavés,Facundo Garcés,Centre-Back,"1,89m",right,"Jun 30, 2028",€1.20m
+125,Deportivo Alavés,Aleksandar Sedlar,Centre-Back,"1,80m",right,"Jun 30, 2025",€400k
+126,Deportivo Alavés,Manu Sánchez,Left-Back,"1,71m",left,"Jun 30, 2025",€6.00m
+127,Deportivo Alavés,Nahuel Tenaglia,Right-Back,"1,81m",right,"Jun 30, 2027",€3.00m
+128,Deportivo Alavés,Hugo Novoa,Right-Back,"1,82m",right,"Jun 30, 2029",€2.00m
+129,Deportivo Alavés,Antonio Blanco,Defensive Midfield,"1,76m",right,"Jun 30, 2027",€7.50m
+130,Deportivo Alavés,Carlos Protesoni,Defensive Midfield,"1,85m",right,"Jun 30, 2026",€1.50m
+131,Deportivo Alavés,Ander Guevara,Central Midfield,"1,80m",right,"Jun 30, 2027",€4.00m
+132,Deportivo Alavés,Jon Guridi,Central Midfield,"1,79m",left,"Jun 30, 2026",€3.00m
+133,Deportivo Alavés,Carles Aleñá,Central Midfield,"1,80m",left,"Jun 30, 2025",€2.50m
+134,Deportivo Alavés,Joan Jordán,Central Midfield,"1,85m",right,"Jun 30, 2025",€2.50m
+135,Deportivo Alavés,Carlos Martín,Left Winger,"1,80m",right,"Jun 30, 2025",€3.00m
+136,Deportivo Alavés,Tomás Conechny,Left Winger,"1,76m",left,"Jun 30, 2028",€2.00m
+137,Deportivo Alavés,Carlos Vicente,Right Winger,"1,79m",right,"Jun 30, 2027",€8.00m
+138,Deportivo Alavés,Toni Martínez,Centre-Forward,"1,87m",right,"Jun 30, 2028",€2.80m
+139,Deportivo Alavés,Asier Villalibre,Centre-Forward,"1,82m",left,"Jun 30, 2028",€1.80m
+140,Deportivo Alavés,Kike García,Centre-Forward,"1,86m",right,"Jun 30, 2025",€900k
+141,Deportivo Alavés,Pau Cabanes,Centre-Forward,"1,79m",right,"Jun 30, 2025",€800k
+142,FC Barcelona,Marc-André ter Stegen,Goalkeeper,"1,87m",right,"Jun 30, 2028",€15.00m
+143,FC Barcelona,Iñaki Peña,Goalkeeper,"1,84m",right,"Jun 30, 2026",€10.00m
+144,FC Barcelona,Wojciech Szczesny,Goalkeeper,"1,95m",right,"Jun 30, 2025",€1.00m
+145,FC Barcelona,Pau Cubarsí,Centre-Back,"1,84m",right,"Jun 30, 2029",€70.00m
+146,FC Barcelona,Ronald Araujo,Centre-Back,"1,92m",right,"Jun 30, 2031",€50.00m
+147,FC Barcelona,Andreas Christensen,Centre-Back,"1,87m",right,"Jun 30, 2026",€15.00m
+148,FC Barcelona,Eric García,Centre-Back,"1,82m",right,"Jun 30, 2026",€15.00m
+149,FC Barcelona,Iñigo Martínez,Centre-Back,"1,82m",left,"Jun 30, 2026",€5.00m
+150,FC Barcelona,Alejandro Balde,Left-Back,"1,75m",left,"Jun 30, 2028",€60.00m
+151,FC Barcelona,Gerard Martín,Left-Back,"1,86m",left,"Jun 30, 2028",€7.50m
+152,FC Barcelona,Jules Koundé,Right-Back,"1,80m",right,"Jun 30, 2027",€60.00m
+153,FC Barcelona,Héctor Fort,Right-Back,"1,85m",right,"Jun 30, 2026",€10.00m
+154,FC Barcelona,Marc Casadó,Defensive Midfield,"1,72m",right,"Jun 30, 2028",€30.00m
+155,FC Barcelona,Marc Bernal,Defensive Midfield,"1,91m",left,"Jun 30, 2026",€5.00m
+156,FC Barcelona,Pedri,Central Midfield,"1,74m",right,"Jun 30, 2030",€120.00m
+157,FC Barcelona,Gavi,Central Midfield,"1,73m",right,"Jun 30, 2030",€70.00m
+158,FC Barcelona,Frenkie de Jong,Central Midfield,"1,81m",right,"Jun 30, 2026",€45.00m
+159,FC Barcelona,Dani Olmo,Attacking Midfield,"1,79m",right,"Jun 30, 2030",€60.00m
+160,FC Barcelona,Fermín López,Attacking Midfield,"1,74m",right,"Jun 30, 2029",€50.00m
+161,FC Barcelona,Pablo Torre,Attacking Midfield,"1,73m",right,"Jun 30, 2026",€7.50m
+162,FC Barcelona,Raphinha,Left Winger,"1,76m",left,"Jun 30, 2027",€80.00m
+163,FC Barcelona,Ansu Fati,Left Winger,"1,78m",right,"Jun 30, 2027",€5.00m
+164,FC Barcelona,Lamine Yamal,Right Winger,"1,80m",left,"Jun 30, 2026",€180.00m
+165,FC Barcelona,Ferran Torres,Right Winger,"1,84m",right,"Jun 30, 2027",€28.00m
+166,FC Barcelona,Robert Lewandowski,Centre-Forward,"1,85m",right,"Jun 30, 2026",€15.00m
+167,FC Barcelona,Pau Víctor,Centre-Forward,"1,84m",right,"Jun 30, 2029",€5.00m
+168,Getafe CF,David Soria,Goalkeeper,"1,92m",right,"Jun 30, 2026",€4.00m
+169,Getafe CF,Jiri Letacek,Goalkeeper,"1,96m",right,"Jun 30, 2028",€2.00m
+170,Getafe CF,Omar Alderete,Centre-Back,"1,88m",left,"Jun 30, 2028",€8.00m
+171,Getafe CF,Djené,Centre-Back,"1,78m",right,"Jun 30, 2025",€2.00m
+172,Getafe CF,Juan Berrocal,Centre-Back,"1,87m",both,"Jun 30, 2027",€1.80m
+173,Getafe CF,Domingos Duarte,Centre-Back,"1,92m",right,"Jun 30, 2026",€800k
+174,Getafe CF,Juan Bernat,Left-Back,"1,70m",left,"Jun 30, 2025",€2.50m
+175,Getafe CF,Diego Rico,Left-Back,"1,83m",left,"Jun 30, 2026",€1.30m
+176,Getafe CF,Juan Iglesias,Right-Back,"1,87m",right,"Jun 30, 2026",€3.50m
+177,Getafe CF,Allan Nyom,Right-Back,"1,89m",right,"Jun 30, 2025",€400k
+178,Getafe CF,Mauro Arambarri,Central Midfield,"1,75m",right,"Jun 30, 2028",€7.00m
+179,Getafe CF,Ramón Terrats,Central Midfield,"1,81m",left,"Jun 30, 2025",€4.00m
+180,Getafe CF,Luis Milla,Central Midfield,"1,75m",right,"Jun 30, 2027",€3.50m
+181,Getafe CF,Yellu Santiago,Central Midfield,"1,92m",right,"Jun 30, 2025",€1.00m
+182,Getafe CF,Christantus Uche,Attacking Midfield,"1,90m",both,"Jun 30, 2028",€8.00m
+183,Getafe CF,Alberto Risco,Attacking Midfield,-,,"Jun 30, 2026",€200k
+184,Getafe CF,Coba da Costa,Left Winger,"1,82m",right,"Jun 30, 2026",€3.00m
+185,Getafe CF,Juanmi,Left Winger,"1,72m",right,"Jun 30, 2025",€2.80m
+186,Getafe CF,Álex Sola,Right Winger,"1,78m",right,"Jun 30, 2027",€3.00m
+187,Getafe CF,Carles Pérez,Right Winger,"1,73m",left,"Jun 30, 2025",€2.50m
+188,Getafe CF,Peter Federico,Right Winger,"1,80m",left,"Jun 30, 2028",€1.50m
+189,Getafe CF,Borja Mayoral,Centre-Forward,"1,82m",right,"Jun 30, 2027",€9.00m
+190,Getafe CF,Bertuğ Yıldırım,Centre-Forward,"1,91m",right,"Jun 30, 2025",€2.50m
+191,Getafe CF,Álvaro Rodríguez,Centre-Forward,"1,93m",left,"Jun 30, 2025",€2.50m
+192,Girona FC,Paulo Gazzaniga,Goalkeeper,"1,95m",right,"Jun 30, 2027",€3.50m
+193,Girona FC,Vladyslav Krapyvtsov,Goalkeeper,"1,88m",right,"Jun 30, 2029",€200k
+194,Girona FC,Juan Carlos,Goalkeeper,"1,87m",,"Jun 30, 2025",€100k
+195,Girona FC,Ladislav Krejci,Centre-Back,"1,91m",left,"Jun 30, 2029",€12.00m
+196,Girona FC,David López,Centre-Back,"1,85m",right,"Jun 30, 2026",€2.00m
+197,Girona FC,Daley Blind,Centre-Back,"1,80m",left,"Jun 30, 2026",€2.00m
+198,Girona FC,Juanpe,Centre-Back,"1,90m",right,"Jun 30, 2025",€900k
+199,Girona FC,Miguel Gutiérrez,Left-Back,"1,80m",left,"Jun 30, 2027",€25.00m
+200,Girona FC,Arnau Martínez,Right-Back,"1,82m",right,"Jun 30, 2027",€10.00m
+201,Girona FC,Alejandro Francés,Right-Back,"1,82m",right,"Jun 30, 2029",€2.50m
+202,Girona FC,Arthur Melo,Defensive Midfield,"1,72m",right,"Jun 30, 2025",€5.00m
+203,Girona FC,Oriol Romeu,Defensive Midfield,"1,83m",right,"Jun 30, 2025",€1.80m
+204,Girona FC,Yangel Herrera,Central Midfield,"1,84m",right,"Jun 30, 2027",€20.00m
+205,Girona FC,Donny van de Beek,Central Midfield,"1,84m",right,"Jun 30, 2028",€7.50m
+206,Girona FC,Jhon Solís,Central Midfield,"1,86m",right,"Jun 30, 2028",€3.50m
+207,Girona FC,Iván Martín,Attacking Midfield,"1,78m",left,"Jun 30, 2028",€10.00m
+208,Girona FC,Gabriel Misehouy,Attacking Midfield,"1,73m",right,"Jun 30, 2028",€1.00m
+209,Girona FC,Bryan Gil,Left Winger,"1,75m",left,"Jun 30, 2025",€15.00m
+210,Girona FC,Arnaut Danjuma,Left Winger,"1,78m",right,"Jun 30, 2025",€5.00m
+211,Girona FC,Min-su Kim,Left Winger,"1,77m",right,"Jun 30, 2027",€1.00m
+212,Girona FC,Viktor Tsygankov,Right Winger,"1,78m",left,"Jun 30, 2027",€22.00m
+213,Girona FC,Yáser Asprilla,Right Winger,"1,76m",left,"Jun 30, 2030",€18.00m
+214,Girona FC,Portu,Right Winger,"1,67m",right,"Jun 30, 2027",€2.50m
+215,Girona FC,Abel Ruiz,Centre-Forward,"1,82m",right,"Jun 30, 2029",€6.00m
+216,Girona FC,Bojan Miovski,Centre-Forward,"1,89m",left,"Jun 30, 2028",€3.00m
+217,Girona FC,Cristhian Stuani,Centre-Forward,"1,84m",right,"Jun 30, 2026",€1.20m
+218,Rayo Vallecano,Augusto Batalla,Goalkeeper,"1,86m",right,"Jun 30, 2025",€6.00m
+219,Rayo Vallecano,Dani Cárdenas,Goalkeeper,"1,86m",right,"Jun 30, 2027",€1.80m
+220,Rayo Vallecano,Abdul Mumin,Centre-Back,"1,88m",right,"Jun 30, 2026",€5.00m
+221,Rayo Vallecano,Florian Lejeune,Centre-Back,"1,90m",right,"Jun 30, 2027",€2.80m
+222,Rayo Vallecano,Pelayo Fernández,Centre-Back,"1,93m",right,"Jun 30, 2028",€500k
+223,Rayo Vallecano,Aridane Hernández,Centre-Back,"1,88m",right,"Jun 30, 2025",€400k
+224,Rayo Vallecano,Pep Chavarría,Left-Back,"1,74m",left,"Jun 30, 2027",€3.50m
+225,Rayo Vallecano,Alfonso Espino,Left-Back,"1,72m",left,"Jun 30, 2026",€1.50m
+226,Rayo Vallecano,Andrei Rațiu,Right-Back,"1,83m",right,"Jun 30, 2028",€12.00m
+227,Rayo Vallecano,Iván Balliu,Right-Back,"1,72m",right,"Jun 30, 2027",€1.50m
+228,Rayo Vallecano,Gerard Gumbau,Defensive Midfield,"1,88m",left,"Jun 30, 2025",€2.00m
+229,Rayo Vallecano,Óscar Valentín,Central Midfield,"1,77m",right,"Jun 30, 2027",€3.50m
+230,Rayo Vallecano,Unai López,Central Midfield,"1,70m",right,"Jun 30, 2026",€2.80m
+231,Rayo Vallecano,Pedro Díaz,Central Midfield,"1,80m",right,"Jun 30, 2028",€2.50m
+232,Rayo Vallecano,Pathé Ciss,Central Midfield,"1,86m",right,"Jun 30, 2027",€2.00m
+233,Rayo Vallecano,Randy Nteka,Attacking Midfield,"1,89m",left,"Jun 30, 2028",€1.50m
+234,Rayo Vallecano,Joni Montiel,Attacking Midfield,"1,73m",left,"Jun 30, 2025",€900k
+235,Rayo Vallecano,Oscar Trejo,Attacking Midfield,"1,80m",right,"Jun 30, 2025",€800k
+236,Rayo Vallecano,Álvaro García,Left Winger,"1,67m",both,"Jun 30, 2028",€2.50m
+237,Rayo Vallecano,Jorge de Frutos,Right Winger,"1,73m",right,"Jun 30, 2028",€4.00m
+238,Rayo Vallecano,Adrián Embarba,Right Winger,"1,73m",right,"Jun 30, 2025",€1.50m
+239,Rayo Vallecano,Isi Palazón,Second Striker,"1,69m",left,"Jun 30, 2028",€4.00m
+240,Rayo Vallecano,Sergio Camello,Centre-Forward,"1,82m",right,"Jun 30, 2027",€3.50m
+241,Rayo Vallecano,Raúl de Tomás,Centre-Forward,"1,80m",right,"Jun 30, 2027",€800k
+242,Rayo Vallecano,Sergi Guardiola,Centre-Forward,"1,85m",left,"Jun 30, 2025",€600k
+243,RCD Espanyol Barcelona,Joan García,Goalkeeper,"1,91m",right,"Jun 30, 2028",€20.00m
+244,RCD Espanyol Barcelona,Fernando Pacheco,Goalkeeper,"1,87m",left,"Jun 30, 2026",€900k
+245,RCD Espanyol Barcelona,Ángel Fortuño,Goalkeeper,"1,83m",right,"Jun 30, 2027",€300k
+246,RCD Espanyol Barcelona,Marash Kumbulla,Centre-Back,"1,91m",right,"Jun 30, 2025",€6.00m
+247,RCD Espanyol Barcelona,Fernando Calero,Centre-Back,"1,84m",right,"Jun 30, 2026",€1.50m
+248,RCD Espanyol Barcelona,Leandro Cabrera,Centre-Back,"1,90m",left,"Jun 30, 2025",€1.00m
+249,RCD Espanyol Barcelona,Sergi Gómez,Centre-Back,"1,85m",right,"Jun 30, 2025",€900k
+250,RCD Espanyol Barcelona,Pablo Ramón,Centre-Back,"1,84m",right,"Jun 30, 2028",€200k
+251,RCD Espanyol Barcelona,Carlos Romero,Left-Back,"1,74m",left,"Jun 30, 2025",€3.00m
+252,RCD Espanyol Barcelona,Brian Oliván,Left-Back,"1,75m",left,"Jun 30, 2025",€2.00m
+253,RCD Espanyol Barcelona,Omar El Hilali,Right-Back,"1,83m",right,"Jun 30, 2027",€10.00m
+254,RCD Espanyol Barcelona,Álvaro Tejero,Right-Back,"1,74m",both,"Jun 30, 2025",€2.00m
+255,RCD Espanyol Barcelona,Urko González de Zárate,Defensive Midfield,"1,89m",right,"Jun 30, 2025",€1.50m
+256,RCD Espanyol Barcelona,Alex Král,Central Midfield,"1,86m",right,"Jun 30, 2025",€6.00m
+257,RCD Espanyol Barcelona,Pol Lozano,Central Midfield,"1,76m",right,"Jun 30, 2027",€4.00m
+258,RCD Espanyol Barcelona,José Gragera,Central Midfield,"1,86m",right,"Jun 30, 2028",€2.00m
+259,RCD Espanyol Barcelona,Álvaro Aguado,Central Midfield,"1,75m",right,"Jun 30, 2025",€2.00m
+260,RCD Espanyol Barcelona,Edu Expósito,Central Midfield,"1,78m",right,"Jun 30, 2027",€1.50m
+261,RCD Espanyol Barcelona,Justin Smith,Central Midfield,"1,89m",right,"Jun 30, 2026",€300k
+262,RCD Espanyol Barcelona,Rafel Bauzà,Central Midfield,"1,83m",right,"Jun 30, 2028",€200k
+263,RCD Espanyol Barcelona,Javi Puado,Left Winger,"1,77m",right,"Jun 30, 2025",€8.00m
+264,RCD Espanyol Barcelona,Pere Milla,Left Winger,"1,80m",left,"Jun 30, 2027",€1.50m
+265,RCD Espanyol Barcelona,Jofre Carreras,Right Winger,"1,75m",right,"Jun 30, 2029",€4.00m
+266,RCD Espanyol Barcelona,Antoniu Roca,Right Winger,"1,80m",right,"Jun 30, 2026",€1.50m
+267,RCD Espanyol Barcelona,Roberto Fernández,Centre-Forward,"1,86m",right,"Jun 30, 2025",€4.00m
+268,RCD Espanyol Barcelona,Walid Cheddira,Centre-Forward,"1,87m",right,"Jun 30, 2025",€3.00m
+269,RCD Espanyol Barcelona,Alejo Veliz,Centre-Forward,"1,86m",right,"Jun 30, 2025",€2.80m
+270,RCD Espanyol Barcelona,Omar Sadik,Centre-Forward,-,left,"Jun 30, 2028",€500k
+271,RCD Mallorca,Dominik Greif,Goalkeeper,"1,97m",right,"Jun 30, 2026",€6.00m
+272,RCD Mallorca,Leo Román,Goalkeeper,"1,89m",right,"Jun 30, 2026",€2.50m
+273,RCD Mallorca,Iván Cuéllar,Goalkeeper,"1,87m",left,"Jun 30, 2025",€100k
+274,RCD Mallorca,Martin Valjent,Centre-Back,"1,87m",right,"Jun 30, 2029",€6.00m
+275,RCD Mallorca,José Copete,Centre-Back,"1,90m",left,"Jun 30, 2026",€2.80m
+276,RCD Mallorca,Antonio Raíllo,Centre-Back,"1,87m",,"Jun 30, 2026",€2.00m
+277,RCD Mallorca,David López,Centre-Back,"1,95m",,"Jun 30, 2027",€500k
+278,RCD Mallorca,Johan Mojica,Left-Back,"1,85m",left,"Jun 30, 2027",€2.20m
+279,RCD Mallorca,Toni Lato,Left-Back,"1,71m",left,"Jun 30, 2027",€2.00m
+280,RCD Mallorca,Pablo Maffeo,Right-Back,"1,72m",right,"Jun 30, 2027",€5.00m
+281,RCD Mallorca,Mateu Morey,Right-Back,"1,73m",right,"Jun 30, 2025",€800k
+282,RCD Mallorca,Samú Costa,Defensive Midfield,"1,85m",left,"Jun 30, 2028",€15.00m
+283,RCD Mallorca,Omar Mascarell,Defensive Midfield,"1,81m",right,"Jun 30, 2026",€900k
+284,RCD Mallorca,Sergi Darder,Central Midfield,"1,80m",right,"Jun 30, 2028",€4.00m
+285,RCD Mallorca,Manu Morlanes,Central Midfield,"1,78m",right,"Jun 30, 2028",€2.50m
+286,RCD Mallorca,Antonio Sánchez,Central Midfield,"1,79m",right,"Jun 30, 2027",€2.50m
+287,RCD Mallorca,Robert Navarro,Attacking Midfield,"1,78m",right,"Jun 30, 2025",€6.00m
+288,RCD Mallorca,Dani Rodríguez,Attacking Midfield,"1,78m",right,"Jun 30, 2026",€900k
+289,RCD Mallorca,Chiquinho,Left Winger,"1,79m",right,"Jun 30, 2025",€2.50m
+290,RCD Mallorca,Takuma Asano,Right Winger,"1,73m",right,"Jun 30, 2026",€2.50m
+291,RCD Mallorca,Valery Fernández,Right Winger,"1,82m",right,"Jun 30, 2025",€2.50m
+292,RCD Mallorca,Vedat Muriqi,Centre-Forward,"1,94m",left,"Jun 30, 2027",€8.00m
+293,RCD Mallorca,Cyle Larin,Centre-Forward,"1,88m",right,"Jun 30, 2028",€3.50m
+294,RCD Mallorca,Abdón Prats,Centre-Forward,"1,81m",left,"Jun 30, 2028",€1.50m
+295,Real Betis Balompié,Fran Vieites,Goalkeeper,"1,96m",left,"Jun 30, 2026",€800k
+296,Real Betis Balompié,Adrián,Goalkeeper,"1,90m",right,"Jun 30, 2026",€500k
+297,Real Betis Balompié,Natan,Centre-Back,"1,88m",left,"Jun 30, 2025",€9.00m
+298,Real Betis Balompié,Diego Llorente,Centre-Back,"1,86m",right,"Jun 30, 2028",€6.00m
+299,Real Betis Balompié,Marc Bartra,Centre-Back,"1,84m",right,"Jun 30, 2027",€1.00m
+300,Real Betis Balompié,Romain Perraud,Left-Back,"1,73m",left,"Jun 30, 2029",€5.00m
+301,Real Betis Balompié,Ricardo Rodríguez,Left-Back,"1,82m",left,"Jun 30, 2026",€2.50m
+302,Real Betis Balompié,Aitor Ruibal,Right-Back,"1,76m",right,"Jun 30, 2028",€3.50m
+303,Real Betis Balompié,Héctor Bellerín,Right-Back,"1,78m",right,"Jun 30, 2028",€3.00m
+304,Real Betis Balompié,Ángel Ortiz,Right-Back,"1,67m",right,"Jun 30, 2025",€2.50m
+305,Real Betis Balompié,Youssouf Sabaly,Right-Back,"1,73m",right,"Jun 30, 2026",€2.00m
+306,Real Betis Balompié,Johnny Cardoso,Defensive Midfield,"1,86m",right,"Jun 30, 2030",€20.00m
+307,Real Betis Balompié,Marc Roca,Defensive Midfield,"1,84m",left,"Jun 30, 2029",€8.00m
+308,Real Betis Balompié,William Carvalho,Defensive Midfield,"1,87m",right,"Jun 30, 2026",€2.00m
+309,Real Betis Balompié,Giovani Lo Celso,Central Midfield,"1,77m",left,"Jun 30, 2028",€20.00m
+310,Real Betis Balompié,Sergi Altimira,Central Midfield,"1,88m",right,"Jun 30, 2029",€10.00m
+311,Real Betis Balompié,Mateo Flores,Central Midfield,"1,78m",left,"Jun 30, 2029",€1.00m
+312,Real Betis Balompié,Pablo Fornals,Attacking Midfield,"1,78m",right,"Jun 30, 2029",€6.00m
+313,Real Betis Balompié,Isco,Attacking Midfield,"1,76m",right,"Jun 30, 2027",€6.00m
+314,Real Betis Balompié,Abde Ezzalzouli,Left Winger,"1,77m",right,"Jun 30, 2029",€12.00m
+315,Real Betis Balompié,Jesús Rodríguez,Left Winger,"1,85m",right,"Jun 30, 2029",€10.00m
+316,Real Betis Balompié,Antony,Right Winger,"1,72m",left,"Jun 30, 2025",€20.00m
+317,Real Betis Balompié,Cucho Hernández,Centre-Forward,"1,76m",right,"Jun 30, 2030",€18.00m
+318,Real Betis Balompié,Chimy Ávila,Centre-Forward,"1,72m",right,"Jun 30, 2027",€2.50m
+319,Real Betis Balompié,Cédric Bakambu,Centre-Forward,"1,82m",right,"Jun 30, 2026",€1.80m
+320,Real Madrid,Thibaut Courtois,Goalkeeper,"2,00m",left,"Jun 30, 2026",€25.00m
+321,Real Madrid,Andriy Lunin,Goalkeeper,"1,91m",right,"Jun 30, 2030",€20.00m
+322,Real Madrid,Fran González,Goalkeeper,"1,99m",right,"Jun 30, 2026",€400k
+323,Real Madrid,Éder Militão,Centre-Back,"1,86m",right,"Jun 30, 2028",€40.00m
+324,Real Madrid,Raúl Asencio,Centre-Back,"1,84m",right,"Jun 30, 2026",€30.00m
+325,Real Madrid,Antonio Rüdiger,Centre-Back,"1,90m",right,"Jun 30, 2026",€24.00m
+326,Real Madrid,David Alaba,Centre-Back,"1,80m",left,"Jun 30, 2026",€10.00m
+327,Real Madrid,Jesús Vallejo,Centre-Back,"1,84m",right,"Jun 30, 2025",€1.00m
+328,Real Madrid,Ferland Mendy,Left-Back,"1,80m",left,"Jun 30, 2028",€18.00m
+329,Real Madrid,Fran García,Left-Back,"1,69m",left,"Jun 30, 2027",€15.00m
+330,Real Madrid,Daniel Carvajal,Right-Back,"1,73m",right,"Jun 30, 2026",€10.00m
+331,Real Madrid,Lucas Vázquez,Right-Back,"1,73m",right,"Jun 30, 2025",€3.50m
+332,Real Madrid,Aurélien Tchouaméni,Defensive Midfield,"1,88m",right,"Jun 30, 2028",€80.00m
+333,Real Madrid,Federico Valverde,Central Midfield,"1,82m",right,"Jun 30, 2029",€130.00m
+334,Real Madrid,Eduardo Camavinga,Central Midfield,"1,82m",left,"Jun 30, 2029",€70.00m
+335,Real Madrid,Dani Ceballos,Central Midfield,"1,79m",right,"Jun 30, 2027",€10.00m
+336,Real Madrid,Luka Modrić,Central Midfield,"1,72m",right,"Jun 30, 2025",€5.00m
+337,Real Madrid,Jude Bellingham,Attacking Midfield,"1,86m",right,"Jun 30, 2029",€180.00m
+338,Real Madrid,Vinicius Junior,Left Winger,"1,76m",right,"Jun 30, 2027",€200.00m
+339,Real Madrid,Rodrygo,Right Winger,"1,74m",right,"Jun 30, 2028",€100.00m
+340,Real Madrid,Arda Güler,Right Winger,"1,75m",left,"Jun 30, 2029",€45.00m
+341,Real Madrid,Brahim Díaz,Right Winger,"1,70m",both,"Jun 30, 2027",€45.00m
+342,Real Madrid,Kylian Mbappé,Centre-Forward,"1,78m",right,"Jun 30, 2029",€170.00m
+343,Real Madrid,Endrick,Centre-Forward,"1,73m",left,"Jun 30, 2030",€40.00m
+344,Real Sociedad,Álex Remiro,Goalkeeper,"1,91m",right,"Jun 30, 2027",€25.00m
+345,Real Sociedad,Unai Marrero,Goalkeeper,"1,89m",right,"Jun 30, 2027",€600k
+346,Real Sociedad,Nayef Aguerd,Centre-Back,"1,90m",left,"Jun 30, 2025",€25.00m
+347,Real Sociedad,Igor Zubeldia,Centre-Back,"1,81m",right,"Jun 30, 2029",€18.00m
+348,Real Sociedad,Jon Pacheco,Centre-Back,"1,84m",left,"Jun 30, 2030",€7.50m
+349,Real Sociedad,Aritz Elustondo,Centre-Back,"1,80m",right,"Jun 30, 2026",€4.00m
+350,Real Sociedad,Jon Martín,Centre-Back,"1,87m",right,"Jun 30, 2030",€2.00m
+351,Real Sociedad,Javi López,Left-Back,"1,83m",left,"Jun 30, 2030",€7.50m
+352,Real Sociedad,Aihen Muñoz,Left-Back,"1,75m",left,"Jun 30, 2027",€5.00m
+353,Real Sociedad,Jon Aramburu,Right-Back,"1,76m",right,"Jun 30, 2030",€12.00m
+354,Real Sociedad,Hamari Traoré,Right-Back,"1,75m",right,"Jun 30, 2026",€3.00m
+355,Real Sociedad,Álvaro Odriozola,Right-Back,"1,76m",right,"Jun 30, 2029",€1.20m
+356,Real Sociedad,Martín Zubimendi,Defensive Midfield,"1,81m",right,"Jun 30, 2027",€60.00m
+357,Real Sociedad,Luka Sucic,Central Midfield,"1,85m",left,"Jun 30, 2029",€18.00m
+358,Real Sociedad,Beñat Turrientes,Central Midfield,"1,81m",right,"Jun 30, 2030",€16.00m
+359,Real Sociedad,Jon Ander Olasagasti,Central Midfield,"1,76m",left,"Jun 30, 2027",€2.50m
+360,Real Sociedad,Brais Méndez,Attacking Midfield,"1,84m",left,"Jun 30, 2028",€28.00m
+361,Real Sociedad,Arsen Zakharyan,Attacking Midfield,"1,83m",right,"Jun 30, 2029",€15.00m
+362,Real Sociedad,Pablo Marín,Attacking Midfield,"1,78m",right,"Jun 30, 2028",€3.00m
+363,Real Sociedad,Ander Barrenetxea,Left Winger,"1,75m",right,"Jun 30, 2030",€18.00m
+364,Real Sociedad,Sheraldo Becker,Left Winger,"1,80m",right,"Jun 30, 2026",€4.00m
+365,Real Sociedad,Arkaitz Mariezkurrena,Left Winger,-,,"Jun 30, 2029",€500k
+366,Real Sociedad,Takefusa Kubo,Right Winger,"1,73m",left,"Jun 30, 2029",€40.00m
+367,Real Sociedad,Sergio Gómez,Right Winger,"1,71m",left,"Jun 30, 2030",€20.00m
+368,Real Sociedad,Mikel Oyarzabal,Centre-Forward,"1,81m",left,"Jun 30, 2028",€30.00m
+369,Real Sociedad,Orri Óskarsson,Centre-Forward,"1,86m",right,"Jun 30, 2030",€18.00m
+370,Real Valladolid CF,Karl Hein,Goalkeeper,"1,93m",right,"Jun 30, 2025",€3.00m
+371,Real Valladolid CF,André Ferreira,Goalkeeper,"1,93m",right,"Jun 30, 2027",€800k
+372,Real Valladolid CF,Eray Cömert,Centre-Back,"1,83m",right,"Jun 30, 2025",€2.50m
+373,Real Valladolid CF,Javi Sánchez,Centre-Back,"1,89m",right,"Jun 30, 2026",€1.80m
+374,Real Valladolid CF,Cenk Özkacar,Centre-Back,"1,90m",left,"Jun 30, 2025",€1.50m
+375,Real Valladolid CF,David Torres,Centre-Back,"1,82m",left,"Jun 30, 2026",€1.40m
+376,Real Valladolid CF,Joseph Aidoo,Centre-Back,"1,81m",right,"Jun 30, 2025",€1.40m
+377,Real Valladolid CF,Adam Aznou,Left-Back,"1,78m",left,"Jun 30, 2025",€3.00m
+378,Real Valladolid CF,Henrique Silva,Left-Back,"1,73m",left,"Jun 30, 2025",€600k
+379,Real Valladolid CF,Antonio Candela,Right-Back,"1,85m",right,"Jun 30, 2025",€2.00m
+380,Real Valladolid CF,Luis Pérez,Right-Back,"1,73m",right,"Jun 30, 2025",€1.50m
+381,Real Valladolid CF,Florian Grillitsch,Defensive Midfield,"1,87m",right,"Jun 30, 2025",€3.00m
+382,Real Valladolid CF,Mario Martín,Defensive Midfield,"1,77m",right,"Jun 30, 2025",€1.50m
+383,Real Valladolid CF,Stanko Juric,Defensive Midfield,"1,88m",right,"Jun 30, 2027",€1.50m
+384,Real Valladolid CF,Tamás Nikitscher,Central Midfield,"1,93m",right,"Jun 30, 2028",€1.00m
+385,Real Valladolid CF,Selim Amallah,Attacking Midfield,"1,85m",right,"Jun 30, 2027",€1.80m
+386,Real Valladolid CF,Chuki,Attacking Midfield,-,left,"Jun 30, 2025",€1.00m
+387,Real Valladolid CF,Raúl Moro,Left Winger,"1,69m",right,"Jun 30, 2028",€5.00m
+388,Real Valladolid CF,Darwin Machís,Left Winger,"1,71m",right,"Jun 30, 2026",€1.00m
+389,Real Valladolid CF,Kenedy,Left Winger,"1,80m",left,"Jun 30, 2027",€300k
+390,Real Valladolid CF,Amath Ndiaye,Right Winger,"1,73m",right,"Jun 30, 2027",€1.00m
+391,Real Valladolid CF,Anuar,Right Winger,"1,73m",right,"Jun 30, 2025",€900k
+392,Real Valladolid CF,Iván Sánchez,Right Winger,"1,69m",left,"Jun 30, 2025",€600k
+393,Real Valladolid CF,Juanmi Latasa,Centre-Forward,"1,92m",left,"Jun 30, 2029",€2.50m
+394,Real Valladolid CF,Mamadou Sylla,Centre-Forward,"1,80m",right,"Jun 30, 2026",€1.50m
+395,Real Valladolid CF,Marcos André,Centre-Forward,"1,85m",right,"Jun 30, 2029",€1.20m
+396,Sevilla FC,Álvaro Fernández,Goalkeeper,"1,85m",right,"Jun 30, 2025",€2.50m
+397,Sevilla FC,Ørjan Nyland,Goalkeeper,"1,92m",right,"Jun 30, 2026",€1.00m
+398,Sevilla FC,Loïc Badé,Centre-Back,"1,91m",right,"Jun 30, 2029",€30.00m
+399,Sevilla FC,Kike Salas,Centre-Back,"1,88m",left,"Jun 30, 2029",€8.00m
+400,Sevilla FC,Marcão,Centre-Back,"1,85m",left,"Jun 30, 2027",€3.00m
+401,Sevilla FC,Tanguy Nianzou,Centre-Back,"1,91m",right,"Jun 30, 2027",€3.00m
+402,Sevilla FC,Adrià Pedrosa,Left-Back,"1,72m",left,"Jun 30, 2028",€7.00m
+403,Sevilla FC,José Ángel Carmona,Right-Back,"1,84m",right,"Jun 30, 2028",€12.00m
+404,Sevilla FC,Juanlu Sánchez,Right-Back,"1,86m",right,"Jun 30, 2029",€12.00m
+405,Sevilla FC,Lucien Agoumé,Defensive Midfield,"1,85m",right,"Jun 30, 2028",€7.00m
+406,Sevilla FC,Nemanja Gudelj,Defensive Midfield,"1,87m",right,"Jun 30, 2026",€3.50m
+407,Sevilla FC,Albert Sambi Lokonga,Central Midfield,"1,83m",right,"Jun 30, 2025",€9.00m
+408,Sevilla FC,Djibril Sow,Central Midfield,"1,84m",right,"Jun 30, 2028",€7.50m
+409,Sevilla FC,Saúl Ñíguez,Central Midfield,"1,84m",left,"Jun 30, 2025",€3.50m
+410,Sevilla FC,Manu Bueno,Central Midfield,"1,78m",left,"Jun 30, 2026",€1.50m
+411,Sevilla FC,Stanis Idumbo,Attacking Midfield,"1,71m",right,"Jun 30, 2028",€2.50m
+412,Sevilla FC,Rubén Vargas,Left Winger,"1,79m",right,"Jun 30, 2029",€7.00m
+413,Sevilla FC,Chidera Ejuke,Left Winger,"1,76m",right,"Jun 30, 2027",€6.00m
+414,Sevilla FC,Dodi Lukébakio,Right Winger,"1,87m",left,"Jun 30, 2028",€25.00m
+415,Sevilla FC,Suso,Right Winger,"1,77m",left,"Jun 30, 2025",€2.50m
+416,Sevilla FC,Peque Fernández,Second Striker,"1,72m",right,"Jun 30, 2028",€3.50m
+417,Sevilla FC,Isaac Romero,Centre-Forward,"1,83m",left,"Jun 30, 2028",€10.00m
+418,Sevilla FC,Akor Adams,Centre-Forward,"1,90m",right,"Jun 30, 2029",€7.50m
+419,UD Las Palmas,Dinko Horkas,Goalkeeper,"1,89m",right,"Jun 30, 2028",€1.20m
+420,UD Las Palmas,Jasper Cillessen,Goalkeeper,"1,87m",right,"Jun 30, 2026",€900k
+421,UD Las Palmas,Mika Mármol,Centre-Back,"1,81m",left,"Jun 30, 2026",€12.00m
+422,UD Las Palmas,Scott McKenna,Centre-Back,"1,89m",left,"Jun 30, 2027",€5.00m
+423,UD Las Palmas,Juanma Herzog,Centre-Back,"1,86m",right,"Jun 30, 2025",€1.50m
+424,UD Las Palmas,Alex Suárez,Centre-Back,"1,80m",right,"Jun 30, 2026",€1.00m
+425,UD Las Palmas,Álex Muñoz,Left-Back,"1,87m",left,"Jun 30, 2026",€1.20m
+426,UD Las Palmas,Andy Pelmard,Right-Back,"1,80m",right,"Jun 30, 2025",€2.50m
+427,UD Las Palmas,Viti Rozada,Right-Back,"1,72m",right,"Jun 30, 2027",€2.50m
+428,UD Las Palmas,Marvin Park,Right-Back,"1,77m",right,"Jun 30, 2028",€1.50m
+429,UD Las Palmas,Dário Essugo,Defensive Midfield,"1,78m",right,"Jun 30, 2025",€15.00m
+430,UD Las Palmas,Stefan Bajcetic,Defensive Midfield,"1,85m",right,"Jun 30, 2025",€9.00m
+431,UD Las Palmas,Javi Muñoz,Central Midfield,"1,77m",right,"Jun 30, 2025",€2.50m
+432,UD Las Palmas,Enzo Loiodice,Central Midfield,"1,77m",left,"Jun 30, 2026",€1.50m
+433,UD Las Palmas,José Campaña,Central Midfield,"1,79m",right,"Jun 30, 2025",€1.00m
+434,UD Las Palmas,Alberto Moleiro,Attacking Midfield,"1,71m",right,"Jun 30, 2026",€25.00m
+435,UD Las Palmas,Kirian Rodríguez,Attacking Midfield,"1,78m",right,"Jun 30, 2028",€12.00m
+436,UD Las Palmas,Manu Fuster,Left Winger,"1,69m",right,"Jun 30, 2028",€1.50m
+437,UD Las Palmas,Benito Ramírez,Left Winger,"1,79m",left,"Jun 30, 2025",€800k
+438,UD Las Palmas,Adnan Januzaj,Right Winger,"1,86m",left,"Jun 30, 2025",€1.20m
+439,UD Las Palmas,Fábio Silva,Centre-Forward,"1,85m",right,"Jun 30, 2025",€20.00m
+440,UD Las Palmas,Oli McBurnie,Centre-Forward,"1,88m",right,"Jun 30, 2027",€2.50m
+441,UD Las Palmas,Sandro Ramírez,Centre-Forward,"1,74m",right,"Jun 30, 2026",€2.50m
+442,UD Las Palmas,Marc Cardona,Centre-Forward,"1,82m",right,"Jun 30, 2026",€900k
+443,UD Las Palmas,Jaime Mata,Centre-Forward,"1,86m",right,"Jun 30, 2025",€600k
+444,Valencia CF,Giorgi Mamardashvili,Goalkeeper,"1,97m",left,"Jun 30, 2025",€30.00m
+445,Valencia CF,Stole Dimitrievski,Goalkeeper,"1,88m",right,"Jun 30, 2026",€3.00m
+446,Valencia CF,Jaume Doménech,Goalkeeper,"1,85m",right,"Jun 30, 2025",€600k
+447,Valencia CF,Cristhian Mosquera,Centre-Back,"1,91m",right,"Jun 30, 2026",€30.00m
+448,Valencia CF,Yarek Gasiorowski,Centre-Back,"1,92m",left,"Jun 30, 2027",€12.00m
+449,Valencia CF,César Tárrega,Centre-Back,"1,94m",right,"Jun 30, 2028",€6.00m
+450,Valencia CF,Mouctar Diakhaby,Centre-Back,"1,92m",right,"Jun 30, 2027",€2.00m
+451,Valencia CF,José Gayà,Left-Back,"1,72m",left,"Jun 30, 2027",€15.00m
+452,Valencia CF,Jesús Vázquez,Left-Back,"1,82m",left,"Jun 30, 2026",€3.00m
+453,Valencia CF,Max Aarons,Right-Back,"1,77m",right,"Jun 30, 2025",€12.00m
+454,Valencia CF,Thierry Correia,Right-Back,"1,76m",right,"Jun 30, 2026",€6.00m
+455,Valencia CF,Dimitri Foulquier,Right-Back,"1,83m",right,"Jun 30, 2025",€2.00m
+456,Valencia CF,Pepelu,Defensive Midfield,"1,86m",right,"Jun 30, 2028",€12.00m
+457,Valencia CF,Enzo Barrenechea,Defensive Midfield,"1,86m",right,"Jun 30, 2025",€7.50m
+458,Valencia CF,Hugo Guillamón,Defensive Midfield,"1,78m",right,"Jun 30, 2026",€5.00m
+459,Valencia CF,Javi Guerra,Central Midfield,"1,87m",right,"Jun 30, 2027",€20.00m
+460,Valencia CF,André Almeida,Attacking Midfield,"1,76m",right,"Jun 30, 2028",€8.00m
+461,Valencia CF,Iván Jaime,Attacking Midfield,"1,80m",right,"Jun 30, 2025",€7.00m
+462,Valencia CF,Martín Tejón,Attacking Midfield,"1,65m",right,"Jun 30, 2026",€500k
+463,Valencia CF,Luis Rioja,Left Winger,"1,76m",left,"Jun 30, 2026",€2.00m
+464,Valencia CF,Sergi Canós,Left Winger,"1,77m",right,"Jun 30, 2027",€1.50m
+465,Valencia CF,Diego López,Right Winger,"1,72m",right,"Jun 30, 2027",€10.00m
+466,Valencia CF,Fran Pérez,Right Winger,"1,76m",right,"Jun 30, 2026",€4.00m
+467,Valencia CF,Hugo Duro,Centre-Forward,"1,77m",left,"Jun 30, 2028",€10.00m
+468,Valencia CF,Umar Sadiq,Centre-Forward,"1,91m",right,"Jun 30, 2025",€5.00m
+469,Valencia CF,Rafa Mir,Centre-Forward,"1,91m",right,"Jun 30, 2025",€800k
+470,Villarreal CF,Diego Conde,Goalkeeper,"1,88m",right,"Jun 30, 2029",€10.00m
+471,Villarreal CF,Luiz Júnior,Goalkeeper,"1,92m",left,"Jun 30, 2030",€5.00m
+472,Villarreal CF,Iker Álvarez,Goalkeeper,"1,90m",right,"Jun 30, 2026",€800k
+473,Villarreal CF,Logan Costa,Centre-Back,"1,90m",right,"Jun 30, 2030",€15.00m
+474,Villarreal CF,Willy Kambwala,Centre-Back,"1,92m",right,"Jun 30, 2029",€4.00m
+475,Villarreal CF,Eric Bailly,Centre-Back,"1,87m",right,"Jun 30, 2025",€2.50m
+476,Villarreal CF,Raúl Albiol,Centre-Back,"1,90m",right,"Jun 30, 2025",€1.30m
+477,Villarreal CF,Pau Navarro,Centre-Back,"1,85m",right,"Jun 30, 2030",€1.00m
+478,Villarreal CF,Sergi Cardona,Left-Back,"1,86m",both,"Jun 30, 2027",€8.00m
+479,Villarreal CF,Alfonso Pedraza,Left-Back,"1,84m",left,"Jun 30, 2026",€2.50m
+480,Villarreal CF,Juan Foyth,Right-Back,"1,87m",right,"Jun 30, 2026",€10.00m
+481,Villarreal CF,Kiko Femenía,Right-Back,"1,74m",right,"Jun 30, 2025",€1.20m
+482,Villarreal CF,Pape Gueye,Defensive Midfield,"1,89m",left,"Jun 30, 2028",€10.00m
+483,Villarreal CF,Santi Comesaña,Central Midfield,"1,88m",both,"Jun 30, 2028",€8.00m
+484,Villarreal CF,Dani Parejo,Central Midfield,"1,82m",right,"Jun 30, 2026",€2.00m
+485,Villarreal CF,Denis Suárez,Attacking Midfield,"1,76m",right,"Jun 30, 2026",€1.30m
+486,Villarreal CF,Álex Baena,Left Winger,"1,74m",right,"Jun 30, 2028",€50.00m
+487,Villarreal CF,Yéremy Pino,Right Winger,"1,72m",right,"Jun 30, 2027",€30.00m
+488,Villarreal CF,Ilias Akhomach,Right Winger,"1,75m",left,"Jun 30, 2026",€15.00m
+489,Villarreal CF,Tajon Buchanan,Right Winger,"1,83m",right,"Jun 30, 2025",€6.00m
+490,Villarreal CF,Nicolas Pépé,Right Winger,"1,83m",left,"Jun 30, 2026",€6.00m
+491,Villarreal CF,Thierno Barry,Centre-Forward,"1,95m",right,"Jun 30, 2029",€14.00m
+492,Villarreal CF,Ayoze Pérez,Centre-Forward,"1,78m",right,"Jun 30, 2028",€10.00m
+493,Villarreal CF,Gerard Moreno,Centre-Forward,"1,80m",left,"Jun 30, 2027",€5.00m

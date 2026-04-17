@@ -1,0 +1,500 @@
+,CLB,Name,Main_position,Height,Foot,Contract,Market_Value
+0,1.FC Heidenheim 1846,Kevin Müller,Goalkeeper,"1,90m",right,"Jun 30, 2027",€1.00m
+1,1.FC Heidenheim 1846,Frank Feller,Goalkeeper,"1,83m",right,"Jun 30, 2029",€500k
+2,1.FC Heidenheim 1846,Vitus Eicher,Goalkeeper,"1,91m",left,"Jun 30, 2025",€250k
+3,1.FC Heidenheim 1846,Paul Tschernuth,Goalkeeper,"1,86m",left,"Jun 30, 2027",€100k
+4,1.FC Heidenheim 1846,Benedikt Gimber,Centre-Back,"1,87m",left,"Jun 30, 2028",€3.00m
+5,1.FC Heidenheim 1846,Patrick Mainka,Centre-Back,"1,94m",right,"Jun 30, 2027",€3.00m
+6,1.FC Heidenheim 1846,Tim Siersleben,Centre-Back,"1,87m",left,"Jun 30, 2026",€1.50m
+7,1.FC Heidenheim 1846,Thomas Keller,Centre-Back,"1,86m",right,"Jun 30, 2028",€300k
+8,1.FC Heidenheim 1846,Jonas Föhrenbach,Left-Back,"1,84m",left,"Jun 30, 2027",€2.00m
+9,1.FC Heidenheim 1846,Omar Traoré,Right-Back,"1,87m",right,"Jun 30, 2026",€4.00m
+10,1.FC Heidenheim 1846,Marnon Busch,Right-Back,"1,82m",right,"Jun 30, 2027",€1.20m
+11,1.FC Heidenheim 1846,Niklas Dorsch,Defensive Midfield,"1,78m",right,"Jun 30, 2028",€3.50m
+12,1.FC Heidenheim 1846,Julian Niehues,Defensive Midfield,"1,95m",right,"Jun 30, 2027",€1.50m
+13,1.FC Heidenheim 1846,Luka Janes,Defensive Midfield,"1,83m",right,"Jun 30, 2028",€200k
+14,1.FC Heidenheim 1846,Norman Theuerkauf,Defensive Midfield,"1,83m",left,"Jun 30, 2025",€175k
+15,1.FC Heidenheim 1846,Jan Schöppner,Central Midfield,"1,90m",right,"Jun 30, 2028",€4.50m
+16,1.FC Heidenheim 1846,Luca Kerber,Central Midfield,"1,84m",right,"Jun 30, 2027",€1.30m
+17,1.FC Heidenheim 1846,Frans Krätzig,Left Midfield,"1,77m",left,"Jun 30, 2025",€2.00m
+18,1.FC Heidenheim 1846,Paul Wanner,Attacking Midfield,"1,85m",left,"Jun 30, 2025",€18.00m
+19,1.FC Heidenheim 1846,Adrian Beck,Attacking Midfield,"1,86m",right,"Jun 30, 2028",€2.00m
+20,1.FC Heidenheim 1846,Leo Scienza,Left Winger,"1,75m",both,"Jun 30, 2027",€3.00m
+21,1.FC Heidenheim 1846,Mathias Honsak,Left Winger,"1,88m",left,"Jun 30, 2027",€1.50m
+22,1.FC Heidenheim 1846,Christopher Negele,Left Winger,"1,72m",right,"Jun 30, 2025",€250k
+23,1.FC Heidenheim 1846,Sirlord Conteh,Right Winger,"1,78m",right,"Jun 30, 2027",€1.50m
+24,1.FC Heidenheim 1846,Marvin Pieringer,Centre-Forward,"1,91m",right,"Jun 30, 2027",€5.50m
+25,1.FC Heidenheim 1846,Budu Zivzivadze,Centre-Forward,"1,89m",both,"Jun 30, 2029",€2.50m
+26,1.FC Heidenheim 1846,Maximilian Breunig,Centre-Forward,"1,95m",left,"Jun 30, 2027",€2.00m
+27,1.FC Heidenheim 1846,Stefan Schimmer,Centre-Forward,"1,85m",right,"Jun 30, 2026",€500k
+28,1.FC Union Berlin,Frederik Rönnow,Goalkeeper,"1,88m",right,-,€4.00m
+29,1.FC Union Berlin,Alexander Schwolow,Goalkeeper,"1,90m",right,-,€700k
+30,1.FC Union Berlin,Carl Klaus,Goalkeeper,"1,89m",right,-,€350k
+31,1.FC Union Berlin,Diogo Leite,Centre-Back,"1,90m",left,-,€17.00m
+32,1.FC Union Berlin,Danilho Doekhi,Centre-Back,"1,90m",right,"Jun 30, 2026",€13.00m
+33,1.FC Union Berlin,Leopold Querfeld,Centre-Back,"1,90m",right,-,€7.00m
+34,1.FC Union Berlin,Kevin Vogt,Centre-Back,"1,94m",right,-,€2.00m
+35,1.FC Union Berlin,Tom Rothe,Left-Back,"1,93m",left,-,€10.00m
+36,1.FC Union Berlin,Jérôme Roussillon,Left-Back,"1,75m",left,-,€1.20m
+37,1.FC Union Berlin,Josip Juranovic,Right-Back,"1,73m",right,"Jun 30, 2027",€4.00m
+38,1.FC Union Berlin,Christopher Trimmel,Right-Back,"1,89m",right,"Jun 30, 2026",€600k
+39,1.FC Union Berlin,Aljoscha Kemlein,Defensive Midfield,"1,87m",right,-,€7.00m
+40,1.FC Union Berlin,Lucas Tousart,Defensive Midfield,"1,84m",right,-,€4.00m
+41,1.FC Union Berlin,Rani Khedira,Defensive Midfield,"1,89m",right,"Jun 30, 2025",€3.00m
+42,1.FC Union Berlin,András Schäfer,Central Midfield,"1,78m",right,-,€5.00m
+43,1.FC Union Berlin,László Bénes,Central Midfield,"1,81m",left,-,€4.00m
+44,1.FC Union Berlin,Janik Haberer,Central Midfield,"1,87m",right,"Jun 30, 2027",€2.50m
+45,1.FC Union Berlin,Robert Skov,Left Midfield,"1,85m",left,-,€4.00m
+46,1.FC Union Berlin,Woo-yeong Jeong,Attacking Midfield,"1,79m",right,"Jun 30, 2025",€4.00m
+47,1.FC Union Berlin,David Preu,Left Winger,"1,72m",right,"Jun 30, 2025",€25k
+48,1.FC Union Berlin,Tim Skarke,Right Winger,"1,81m",right,-,€2.50m
+49,1.FC Union Berlin,Benedict Hollerbach,Centre-Forward,"1,81m",right,-,€7.50m
+50,1.FC Union Berlin,Marin Ljubicic,Centre-Forward,"1,83m",right,-,€4.00m
+51,1.FC Union Berlin,Andrej Ilic,Centre-Forward,"1,89m",right,"Jun 30, 2025",€2.50m
+52,1.FC Union Berlin,Kevin Volland,Centre-Forward,"1,79m",left,"Jun 30, 2026",€1.80m
+53,1.FC Union Berlin,Ivan Prtajin,Centre-Forward,"1,89m",right,"Jun 30, 2027",€1.50m
+54,1.FSV Mainz 05,Robin Zentner,Goalkeeper,"1,95m",right,"Jun 30, 2028",€4.00m
+55,1.FSV Mainz 05,Daniel Batz,Goalkeeper,"1,91m",both,"Jun 30, 2026",€350k
+56,1.FSV Mainz 05,Lasse Rieß,Goalkeeper,"1,92m",right,"Jun 30, 2027",€200k
+57,1.FSV Mainz 05,Moritz Jenz,Centre-Back,"1,90m",right,"Jun 30, 2025",€6.00m
+58,1.FSV Mainz 05,Andreas Hanche-Olsen,Centre-Back,"1,85m",right,"Jun 30, 2026",€6.00m
+59,1.FSV Mainz 05,Maxim Leitsch,Centre-Back,"1,89m",left,"Jun 30, 2026",€2.00m
+60,1.FSV Mainz 05,Danny da Costa,Centre-Back,"1,87m",right,"Jun 30, 2026",€1.50m
+61,1.FSV Mainz 05,Stefan Bell,Centre-Back,"1,92m",right,"Jun 30, 2026",€800k
+62,1.FSV Mainz 05,Maxim Dal,Centre-Back,"1,88m",left,"Jun 30, 2027",€150k
+63,1.FSV Mainz 05,Phillipp Mwene,Left-Back,"1,70m",right,"Jun 30, 2026",€1.80m
+64,1.FSV Mainz 05,Silvan Widmer,Right-Back,"1,83m",right,"Jun 30, 2026",€1.50m
+65,1.FSV Mainz 05,Nikolas Veratschnig,Right-Back,"1,80m",right,"Jun 30, 2028",€800k
+66,1.FSV Mainz 05,Kaishu Sano,Defensive Midfield,"1,76m",right,"Jun 30, 2028",€17.00m
+67,1.FSV Mainz 05,Lennard Maloney,Defensive Midfield,"1,88m",right,"Jun 30, 2028",€5.00m
+68,1.FSV Mainz 05,Dominik Kohr,Defensive Midfield,"1,83m",right,"Jun 30, 2028",€3.50m
+69,1.FSV Mainz 05,Nadiem Amiri,Central Midfield,"1,80m",right,"Jun 30, 2028",€18.00m
+70,1.FSV Mainz 05,Anthony Caci,Right Midfield,"1,84m",right,"Jun 30, 2026",€10.00m
+71,1.FSV Mainz 05,Paul Nebel,Attacking Midfield,"1,69m",both,"Jun 30, 2027",€17.00m
+72,1.FSV Mainz 05,Hyun-seok Hong,Attacking Midfield,"1,77m",left,"Jun 30, 2028",€3.50m
+73,1.FSV Mainz 05,Jae-sung Lee,Attacking Midfield,"1,80m",left,"Jun 30, 2026",€2.50m
+74,1.FSV Mainz 05,Arnaud Nordin,Right Winger,"1,70m",both,"Jun 30, 2028",€6.00m
+75,1.FSV Mainz 05,Armindo Sieb,Second Striker,"1,75m",both,"Jun 30, 2026",€4.00m
+76,1.FSV Mainz 05,Jonathan Burkardt,Centre-Forward,"1,83m",right,"Jun 30, 2027",€35.00m
+77,1.FSV Mainz 05,Nelson Weiper,Centre-Forward,"1,92m",right,"Jun 30, 2025",€6.00m
+78,Bayer 04 Leverkusen,Matej Kovar,Goalkeeper,"1,96m",right,"Jun 30, 2027",€7.00m
+79,Bayer 04 Leverkusen,Lukas Hradecky,Goalkeeper,"1,92m",right,"Jun 30, 2026",€2.00m
+80,Bayer 04 Leverkusen,Niklas Lomb,Goalkeeper,"1,86m",right,"Jun 30, 2027",€250k
+81,Bayer 04 Leverkusen,Piero Hincapié,Centre-Back,"1,84m",left,"Jun 30, 2029",€50.00m
+82,Bayer 04 Leverkusen,Edmond Tapsoba,Centre-Back,"1,94m",right,"Jun 30, 2028",€40.00m
+83,Bayer 04 Leverkusen,Jonathan Tah,Centre-Back,"1,95m",right,"Jun 30, 2025",€30.00m
+84,Bayer 04 Leverkusen,Jeanuël Belocian,Centre-Back,"1,82m",left,"Jun 30, 2029",€15.00m
+85,Bayer 04 Leverkusen,Mario Hermoso,Centre-Back,"1,84m",left,"Jun 30, 2025",€10.00m
+86,Bayer 04 Leverkusen,Alejandro Grimaldo,Left-Back,"1,71m",left,"Jun 30, 2027",€40.00m
+87,Bayer 04 Leverkusen,Nordi Mukiele,Right-Back,"1,87m",right,"Jun 30, 2025",€10.00m
+88,Bayer 04 Leverkusen,Arthur,Right-Back,"1,74m",right,"Jun 30, 2028",€7.00m
+89,Bayer 04 Leverkusen,Granit Xhaka,Defensive Midfield,"1,86m",left,"Jun 30, 2028",€17.00m
+90,Bayer 04 Leverkusen,Robert Andrich,Defensive Midfield,"1,87m",right,"Jun 30, 2028",€15.00m
+91,Bayer 04 Leverkusen,Exequiel Palacios,Central Midfield,"1,78m",right,"Jun 30, 2028",€40.00m
+92,Bayer 04 Leverkusen,Aleix García,Central Midfield,"1,73m",right,"Jun 30, 2029",€20.00m
+93,Bayer 04 Leverkusen,Jeremie Frimpong,Right Midfield,"1,72m",right,"Jun 30, 2028",€50.00m
+94,Bayer 04 Leverkusen,Nathan Tella,Right Midfield,"1,73m",right,"Jun 30, 2028",€18.00m
+95,Bayer 04 Leverkusen,Florian Wirtz,Attacking Midfield,"1,77m",right,"Jun 30, 2027",€140.00m
+96,Bayer 04 Leverkusen,Emiliano Buendía,Attacking Midfield,"1,72m",right,"Jun 30, 2025",€18.00m
+97,Bayer 04 Leverkusen,Jonas Hofmann,Attacking Midfield,"1,76m",right,"Jun 30, 2027",€3.00m
+98,Bayer 04 Leverkusen,Amine Adli,Left Winger,"1,80m",left,"Jun 30, 2028",€22.00m
+99,Bayer 04 Leverkusen,Martin Terrier,Left Winger,"1,84m",right,"Jun 30, 2029",€17.00m
+100,Bayer 04 Leverkusen,Victor Boniface,Centre-Forward,"1,90m",right,"Jun 30, 2028",€45.00m
+101,Bayer 04 Leverkusen,Patrik Schick,Centre-Forward,"1,91m",left,"Jun 30, 2027",€27.00m
+102,Bayer 04 Leverkusen,Alejo Sarco,Centre-Forward,"1,79m",left,"Jun 30, 2029",€800k
+103,Bayern Munich,Jonas Urbig,Goalkeeper,"1,89m",both,"Jun 30, 2029",€8.00m
+104,Bayern Munich,Manuel Neuer,Goalkeeper,"1,93m",right,"Jun 30, 2026",€4.00m
+105,Bayern Munich,Daniel Peretz,Goalkeeper,"1,90m",right,"Jun 30, 2028",€3.00m
+106,Bayern Munich,Sven Ulreich,Goalkeeper,"1,92m",right,"Jun 30, 2025",€500k
+107,Bayern Munich,Dayot Upamecano,Centre-Back,"1,86m",right,"Jun 30, 2026",€50.00m
+108,Bayern Munich,Min-jae Kim,Centre-Back,"1,90m",right,"Jun 30, 2028",€45.00m
+109,Bayern Munich,Hiroki Ito,Centre-Back,"1,88m",left,"Jun 30, 2028",€30.00m
+110,Bayern Munich,Eric Dier,Centre-Back,"1,91m",right,"Jun 30, 2025",€8.00m
+111,Bayern Munich,Tarek Buchmann,Centre-Back,"1,88m",right,"Jun 30, 2026",€500k
+112,Bayern Munich,Alphonso Davies,Left-Back,"1,83m",left,"Jun 30, 2030",€50.00m
+113,Bayern Munich,Raphaël Guerreiro,Left-Back,"1,70m",left,"Jun 30, 2026",€10.00m
+114,Bayern Munich,Josip Stanisic,Right-Back,"1,87m",both,"Jun 30, 2029",€28.00m
+115,Bayern Munich,Sacha Boey,Right-Back,"1,78m",right,"Jun 30, 2028",€18.00m
+116,Bayern Munich,Joshua Kimmich,Defensive Midfield,"1,77m",right,"Jun 30, 2029",€50.00m
+117,Bayern Munich,Aleksandar Pavlovic,Defensive Midfield,"1,88m",both,"Jun 30, 2029",€50.00m
+118,Bayern Munich,João Palhinha,Defensive Midfield,"1,90m",right,"Jun 30, 2028",€40.00m
+119,Bayern Munich,Konrad Laimer,Central Midfield,"1,80m",right,"Jun 30, 2027",€25.00m
+120,Bayern Munich,Leon Goretzka,Central Midfield,"1,89m",right,"Jun 30, 2026",€22.00m
+121,Bayern Munich,Jamal Musiala,Attacking Midfield,"1,84m",right,"Jun 30, 2030",€140.00m
+122,Bayern Munich,Kingsley Coman,Left Winger,"1,81m",right,"Jun 30, 2027",€35.00m
+123,Bayern Munich,Serge Gnabry,Left Winger,"1,76m",right,"Jun 30, 2026",€25.00m
+124,Bayern Munich,Michael Olise,Right Winger,"1,84m",left,"Jun 30, 2029",€80.00m
+125,Bayern Munich,Leroy Sané,Right Winger,"1,83m",left,"Jun 30, 2025",€38.00m
+126,Bayern Munich,Thomas Müller,Second Striker,"1,85m",right,"Jul 31, 2025",€6.00m
+127,Bayern Munich,Gabriel Vidovic,Second Striker,"1,80m",right,"Jun 30, 2026",€3.00m
+128,Bayern Munich,Harry Kane,Centre-Forward,"1,88m",right,"Jun 30, 2027",€90.00m
+129,Borussia Dortmund,Gregor Kobel,Goalkeeper,"1,96m",right,"Jun 30, 2028",€40.00m
+130,Borussia Dortmund,Marcel Lotka,Goalkeeper,"1,90m",right,"Jun 30, 2025",€1.30m
+131,Borussia Dortmund,Alexander Meyer,Goalkeeper,"1,95m",right,"Jun 30, 2026",€800k
+132,Borussia Dortmund,Silas Ostrzinski,Goalkeeper,"1,98m",right,"Jun 30, 2025",€200k
+133,Borussia Dortmund,Nico Schlotterbeck,Centre-Back,"1,91m",left,"Jun 30, 2027",€40.00m
+134,Borussia Dortmund,Waldemar Anton,Centre-Back,"1,89m",right,"Jun 30, 2028",€18.00m
+135,Borussia Dortmund,Niklas Süle,Centre-Back,"1,95m",right,"Jun 30, 2026",€8.00m
+136,Borussia Dortmund,Filippo Mané,Centre-Back,"1,88m",right,"Jun 30, 2028",€600k
+137,Borussia Dortmund,Ramy Bensebaini,Left-Back,"1,87m",left,"Jun 30, 2027",€7.00m
+138,Borussia Dortmund,Daniel Svensson,Left-Back,"1,83m",left,"Jun 30, 2025",€5.50m
+139,Borussia Dortmund,Almugera Kabar,Left-Back,"1,86m",left,"Jun 30, 2028",€1.00m
+140,Borussia Dortmund,Yan Couto,Right-Back,"1,68m",right,"Jun 30, 2025",€20.00m
+141,Borussia Dortmund,Julian Ryerson,Right-Back,"1,83m",right,"Jun 30, 2028",€20.00m
+142,Borussia Dortmund,Emre Can,Defensive Midfield,"1,86m",right,"Jun 30, 2026",€7.00m
+143,Borussia Dortmund,Salih Özcan,Defensive Midfield,"1,83m",right,"Jun 30, 2026",€5.00m
+144,Borussia Dortmund,Felix Nmecha,Central Midfield,"1,90m",right,"Jun 30, 2028",€28.00m
+145,Borussia Dortmund,Carney Chukwuemeka,Central Midfield,"1,88m",right,"Jun 30, 2025",€15.00m
+146,Borussia Dortmund,Marcel Sabitzer,Central Midfield,"1,78m",right,"Jun 30, 2027",€10.00m
+147,Borussia Dortmund,Pascal Groß,Central Midfield,"1,81m",right,"Jun 30, 2026",€7.00m
+148,Borussia Dortmund,Kjell Wätjen,Central Midfield,"1,84m",right,"Jun 30, 2028",€2.00m
+149,Borussia Dortmund,Julian Brandt,Attacking Midfield,"1,85m",right,"Jun 30, 2026",€25.00m
+150,Borussia Dortmund,Giovanni Reyna,Attacking Midfield,"1,85m",right,"Jun 30, 2026",€10.00m
+151,Borussia Dortmund,Jamie Gittens,Left Winger,"1,78m",right,"Jun 30, 2028",€50.00m
+152,Borussia Dortmund,Julien Duranville,Left Winger,"1,73m",right,-,€8.50m
+153,Borussia Dortmund,Karim Adeyemi,Right Winger,"1,80m",left,"Jun 30, 2027",€40.00m
+154,Borussia Dortmund,Cole Campbell,Right Winger,"1,70m",left,"Jun 30, 2028",€1.50m
+155,Borussia Dortmund,Serhou Guirassy,Centre-Forward,"1,87m",right,"Jun 30, 2028",€40.00m
+156,Borussia Dortmund,Maximilian Beier,Centre-Forward,"1,85m",right,"Jun 30, 2029",€25.00m
+157,Borussia Mönchengladbach,Moritz Nicolas,Goalkeeper,"1,93m",right,"Jun 30, 2029",€5.00m
+158,Borussia Mönchengladbach,Jonas Omlin,Goalkeeper,"1,90m",right,"Jun 30, 2027",€2.50m
+159,Borussia Mönchengladbach,Tobias Sippel,Goalkeeper,"1,83m",right,"Jun 30, 2025",€300k
+160,Borussia Mönchengladbach,Tiago Pereira Cardoso,Goalkeeper,"1,90m",right,-,€300k
+161,Borussia Mönchengladbach,Ko Itakura,Centre-Back,"1,88m",right,"Jun 30, 2026",€12.00m
+162,Borussia Mönchengladbach,Nico Elvedi,Centre-Back,"1,89m",right,"Jun 30, 2027",€8.00m
+163,Borussia Mönchengladbach,Marvin Friedrich,Centre-Back,"1,93m",right,"Jun 30, 2026",€3.50m
+164,Borussia Mönchengladbach,Fabio Chiarodia,Centre-Back,"1,86m",left,"Jun 30, 2027",€2.00m
+165,Borussia Mönchengladbach,Lukas Ullrich,Left-Back,"1,80m",left,"Jun 30, 2027",€8.00m
+166,Borussia Mönchengladbach,Luca Netz,Left-Back,"1,84m",left,"Jun 30, 2026",€7.00m
+167,Borussia Mönchengladbach,Joe Scally,Right-Back,"1,84m",right,"Jun 30, 2027",€10.00m
+168,Borussia Mönchengladbach,Stefan Lainer,Right-Back,"1,75m",right,"Jun 30, 2026",€1.80m
+169,Borussia Mönchengladbach,Julian Weigl,Defensive Midfield,"1,86m",right,"Jun 30, 2028",€6.00m
+170,Borussia Mönchengladbach,Rocco Reitz,Central Midfield,"1,76m",right,"Jun 30, 2028",€15.00m
+171,Borussia Mönchengladbach,Philipp Sander,Central Midfield,"1,86m",both,"Jun 30, 2028",€4.00m
+172,Borussia Mönchengladbach,Florian Neuhaus,Central Midfield,"1,85m",right,"Jun 30, 2027",€3.50m
+173,Borussia Mönchengladbach,Kevin Stöger,Attacking Midfield,"1,75m",left,"Jun 30, 2027",€4.50m
+174,Borussia Mönchengladbach,Robin Hack,Left Winger,"1,78m",right,"Jun 30, 2029",€10.00m
+175,Borussia Mönchengladbach,Yvandro Borges Sanches,Left Winger,"1,80m",right,"Jun 30, 2026",€500k
+176,Borussia Mönchengladbach,Franck Honorat,Right Winger,"1,80m",right,"Jun 30, 2028",€12.00m
+177,Borussia Mönchengladbach,Nathan Ngoumou,Right Winger,"1,85m",right,"Jun 30, 2027",€4.00m
+178,Borussia Mönchengladbach,Tim Kleindienst,Centre-Forward,"1,94m",both,"Jun 30, 2028",€17.00m
+179,Borussia Mönchengladbach,Alassane Pléa,Centre-Forward,"1,81m",right,"Jun 30, 2026",€6.00m
+180,Borussia Mönchengladbach,Tomas Cvancara,Centre-Forward,"1,90m",right,"Jun 30, 2028",€4.00m
+181,Borussia Mönchengladbach,Shio Fukuda,Centre-Forward,"1,78m",right,"Jun 30, 2027",€500k
+182,Eintracht Frankfurt,Kevin Trapp,Goalkeeper,"1,89m",right,"Jun 30, 2026",€3.00m
+183,Eintracht Frankfurt,Kauã Santos,Goalkeeper,"1,98m",right,"Jun 30, 2030",€2.50m
+184,Eintracht Frankfurt,Jens Grahl,Goalkeeper,"1,92m",right,"Jun 30, 2026",€200k
+185,Eintracht Frankfurt,Arthur Theate,Centre-Back,"1,85m",left,"Jun 30, 2029",€24.00m
+186,Eintracht Frankfurt,Robin Koch,Centre-Back,"1,92m",right,"Jun 30, 2027",€18.00m
+187,Eintracht Frankfurt,Tuta,Centre-Back,"1,85m",right,"Jun 30, 2026",€15.00m
+188,Eintracht Frankfurt,Nnamdi Collins,Centre-Back,"1,91m",right,"Jun 30, 2030",€10.00m
+189,Eintracht Frankfurt,Aurèle Amenda,Centre-Back,"1,97m",right,"Jun 30, 2029",€7.50m
+190,Eintracht Frankfurt,Nathaniel Brown,Left-Back,"1,80m",left,"Jun 30, 2030",€15.00m
+191,Eintracht Frankfurt,Niels Nkounkou,Left-Back,"1,80m",left,"Jun 30, 2028",€5.00m
+192,Eintracht Frankfurt,Rasmus Kristensen,Right-Back,"1,87m",right,"Jun 30, 2025",€10.00m
+193,Eintracht Frankfurt,Timothy Chandler,Right-Back,"1,87m",right,"Jun 30, 2025",€350k
+194,Eintracht Frankfurt,Ellyes Skhiri,Defensive Midfield,"1,85m",right,"Jun 30, 2027",€9.00m
+195,Eintracht Frankfurt,Hugo Larsson,Central Midfield,"1,87m",right,"Jun 30, 2029",€40.00m
+196,Eintracht Frankfurt,Oscar Højlund,Central Midfield,"1,87m",right,"Jun 30, 2029",€7.50m
+197,Eintracht Frankfurt,Mahmoud Dahoud,Central Midfield,"1,78m",right,"Jun 30, 2026",€5.00m
+198,Eintracht Frankfurt,Junior Dina Ebimbe,Right Midfield,"1,84m",right,"Jun 30, 2027",€7.00m
+199,Eintracht Frankfurt,Can Uzun,Attacking Midfield,"1,86m",right,"Jun 30, 2029",€18.00m
+200,Eintracht Frankfurt,Farès Chaïbi,Attacking Midfield,"1,83m",right,"Jun 30, 2028",€9.00m
+201,Eintracht Frankfurt,Mario Götze,Attacking Midfield,"1,76m",right,"Jun 30, 2026",€5.00m
+202,Eintracht Frankfurt,Krisztián Lisztes,Attacking Midfield,"1,83m",right,"Jun 30, 2029",€2.00m
+203,Eintracht Frankfurt,Jean-Mattéo Bahoya,Left Winger,"1,80m",right,"Jun 30, 2029",€9.00m
+204,Eintracht Frankfurt,Ansgar Knauff,Right Winger,"1,80m",right,"Jun 30, 2028",€10.00m
+205,Eintracht Frankfurt,Hugo Ekitiké,Centre-Forward,"1,90m",right,"Jun 30, 2029",€55.00m
+206,Eintracht Frankfurt,Elye Wahi,Centre-Forward,"1,81m",right,"Jun 30, 2030",€25.00m
+207,Eintracht Frankfurt,Igor Matanovic,Centre-Forward,"1,94m",right,"Jun 30, 2029",€6.00m
+208,Eintracht Frankfurt,Michy Batshuayi,Centre-Forward,"1,85m",right,"Jun 30, 2027",€5.00m
+209,FC Augsburg,Finn Dahmen,Goalkeeper,"1,86m",right,"Jun 30, 2027",€6.00m
+210,FC Augsburg,Nediljko Labrovic,Goalkeeper,"1,96m",right,"Jun 30, 2029",€3.00m
+211,FC Augsburg,Daniel Klein,Goalkeeper,"1,93m",right,"Jun 30, 2026",€150k
+212,FC Augsburg,Chrislain Matsima,Centre-Back,"1,93m",right,"Jun 30, 2025",€17.00m
+213,FC Augsburg,Keven Schlotterbeck,Centre-Back,"1,88m",left,"Jun 30, 2027",€7.00m
+214,FC Augsburg,Noahkai Banks,Centre-Back,"1,93m",right,"Jun 30, 2027",€6.00m
+215,FC Augsburg,Cédric Zesiger,Centre-Back,"1,94m",left,"Jun 30, 2025",€5.50m
+216,FC Augsburg,Jeffrey Gouweleeuw,Centre-Back,"1,88m",right,"Jun 30, 2026",€1.50m
+217,FC Augsburg,Reece Oxford,Centre-Back,"1,90m",right,"Jun 30, 2025",€500k
+218,FC Augsburg,Dimitrios Giannoulis,Left-Back,"1,78m",left,"Jun 30, 2028",€2.80m
+219,FC Augsburg,Mads Pedersen,Left-Back,"1,78m",left,"Jun 30, 2027",€2.50m
+220,FC Augsburg,Marius Wolf,Right-Back,"1,88m",right,"Jun 30, 2027",€3.00m
+221,FC Augsburg,Robert Gumny,Right-Back,"1,82m",right,"Jun 30, 2025",€2.00m
+222,FC Augsburg,Henri Koudossou,Right-Back,"1,80m",both,"Jun 30, 2026",€1.50m
+223,FC Augsburg,Kristijan Jakic,Defensive Midfield,"1,84m",right,"Jun 30, 2028",€6.50m
+224,FC Augsburg,Mahmut Kücüksahin,Defensive Midfield,"1,82m",right,"Jun 30, 2027",€175k
+225,FC Augsburg,Frank Onyeka,Central Midfield,"1,83m",right,"Jun 30, 2025",€7.00m
+226,FC Augsburg,Arne Maier,Central Midfield,"1,86m",right,"Jun 30, 2026",€4.00m
+227,FC Augsburg,Elvis Rexhbecaj,Central Midfield,"1,82m",left,"Jun 30, 2026",€3.50m
+228,FC Augsburg,Alexis Claude-Maurice,Attacking Midfield,"1,76m",right,"Jun 30, 2027",€12.00m
+229,FC Augsburg,Mert Kömür,Attacking Midfield,"1,83m",both,"Jun 30, 2027",€5.00m
+230,FC Augsburg,Fredrik Jensen,Attacking Midfield,"1,83m",right,"Jun 30, 2025",€3.50m
+231,FC Augsburg,Yusuf Kabadayi,Left Winger,"1,86m",right,"Jun 30, 2028",€1.50m
+232,FC Augsburg,Phillip Tietz,Centre-Forward,"1,90m",right,"Jun 30, 2027",€5.00m
+233,FC Augsburg,Mergim Berisha,Centre-Forward,"1,88m",right,"Jun 30, 2025",€5.00m
+234,FC Augsburg,Samuel Essende,Centre-Forward,"1,93m",right,"Jun 30, 2028",€4.50m
+235,FC Augsburg,Steve Mounié,Centre-Forward,"1,89m",right,"Jun 30, 2027",€3.00m
+236,FC St. Pauli,Nikola Vasilj,Goalkeeper,"1,93m",right,-,€3.00m
+237,FC St. Pauli,Ben Voll,Goalkeeper,"1,95m",both,-,€500k
+238,FC St. Pauli,Eric Oelschlägel,Goalkeeper,"1,93m",right,-,€300k
+239,FC St. Pauli,Sascha Burchert,Goalkeeper,"1,87m",right,-,€200k
+240,FC St. Pauli,Sören Ahlers,Goalkeeper,"1,94m",both,-,€50k
+241,FC St. Pauli,Eric Smith,Centre-Back,"1,92m",right,-,€5.00m
+242,FC St. Pauli,David Nemeth,Centre-Back,"1,91m",both,"Jun 30, 2026",€2.50m
+243,FC St. Pauli,Siebe Van der Heyden,Centre-Back,"1,85m",left,"Jun 30, 2025",€2.00m
+244,FC St. Pauli,Hauke Wahl,Centre-Back,"1,89m",right,-,€1.50m
+245,FC St. Pauli,Karol Mets,Centre-Back,"1,91m",left,"Jun 30, 2026",€1.30m
+246,FC St. Pauli,Adam Dzwigala,Centre-Back,"1,85m",right,-,€600k
+247,FC St. Pauli,Muhammad Dahaba,Centre-Back,"1,94m",right,-,€125k
+248,FC St. Pauli,Philipp Treu,Left-Back,"1,73m",right,-,€5.00m
+249,FC St. Pauli,Lars Ritzka,Left-Back,"1,85m",left,-,€900k
+250,FC St. Pauli,Manolis Saliakas,Right-Back,"1,77m",right,-,€2.80m
+251,FC St. Pauli,Fin Stevens,Right-Back,"1,79m",right,-,€600k
+252,FC St. Pauli,James Sands,Defensive Midfield,"1,86m",right,"Jun 30, 2025",€3.00m
+253,FC St. Pauli,Marwin Schmitz,Defensive Midfield,"1,80m",right,-,€200k
+254,FC St. Pauli,Robert Wagner,Central Midfield,"1,81m",right,"Jun 30, 2025",€3.00m
+255,FC St. Pauli,Connor Metcalfe,Central Midfield,"1,83m",left,-,€2.50m
+256,FC St. Pauli,Jackson Irvine,Central Midfield,"1,89m",right,-,€2.00m
+257,FC St. Pauli,Carlo Boukhalfa,Central Midfield,"1,86m",left,"Jun 30, 2025",€1.00m
+258,FC St. Pauli,Erik Ahlstrand,Central Midfield,"1,84m",,-,€500k
+259,FC St. Pauli,Danel Sinani,Attacking Midfield,"1,85m",left,-,€750k
+260,FC St. Pauli,Noah Weißhaupt,Left Winger,"1,81m",right,"Jun 30, 2025",€5.00m
+261,FC St. Pauli,Elias Saad,Left Winger,"1,85m",right,-,€4.00m
+262,FC St. Pauli,Romeo Aigbekaen,Left Winger,"1,89m",both,"Jun 30, 2028",€100k
+263,FC St. Pauli,Oladapo Afolayan,Right Winger,"1,80m",right,-,€4.00m
+264,FC St. Pauli,Morgan Guilavogui,Right Winger,"1,89m",right,"Jun 30, 2025",€4.00m
+265,FC St. Pauli,Scott Banks,Right Winger,"1,83m",left,-,€500k
+266,FC St. Pauli,Johannes Eggestein,Centre-Forward,"1,83m",right,"Jun 30, 2025",€3.00m
+267,FC St. Pauli,Abdoulie Ceesay,Centre-Forward,"1,85m",,-,€500k
+268,FC St. Pauli,Andreas Albers,Centre-Forward,"1,93m",right,-,€300k
+269,FC St. Pauli,Simon Zoller,Centre-Forward,"1,79m",right,-,€300k
+270,Holstein Kiel,Timon Weiner,Goalkeeper,"1,91m",both,"Jun 30, 2027",€1.50m
+271,Holstein Kiel,Thomas Dähne,Goalkeeper,"1,93m",both,"Jun 30, 2026",€400k
+272,Holstein Kiel,Marcel Engelhardt,Goalkeeper,"1,91m",right,-,€175k
+273,Holstein Kiel,Marko Ivezic,Centre-Back,"1,91m",right,"Jun 30, 2027",€2.50m
+274,Holstein Kiel,David Zec,Centre-Back,"1,90m",right,"Jun 30, 2029",€2.50m
+275,Holstein Kiel,Colin Kleine-Bekel,Centre-Back,"1,92m",right,"Jun 30, 2025",€2.50m
+276,Holstein Kiel,Timo Becker,Centre-Back,"1,90m",right,"Jun 30, 2025",€2.00m
+277,Holstein Kiel,Max Geschwill,Centre-Back,"1,85m",left,-,€1.50m
+278,Holstein Kiel,Marco Komenda,Centre-Back,"1,84m",left,"Jun 30, 2026",€800k
+279,Holstein Kiel,Ivan Nekic,Centre-Back,"1,85m",right,-,€800k
+280,Holstein Kiel,Carl Johansson,Centre-Back,"1,94m",right,"Jun 30, 2026",€700k
+281,Holstein Kiel,John Tolkin,Left-Back,"1,70m",left,-,€3.00m
+282,Holstein Kiel,Dominik Javorcek,Left-Back,"1,83m",left,"Jun 30, 2025",€550k
+283,Holstein Kiel,Lasse Rosenboom,Right-Back,"1,90m",right,-,€1.00m
+284,Holstein Kiel,Patrick Erras,Defensive Midfield,"1,96m",right,"Jun 30, 2026",€1.00m
+285,Holstein Kiel,Marvin Schulz,Defensive Midfield,"1,86m",right,"Jun 30, 2025",€700k
+286,Holstein Kiel,Armin Gigovic,Central Midfield,"1,87m",right,-,€3.00m
+287,Holstein Kiel,Nicolai Remberg,Central Midfield,"1,88m",right,-,€2.80m
+288,Holstein Kiel,Magnus Knudsen,Central Midfield,"1,86m",right,-,€2.50m
+289,Holstein Kiel,Lewis Holtby,Central Midfield,"1,76m",left,"Jun 30, 2025",€500k
+290,Holstein Kiel,Aurel Wagbe,Left Midfield,"1,91m",left,"Jun 30, 2026",€100k
+291,Holstein Kiel,Finn Porath,Attacking Midfield,"1,80m",right,"Jun 30, 2026",€2.00m
+292,Holstein Kiel,Steven Skrzybski,Attacking Midfield,"1,74m",right,"Jun 30, 2026",€1.00m
+293,Holstein Kiel,Andu Kelati,Left Winger,"1,81m",right,"Jun 30, 2028",€800k
+294,Holstein Kiel,Alexander Bernhardsson,Right Winger,"1,85m",left,"Jun 30, 2027",€1.50m
+295,Holstein Kiel,Phil Harres,Centre-Forward,"1,93m",right,-,€4.50m
+296,Holstein Kiel,Shuto Machino,Centre-Forward,"1,85m",right,"Jun 30, 2027",€3.50m
+297,Holstein Kiel,Benedikt Pichler,Centre-Forward,"1,88m",right,"Jun 30, 2027",€2.00m
+298,Holstein Kiel,Fiete Arp,Centre-Forward,"1,86m",right,"Jun 30, 2026",€800k
+299,RB Leipzig,Maarten Vandevoordt,Goalkeeper,"1,92m",right,"Jun 30, 2029",€8.00m
+300,RB Leipzig,Péter Gulácsi,Goalkeeper,"1,93m",right,"Jun 30, 2026",€2.50m
+301,RB Leipzig,Leopold Zingerle,Goalkeeper,"1,82m",right,"Jun 30, 2026",€400k
+302,RB Leipzig,Castello Lukeba,Centre-Back,"1,84m",left,"Jun 30, 2029",€50.00m
+303,RB Leipzig,El Chadaille Bitshiabu,Centre-Back,"1,96m",left,"Jun 30, 2028",€12.00m
+304,RB Leipzig,Willi Orbán,Centre-Back,"1,86m",right,"Jun 30, 2027",€10.00m
+305,RB Leipzig,Lukas Klostermann,Centre-Back,"1,89m",right,"Jun 30, 2028",€8.00m
+306,RB Leipzig,David Raum,Left-Back,"1,81m",left,"Jun 30, 2027",€25.00m
+307,RB Leipzig,Lutsharel Geertruida,Right-Back,"1,84m",right,"Jun 30, 2029",€27.00m
+308,RB Leipzig,Benjamin Henrichs,Right-Back,"1,85m",right,"Jun 30, 2028",€17.00m
+309,RB Leipzig,Kosta Nedeljkovic,Right-Back,"1,84m",right,"Jun 30, 2025",€8.50m
+310,RB Leipzig,Ridle Baku,Right-Back,"1,76m",right,"Jun 30, 2027",€7.00m
+311,RB Leipzig,Arthur Vermeeren,Defensive Midfield,"1,80m",right,"Jun 30, 2025",€22.00m
+312,RB Leipzig,Amadou Haidara,Central Midfield,"1,78m",right,"Jun 30, 2026",€20.00m
+313,RB Leipzig,Xaver Schlager,Central Midfield,"1,74m",left,"Jun 30, 2026",€18.00m
+314,RB Leipzig,Nicolas Seiwald,Central Midfield,"1,80m",right,"Jun 30, 2028",€16.00m
+315,RB Leipzig,Assan Ouédraogo,Central Midfield,"1,91m",right,"Jun 30, 2029",€10.00m
+316,RB Leipzig,Kevin Kampl,Central Midfield,"1,78m",right,"Jun 30, 2026",€3.00m
+317,RB Leipzig,Xavi Simons,Attacking Midfield,"1,79m",right,"Jun 30, 2027",€70.00m
+318,RB Leipzig,Christoph Baumgartner,Attacking Midfield,"1,80m",right,"Jun 30, 2028",€15.00m
+319,RB Leipzig,Viggo Gebel,Attacking Midfield,"1,75m",,-,€350k
+320,RB Leipzig,Antonio Nusa,Left Winger,"1,83m",right,"Jun 30, 2029",€28.00m
+321,RB Leipzig,Tidiam Gomis,Left Winger,"1,83m",right,"Jun 30, 2029",€3.00m
+322,RB Leipzig,Benjamin Sesko,Centre-Forward,"1,95m",right,"Jun 30, 2029",€65.00m
+323,RB Leipzig,Loïs Openda,Centre-Forward,"1,77m",right,"Jun 30, 2028",€60.00m
+324,RB Leipzig,Yussuf Poulsen,Centre-Forward,"1,92m",right,"Jun 30, 2026",€5.00m
+325,SC Freiburg,Noah Atubolu,Goalkeeper,"1,90m",right,-,€15.00m
+326,SC Freiburg,Florian Müller,Goalkeeper,"1,90m",left,-,€1.20m
+327,SC Freiburg,Jannik Huth,Goalkeeper,"1,85m",right,-,€400k
+328,SC Freiburg,Philipp Lienhart,Centre-Back,"1,89m",right,-,€15.00m
+329,SC Freiburg,Matthias Ginter,Centre-Back,"1,89m",right,"Jun 30, 2027",€8.00m
+330,SC Freiburg,Max Rosenfelder,Centre-Back,"1,86m",right,-,€4.00m
+331,SC Freiburg,Bruno Ogbus,Centre-Back,"1,85m",right,-,€1.00m
+332,SC Freiburg,Manuel Gulde,Centre-Back,"1,84m",right,-,€800k
+333,SC Freiburg,Christian Günter,Left-Back,"1,84m",left,-,€4.00m
+334,SC Freiburg,Jordy Makengo,Left-Back,"1,91m",left,-,€3.00m
+335,SC Freiburg,Kiliann Sildillia,Right-Back,"1,86m",right,"Jun 30, 2026",€10.00m
+336,SC Freiburg,Lukas Kübler,Right-Back,"1,82m",right,-,€2.00m
+337,SC Freiburg,Nicolas Höfler,Defensive Midfield,"1,81m",right,-,€700k
+338,SC Freiburg,Maximilian Eggestein,Central Midfield,"1,81m",right,-,€10.00m
+339,SC Freiburg,Patrick Osterhage,Central Midfield,"1,86m",left,-,€8.50m
+340,SC Freiburg,Johan Manzambi,Central Midfield,"1,82m",right,"Jun 30, 2028",€750k
+341,SC Freiburg,Merlin Röhl,Attacking Midfield,"1,92m",right,-,€12.00m
+342,SC Freiburg,Daniel-Kofi Kyereh,Attacking Midfield,"1,79m",right,-,€1.50m
+343,SC Freiburg,Niklas Beste,Left Winger,"1,75m",left,"Jun 30, 2030",€10.00m
+344,SC Freiburg,Vincenzo Grifo,Left Winger,"1,80m",right,-,€7.50m
+345,SC Freiburg,Florent Muslija,Left Winger,"1,72m",right,"Jun 30, 2028",€2.00m
+346,SC Freiburg,Ritsu Doan,Right Winger,"1,72m",left,"Jun 30, 2027",€22.00m
+347,SC Freiburg,Eren Dinkçi,Right Winger,"1,88m",right,-,€12.00m
+348,SC Freiburg,Maximilian Philipp,Second Striker,"1,83m",right,-,€1.00m
+349,SC Freiburg,Junior Adamu,Centre-Forward,"1,83m",right,-,€6.00m
+350,SC Freiburg,Michael Gregoritsch,Centre-Forward,"1,93m",left,-,€4.00m
+351,SC Freiburg,Lucas Höler,Centre-Forward,"1,84m",right,-,€3.50m
+352,SV Werder Bremen,Michael Zetterer,Goalkeeper,"1,87m",both,"Jun 30, 2027",€4.50m
+353,SV Werder Bremen,Mio Backhaus,Goalkeeper,"1,94m",right,-,€2.00m
+354,SV Werder Bremen,Markus Kolke,Goalkeeper,"1,87m",right,-,€300k
+355,SV Werder Bremen,Marco Friedl,Centre-Back,"1,87m",left,"Jun 30, 2028",€10.00m
+356,SV Werder Bremen,Niklas Stark,Centre-Back,"1,90m",right,"Jun 30, 2026",€5.00m
+357,SV Werder Bremen,Amos Pieper,Centre-Back,"1,92m",right,"Jun 30, 2026",€3.00m
+358,SV Werder Bremen,Milos Veljkovic,Centre-Back,"1,88m",right,"Jun 30, 2025",€3.00m
+359,SV Werder Bremen,Julián Malatini,Centre-Back,"1,91m",right,-,€3.00m
+360,SV Werder Bremen,Anthony Jung,Centre-Back,"1,86m",left,"Jun 30, 2025",€1.00m
+361,SV Werder Bremen,Derrick Köhn,Left-Back,"1,80m",left,"Jun 30, 2025",€6.00m
+362,SV Werder Bremen,Felix Agu,Left-Back,"1,80m",right,"Jun 30, 2027",€6.00m
+363,SV Werder Bremen,Issa Kaboré,Right-Back,"1,80m",right,"Jun 30, 2025",€6.00m
+364,SV Werder Bremen,Mitchell Weiser,Right-Back,"1,77m",right,-,€5.00m
+365,SV Werder Bremen,Senne Lynen,Defensive Midfield,"1,85m",right,-,€9.00m
+366,SV Werder Bremen,Skelly Alvero,Defensive Midfield,"2,02m",right,"Jun 30, 2028",€3.00m
+367,SV Werder Bremen,Jens Stage,Central Midfield,"1,87m",right,-,€12.00m
+368,SV Werder Bremen,Leonardo Bittencourt,Central Midfield,"1,71m",right,"Jun 30, 2026",€2.00m
+369,SV Werder Bremen,Romano Schmid,Attacking Midfield,"1,68m",right,-,€15.00m
+370,SV Werder Bremen,Leon Opitz,Attacking Midfield,"1,83m",left,-,€600k
+371,SV Werder Bremen,Marco Grüll,Left Winger,"1,82m",both,-,€4.00m
+372,SV Werder Bremen,Abdenego Nankishi,Left Winger,"1,78m",left,"Jun 30, 2025",€450k
+373,SV Werder Bremen,Justin Njinmah,Right Winger,"1,85m",right,"Jun 30, 2027",€7.00m
+374,SV Werder Bremen,Marvin Ducksch,Centre-Forward,"1,88m",right,"Jun 30, 2026",€7.50m
+375,SV Werder Bremen,André Silva,Centre-Forward,"1,86m",right,"Jun 30, 2025",€5.00m
+376,SV Werder Bremen,Keke Topp,Centre-Forward,"1,92m",right,"Jun 30, 2028",€4.00m
+377,SV Werder Bremen,Oliver Burke,Centre-Forward,"1,88m",right,"Jun 30, 2025",€1.80m
+378,TSG 1899 Hoffenheim,Oliver Baumann,Goalkeeper,"1,87m",right,"Jun 30, 2026",€3.00m
+379,TSG 1899 Hoffenheim,Luca Philipp,Goalkeeper,"1,92m",,"Jun 30, 2025",€750k
+380,TSG 1899 Hoffenheim,Jakob Busk,Goalkeeper,"1,89m",right,"Jun 30, 2025",€250k
+381,TSG 1899 Hoffenheim,Lúkas Petersson,Goalkeeper,"1,95m",,"Jun 30, 2027",€150k
+382,TSG 1899 Hoffenheim,Ozan Kabak,Centre-Back,"1,87m",right,"Jun 30, 2026",€7.50m
+383,TSG 1899 Hoffenheim,Leo Østigård,Centre-Back,"1,83m",right,"Jun 30, 2025",€7.00m
+384,TSG 1899 Hoffenheim,Robin Hranac,Centre-Back,"1,90m",right,-,€3.50m
+385,TSG 1899 Hoffenheim,Arthur Chaves,Centre-Back,"1,88m",right,-,€3.00m
+386,TSG 1899 Hoffenheim,Kevin Akpoguma,Centre-Back,"1,92m",right,"Jun 30, 2026",€2.50m
+387,TSG 1899 Hoffenheim,Stanley Nsoki,Centre-Back,"1,84m",left,"Jun 30, 2027",€2.50m
+388,TSG 1899 Hoffenheim,David Jurásek,Left-Back,"1,83m",left,"Jun 30, 2025",€7.00m
+389,TSG 1899 Hoffenheim,Alexander Prass,Left-Back,"1,80m",left,"Jun 30, 2028",€6.50m
+390,TSG 1899 Hoffenheim,Christopher Lenz,Left-Back,"1,80m",left,-,€800k
+391,TSG 1899 Hoffenheim,Valentin Gendrey,Right-Back,"1,79m",right,-,€8.50m
+392,TSG 1899 Hoffenheim,Pavel Kaderabek,Right-Back,"1,82m",right,"Jun 30, 2025",€2.50m
+393,TSG 1899 Hoffenheim,Anton Stach,Defensive Midfield,"1,94m",right,"Jun 30, 2027",€14.00m
+394,TSG 1899 Hoffenheim,Diadié Samassékou,Defensive Midfield,"1,77m",right,"Jun 30, 2025",€1.00m
+395,TSG 1899 Hoffenheim,Tom Bischof,Central Midfield,"1,76m",left,"Jun 30, 2025",€25.00m
+396,TSG 1899 Hoffenheim,Umut Tohumcu,Central Midfield,"1,75m",right,"Jun 30, 2028",€7.00m
+397,TSG 1899 Hoffenheim,Grischa Prömel,Central Midfield,"1,84m",right,"Jun 30, 2026",€4.50m
+398,TSG 1899 Hoffenheim,Dennis Geiger,Central Midfield,"1,73m",right,"Jun 30, 2027",€3.00m
+399,TSG 1899 Hoffenheim,Finn Becker,Central Midfield,"1,77m",left,"Jun 30, 2026",€2.00m
+400,TSG 1899 Hoffenheim,Florian Micheler,Central Midfield,"1,85m",right,"Jun 30, 2026",€500k
+401,TSG 1899 Hoffenheim,Andrej Kramaric,Attacking Midfield,"1,77m",right,"Jun 30, 2026",€4.00m
+402,TSG 1899 Hoffenheim,Bazoumana Touré,Left Winger,-,left,"Jun 30, 2029",€9.00m
+403,TSG 1899 Hoffenheim,Marius Bülter,Left Winger,"1,88m",right,"Jun 30, 2026",€2.50m
+404,TSG 1899 Hoffenheim,Adam Hlozek,Second Striker,"1,88m",right,"Jun 30, 2029",€18.00m
+405,TSG 1899 Hoffenheim,Gift Orban,Centre-Forward,"1,78m",right,"Jun 30, 2029",€10.00m
+406,TSG 1899 Hoffenheim,Max Moerstedt,Centre-Forward,"1,94m",right,"Jun 30, 2027",€7.00m
+407,TSG 1899 Hoffenheim,Haris Tabakovic,Centre-Forward,"1,94m",right,"Jun 30, 2027",€3.00m
+408,TSG 1899 Hoffenheim,Erencan Yardımcı,Centre-Forward,"1,88m",right,-,€3.00m
+409,TSG 1899 Hoffenheim,Ihlas Bebou,Centre-Forward,"1,85m",right,"Jun 30, 2026",€2.80m
+410,TSG 1899 Hoffenheim,David Mokwa,Centre-Forward,"1,80m",right,"Jun 30, 2027",€1.00m
+411,VfB Stuttgart,Alexander Nübel,Goalkeeper,"1,93m",right,"Jun 30, 2026",€12.00m
+412,VfB Stuttgart,Dennis Seimen,Goalkeeper,"1,92m",left,"Jun 30, 2029",€1.50m
+413,VfB Stuttgart,Fabian Bredlow,Goalkeeper,"1,90m",both,"Jun 30, 2026",€1.00m
+414,VfB Stuttgart,Stefan Drljaca,Goalkeeper,"1,92m",right,"Jun 30, 2027",€325k
+415,VfB Stuttgart,Jeff Chabot,Centre-Back,"1,95m",left,"Jun 30, 2028",€12.00m
+416,VfB Stuttgart,Finn Jeltsch,Centre-Back,"1,88m",right,"Jun 30, 2030",€12.00m
+417,VfB Stuttgart,Ameen Al-Dakhil,Centre-Back,"1,87m",right,"Jun 30, 2028",€7.50m
+418,VfB Stuttgart,Luca Jaquez,Centre-Back,"1,87m",right,"Jun 30, 2029",€6.00m
+419,VfB Stuttgart,Dan-Axel Zagadou,Centre-Back,"1,96m",left,"Jun 30, 2026",€6.00m
+420,VfB Stuttgart,Anrie Chase,Centre-Back,"1,88m",right,-,€4.00m
+421,VfB Stuttgart,Maximilian Mittelstädt,Left-Back,"1,80m",left,"Jun 30, 2028",€20.00m
+422,VfB Stuttgart,Ramon Hendriks,Left-Back,"1,89m",left,"Jun 30, 2028",€5.00m
+423,VfB Stuttgart,Josha Vagnoman,Right-Back,"1,90m",right,"Jun 30, 2026",€12.00m
+424,VfB Stuttgart,Leonidas Stergiou,Right-Back,"1,81m",right,"Jun 30, 2028",€5.00m
+425,VfB Stuttgart,Pascal Stenzel,Right-Back,"1,83m",right,"Jun 30, 2026",€2.50m
+426,VfB Stuttgart,Angelo Stiller,Defensive Midfield,"1,83m",left,"Jun 30, 2028",€38.00m
+427,VfB Stuttgart,Atakan Karazor,Defensive Midfield,"1,91m",right,"Jun 30, 2028",€12.00m
+428,VfB Stuttgart,Yannik Keitel,Defensive Midfield,"1,86m",both,"Jun 30, 2028",€3.50m
+429,VfB Stuttgart,Nikolas Nartey,Central Midfield,"1,86m",left,"Jun 30, 2025",€400k
+430,VfB Stuttgart,Enzo Millot,Attacking Midfield,"1,75m",left,"Jun 30, 2028",€35.00m
+431,VfB Stuttgart,Chris Führich,Left Winger,"1,81m",right,"Jun 30, 2028",€18.00m
+432,VfB Stuttgart,Jacob Bruun Larsen,Left Winger,"1,83m",right,"Jun 30, 2027",€6.00m
+433,VfB Stuttgart,Justin Diehl,Left Winger,"1,74m",right,"Jun 30, 2029",€3.50m
+434,VfB Stuttgart,Jamie Leweling,Right Winger,"1,85m",both,"Jun 30, 2029",€20.00m
+435,VfB Stuttgart,Fabian Rieder,Right Winger,"1,79m",left,"Jun 30, 2025",€7.00m
+436,VfB Stuttgart,Luca Raimund,Right Winger,"1,88m",left,"Jun 30, 2026",€500k
+437,VfB Stuttgart,Nick Woltemade,Second Striker,"1,98m",right,"Jun 30, 2028",€17.00m
+438,VfB Stuttgart,Ermedin Demirovic,Centre-Forward,"1,85m",right,"Jun 30, 2028",€22.00m
+439,VfB Stuttgart,Deniz Undav,Centre-Forward,"1,79m",both,"Jun 30, 2027",€22.00m
+440,VfB Stuttgart,El Bilal Touré,Centre-Forward,"1,85m",both,"Jun 30, 2025",€17.00m
+441,VfB Stuttgart,Wahid Faghir,Centre-Forward,"1,86m",right,"Jun 30, 2026",€1.00m
+442,VfB Stuttgart,Thomas Kastanaras,Centre-Forward,"1,86m",,"Jun 30, 2026",€500k
+443,VfL Bochum,Timo Horn,Goalkeeper,"1,92m",left,"Jun 30, 2026",€800k
+444,VfL Bochum,Patrick Drewes,Goalkeeper,"1,94m",right,"Jun 30, 2026",€800k
+445,VfL Bochum,Paul Grave,Goalkeeper,"1,93m",right,"Jun 30, 2025",€50k
+446,VfL Bochum,Bernardo,Centre-Back,"1,86m",left,"Jun 30, 2025",€5.50m
+447,VfL Bochum,Tim Oermann,Centre-Back,"1,89m",right,"Jun 30, 2026",€5.00m
+448,VfL Bochum,Erhan Masovic,Centre-Back,"1,89m",both,"Jun 30, 2026",€3.00m
+449,VfL Bochum,Jakov Medic,Centre-Back,"1,93m",right,"Jun 30, 2025",€2.00m
+450,VfL Bochum,Ivan Ordets,Centre-Back,"1,95m",right,"Jun 30, 2026",€1.80m
+451,VfL Bochum,Mohammed Tolba,Centre-Back,"1,85m",right,"Jun 30, 2025",€200k
+452,VfL Bochum,Maximilian Wittek,Left-Back,"1,73m",left,"Jun 30, 2026",€2.00m
+453,VfL Bochum,Felix Passlack,Right-Back,"1,70m",right,"Jun 30, 2025",€2.50m
+454,VfL Bochum,Cristian Gamboa,Right-Back,"1,75m",right,"Jun 30, 2025",€500k
+455,VfL Bochum,Ibrahima Sissoko,Defensive Midfield,"1,93m",right,"Jun 30, 2027",€6.00m
+456,VfL Bochum,Anthony Losilla,Defensive Midfield,"1,85m",right,"Jun 30, 2025",€500k
+457,VfL Bochum,Niklas Jahn,Defensive Midfield,"1,72m",right,"Jun 30, 2027",€200k
+458,VfL Bochum,Tom Krauß,Central Midfield,"1,82m",right,"Jun 30, 2025",€4.00m
+459,VfL Bochum,Matus Bero,Central Midfield,"1,81m",right,"Jun 30, 2026",€3.50m
+460,VfL Bochum,Mats Pannewig,Central Midfield,"1,95m",,"Jun 30, 2026",€600k
+461,VfL Bochum,Koji Miyoshi,Right Midfield,"1,67m",left,"Jun 30, 2028",€1.80m
+462,VfL Bochum,Dani de Wit,Attacking Midfield,"1,84m",right,"Jun 30, 2028",€3.00m
+463,VfL Bochum,Georgios Masouras,Left Winger,"1,84m",right,"Jun 30, 2025",€3.20m
+464,VfL Bochum,Gerrit Holtmann,Left Winger,"1,85m",left,"Jun 30, 2025",€700k
+465,VfL Bochum,Samuel Bamba,Right Winger,"1,79m",both,"Jun 30, 2027",€800k
+466,VfL Bochum,Myron Boadu,Centre-Forward,"1,81m",right,"Jun 30, 2025",€7.00m
+467,VfL Bochum,Moritz Broschinski,Centre-Forward,"1,90m",right,"Jun 30, 2026",€2.50m
+468,VfL Bochum,Philipp Hofmann,Centre-Forward,"1,95m",left,"Jun 30, 2026",€1.50m
+469,VfL Wolfsburg,Kamil Grabara,Goalkeeper,"1,95m",right,-,€14.00m
+470,VfL Wolfsburg,Marius Müller,Goalkeeper,"1,92m",right,-,€1.50m
+471,VfL Wolfsburg,Pavao Pervan,Goalkeeper,"1,94m",both,"Jun 30, 2026",€300k
+472,VfL Wolfsburg,Niklas Klinger,Goalkeeper,"1,87m",right,"Jun 30, 2025",€100k
+473,VfL Wolfsburg,Konstantinos Koulierakis,Centre-Back,"1,88m",left,"Jun 30, 2029",€20.00m
+474,VfL Wolfsburg,Sebastiaan Bornauw,Centre-Back,"1,91m",right,"Jun 30, 2026",€7.00m
+475,VfL Wolfsburg,Denis Vavro,Centre-Back,"1,89m",right,"Jun 30, 2025",€7.00m
+476,VfL Wolfsburg,David Odogu,Centre-Back,"1,91m",right,-,€700k
+477,VfL Wolfsburg,Mathys Angély,Centre-Back,"1,90m",left,-,€600k
+478,VfL Wolfsburg,Joakim Maehle,Left-Back,"1,85m",right,"Jun 30, 2027",€14.00m
+479,VfL Wolfsburg,Rogério,Left-Back,"1,78m",left,"Jun 30, 2027",€3.50m
+480,VfL Wolfsburg,Mads Roerslev,Right-Back,"1,84m",right,"Jun 30, 2025",€8.00m
+481,VfL Wolfsburg,Kilian Fischer,Right-Back,"1,82m",both,"Jun 30, 2027",€6.00m
+482,VfL Wolfsburg,Mattias Svanberg,Central Midfield,"1,85m",right,"Jun 30, 2027",€12.00m
+483,VfL Wolfsburg,Aster Vranckx,Central Midfield,"1,83m",right,"Jun 30, 2029",€9.00m
+484,VfL Wolfsburg,Maximilian Arnold,Central Midfield,"1,84m",left,"Jun 30, 2026",€7.00m
+485,VfL Wolfsburg,Yannick Gerhardt,Central Midfield,"1,84m",left,-,€3.00m
+486,VfL Wolfsburg,Kevin Paredes,Left Midfield,"1,75m",left,"Jun 30, 2026",€7.50m
+487,VfL Wolfsburg,Lovro Majer,Attacking Midfield,"1,78m",left,"Jun 30, 2028",€20.00m
+488,VfL Wolfsburg,Bence Dárdai,Attacking Midfield,"1,89m",right,-,€9.00m
+489,VfL Wolfsburg,Bennit Bröger,Attacking Midfield,"1,81m",,"Jun 30, 2025",€500k
+490,VfL Wolfsburg,Jakub Kaminski,Left Winger,"1,79m",right,"Jun 30, 2027",€6.00m
+491,VfL Wolfsburg,Andreas Skov Olsen,Right Winger,"1,87m",left,"Jun 30, 2029",€16.00m
+492,VfL Wolfsburg,Patrick Wimmer,Right Winger,"1,82m",right,"Jun 30, 2027",€15.00m
+493,VfL Wolfsburg,Mohamed Amoura,Centre-Forward,"1,70m",right,"Jun 30, 2025",€32.00m
+494,VfL Wolfsburg,Jonas Wind,Centre-Forward,"1,90m",right,"Jun 30, 2026",€15.00m
+495,VfL Wolfsburg,Tiago Tomás,Centre-Forward,"1,80m",right,"Jun 30, 2027",€12.00m
+496,VfL Wolfsburg,Lukas Nmecha,Centre-Forward,"1,85m",right,"Jun 30, 2025",€3.00m
+497,VfL Wolfsburg,Kevin Behrens,Centre-Forward,"1,85m",both,"Jun 30, 2025",€1.50m
+498,VfL Wolfsburg,Bartosz Bialek,Centre-Forward,"1,91m",right,"Jun 30, 2025",€800k
